@@ -1,0 +1,44 @@
+{
+  "id": "vac_501",
+  "title": "DevOps Engineer (CI/CD, Docker, Kubernetes)",
+  "department": "Infrastructure",
+  "location": "Remote",
+  "level": "middle",
+  "must_have": [
+    {
+      "skill": "Linux",
+      "weight": 3
+    },
+    {
+      "skill": "Docker",
+      "weight": 3
+    },
+    {
+      "skill": "CI/CD",
+      "weight": 3
+    },
+    {
+      "skill": "GitLab CI",
+      "weight": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "weight": 3
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "Prometheus",
+      "weight": 1
+    },
+    {
+      "skill": "Grafana",
+      "weight": 1
+    },
+    {
+      "skill": "Terraform",
+      "weight": 1
+    }
+  ],
+  "description_text": "Сборка и деплой, пайплайны, контейнеры, k8s окружения, мониторинг."
+}

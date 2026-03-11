@@ -1,0 +1,54 @@
+{
+  "id": "res_025",
+  "fio": "Смирнов Сергей",
+  "city": "Berlin",
+  "email": "user025@example.com",
+  "phone": "+49 151 0000025",
+  "target_role": "Project Manager",
+  "level": "senior",
+  "experience_years": 7,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Accessibility",
+    "Agile",
+    "Ansible",
+    "Django",
+    "тайм-менеджмент",
+    "управление рисками"
+  ],
+  "projects": [
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "Jira",
+        "коммуникация"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2016
+    }
+  ],
+  "certificates": [
+    "курс QA",
+    "курс Figma"
+  ],
+  "text": "Смирнов Сергей, Berlin\nEmail: user025@example.com | Тел.: +49 151 0000025\nЦель: Project Manager (senior)\n\nНавыки:\n- доступность, kanban, Ansible, django, тайм-менеджмент, управление рисками\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\n2) Ведение проекта — спринты, риски, коммуникация\nСтек: kanban, Jira, коммуникация\n\nСтаж: 7 лет\n"
+}

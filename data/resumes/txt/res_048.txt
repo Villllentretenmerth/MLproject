@@ -1,0 +1,20 @@
+Соколова Анна, Hamburg
+Email: user048@example.com | Тел.: +49 151 0000048
+Цель: Python Backend (senior)
+
+Навыки:
+- Ansible, Jira, debian, Prototyping, ux research
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Поддержка качества: ревью, документация, улучшения процессов.
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: ubuntu, python, message queue, Docker
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: py, rest, T-SQL, postgres
+
+Стаж: 8 лет

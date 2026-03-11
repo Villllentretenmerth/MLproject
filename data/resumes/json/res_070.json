@@ -1,0 +1,58 @@
+{
+  "id": "res_070",
+  "fio": "Морозов Анна",
+  "city": "Berlin",
+  "email": "user070@example.com",
+  "phone": "+49 151 0000070",
+  "target_role": "Python Backend",
+  "level": "senior",
+  "experience_years": 7,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Helm",
+    "PostgreSQL",
+    "Prototyping",
+    "Python",
+    "REST",
+    "RabbitMQ",
+    "Wireframing"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "RabbitMQ",
+        "Docker",
+        "Linux"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "REST",
+        "PostgreSQL",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [
+    "курс SQL",
+    "курс Python"
+  ],
+  "text": "Морозов Анна, Berlin\nEmail: user070@example.com | Тел.: +49 151 0000070\nЦель: Python Backend (senior)\n\nНавыки:\n- Helm, postgres, prototypes, python, rest, message queue, Wireframing\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: Python, RabbitMQ, Docker, ubuntu\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: Python, rest api, Postgres, T-SQL\n\nСтаж: 7 лет\n"
+}

@@ -1,0 +1,20 @@
+Соколова Сергей, Berlin
+Email: user006@example.com | Тел.: +49 151 0000006
+Цель: Python Backend (middle)
+
+Навыки:
+- Agile, django, контейнеризация, debian, playwright, python, quality assurance
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Поддержка качества: ревью, документация, улучшения процессов.
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+
+Проекты:
+1) REST сервис — CRUD API, авторизация, интеграции
+Стек: python, rest, SQL, pgsql
+
+2) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: py, Docker, ubuntu, RabbitMQ
+
+Стаж: 3 лет

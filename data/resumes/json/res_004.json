@@ -1,0 +1,51 @@
+{
+  "id": "res_004",
+  "fio": "Новикова Игорь",
+  "city": "Potsdam",
+  "email": "user004@example.com",
+  "phone": "+49 151 0000004",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 2,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "API testing",
+    "Accessibility",
+    "Airflow",
+    "Information Architecture",
+    "Jira",
+    "PyTest"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Jira",
+        "Agile",
+        "коммуникация"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [],
+  "text": "Новикова Игорь, Potsdam\nEmail: user004@example.com | Тел.: +49 151 0000004\nЦель: Project Manager (middle)\n\nНавыки:\n- api testing, Accessibility, Apache Airflow, информационная архитектура, Jira, py.test\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: Jira, Agile, коммуникация\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\nСтаж: 2 лет\n"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vac_601",
+  "title": "Project Manager (IT / Agile)",
+  "department": "Delivery",
+  "location": "Berlin / Hybrid",
+  "level": "middle",
+  "must_have": [
+    {
+      "skill": "Agile",
+      "weight": 3
+    },
+    {
+      "skill": "Jira",
+      "weight": 3
+    },
+    {
+      "skill": "коммуникация",
+      "weight": 3
+    },
+    {
+      "skill": "тайм-менеджмент",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "Confluence",
+      "weight": 1
+    },
+    {
+      "skill": "управление рисками",
+      "weight": 1
+    },
+    {
+      "skill": "фасилитация",
+      "weight": 1
+    }
+  ],
+  "description_text": "Ведение проекта, планирование спринтов, управление ожиданиями, риски, коммуникации."
+}

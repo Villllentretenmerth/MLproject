@@ -1,0 +1,48 @@
+{
+  "id": "vac_701",
+  "title": "UX/UI Designer (Figma)",
+  "department": "Product Design",
+  "location": "Remote",
+  "level": "middle",
+  "must_have": [
+    {
+      "skill": "Figma",
+      "weight": 4
+    },
+    {
+      "skill": "UX Design",
+      "weight": 3
+    },
+    {
+      "skill": "UI Design",
+      "weight": 3
+    },
+    {
+      "skill": "Wireframing",
+      "weight": 2
+    },
+    {
+      "skill": "Prototyping",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "User Research",
+      "weight": 1
+    },
+    {
+      "skill": "Usability Testing",
+      "weight": 1
+    },
+    {
+      "skill": "Design System",
+      "weight": 1
+    },
+    {
+      "skill": "Accessibility",
+      "weight": 1
+    }
+  ],
+  "description_text": "Проектирование UX-flow, прототипирование, дизайн UI в Figma. Плюсом исследования и участие в дизайн-системе."
+}

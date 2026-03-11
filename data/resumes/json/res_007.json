@@ -1,0 +1,52 @@
+{
+  "id": "res_007",
+  "fio": "Петрова Никита",
+  "city": "Berlin",
+  "email": "user007@example.com",
+  "phone": "+49 151 0000007",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "strong",
+  "expected_score_range": [
+    80,
+    100
+  ],
+  "skills": [
+    "Agile",
+    "Confluence",
+    "Power BI",
+    "Wireframing",
+    "коммуникация",
+    "продуктовое мышление",
+    "тайм-менеджмент"
+  ],
+  "projects": [
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "коммуникация",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2023
+    }
+  ],
+  "certificates": [],
+  "text": "Петрова Никита, Berlin\nEmail: user007@example.com | Тел.: +49 151 0000007\nЦель: Project Manager (middle)\n\nНавыки:\n- scrum, Confluence, PowerBI, wireframes, коммуникация, продуктовое мышление, тайм-менеджмент\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\n2) Ведение проекта — спринты, риски, коммуникация\nСтек: scrum, коммуникация, Jira\n\nСтаж: 4 лет\n"
+}

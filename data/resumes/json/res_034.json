@@ -1,0 +1,57 @@
+{
+  "id": "res_034",
+  "fio": "Соколова Ольга",
+  "city": "Berlin",
+  "email": "user034@example.com",
+  "phone": "+49 151 0000034",
+  "target_role": "Python Backend",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Django",
+    "Docker",
+    "Linux",
+    "NumPy",
+    "Prototyping",
+    "REST",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Docker",
+        "Linux",
+        "Python",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "REST",
+        "SQL",
+        "Python",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [
+    "курс PM"
+  ],
+  "text": "Соколова Ольга, Berlin\nEmail: user034@example.com | Тел.: +49 151 0000034\nЦель: Python Backend (middle)\n\nНавыки:\n- django, Docker, Linux, NumPy, prototypes, rest api, sql\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: containers, debian, python, RabbitMQ\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: REST API, T-SQL, python, postgres\n\nСтаж: 3 лет\n"
+}

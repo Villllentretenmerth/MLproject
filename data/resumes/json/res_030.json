@@ -1,0 +1,53 @@
+{
+  "id": "res_030",
+  "fio": "Смирнов Анна",
+  "city": "Hamburg",
+  "email": "user030@example.com",
+  "phone": "+49 151 0000030",
+  "target_role": "Data Analyst",
+  "level": "senior",
+  "experience_years": 7,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "API testing",
+    "Git",
+    "GitLab CI",
+    "Linux",
+    "Pandas",
+    "Playwright",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Pandas",
+        "SQL",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [],
+  "text": "Смирнов Анна, Hamburg\nEmail: user030@example.com | Тел.: +49 151 0000030\nЦель: Data Analyst (senior)\n\nНавыки:\n- API testing, Git, GitLab CI, debian, pandas, Playwright, T-SQL\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: SQL, powerbi, ms excel\n\n2) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: pandas, T-SQL, py\n\nСтаж: 7 лет\n"
+}

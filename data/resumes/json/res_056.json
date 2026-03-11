@@ -1,0 +1,57 @@
+{
+  "id": "res_056",
+  "fio": "Новикова Елена",
+  "city": "Berlin",
+  "email": "user056@example.com",
+  "phone": "+49 151 0000056",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 2,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "CI/CD",
+    "Docker",
+    "GitLab CI",
+    "Helm",
+    "Kafka",
+    "Linux",
+    "REST",
+    "Terraform"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "Jira",
+        "коммуникация"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2020
+    }
+  ],
+  "certificates": [
+    "курс Power BI",
+    "курс SQL",
+    "курс Docker"
+  ],
+  "text": "Новикова Елена, Berlin\nEmail: user056@example.com | Тел.: +49 151 0000056\nЦель: Project Manager (middle)\n\nНавыки:\n- pipeline, containers, GitlabCI, Helm, Kafka, linux, REST API, Terraform\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: scrum, Jira, коммуникация\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\nСтаж: 2 лет\n"
+}

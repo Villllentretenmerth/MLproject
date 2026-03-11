@@ -1,0 +1,60 @@
+{
+  "id": "res_005",
+  "fio": "Морозов Елена",
+  "city": "Munich",
+  "email": "user005@example.com",
+  "phone": "+49 151 0000005",
+  "target_role": "UX/UI Designer",
+  "level": "senior",
+  "experience_years": 5,
+  "quality_label": "strong",
+  "expected_score_range": [
+    80,
+    100
+  ],
+  "skills": [
+    "Accessibility",
+    "Figma",
+    "Information Architecture",
+    "Power BI",
+    "Prometheus",
+    "UI Design",
+    "UX Design",
+    "Wireframing"
+  ],
+  "projects": [
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Accessibility",
+        "Figma",
+        "Design System"
+      ]
+    },
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "Figma",
+        "UX Design",
+        "UI Design",
+        "Wireframing",
+        "Prototyping"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2020
+    }
+  ],
+  "certificates": [
+    "курс Power BI",
+    "курс Figma",
+    "курс Python"
+  ],
+  "text": "Морозов Елена, Munich\nEmail: user005@example.com | Тел.: +49 151 0000005\nЦель: UX/UI Designer (senior)\n\nНавыки:\n- доступность, figma, ia, PowerBI, Prometheus, UI Design, UX Design, вайрфреймы\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: Accessibility, Figma, Design System\n\n2) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: Figma, пользовательские сценарии, ui, вайрфреймы, прототипирование\n\nСтаж: 5 лет\n"
+}

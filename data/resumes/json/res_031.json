@@ -1,0 +1,51 @@
+{
+  "id": "res_031",
+  "fio": "Кузнецова Ольга",
+  "city": "Berlin",
+  "email": "user031@example.com",
+  "phone": "+49 151 0000031",
+  "target_role": "Project Manager",
+  "level": "senior",
+  "experience_years": 8,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Accessibility",
+    "Design System",
+    "Docker",
+    "Excel",
+    "Usability Testing",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "коммуникация",
+        "Agile",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2022
+    }
+  ],
+  "certificates": [],
+  "text": "Кузнецова Ольга, Berlin\nEmail: user031@example.com | Тел.: +49 151 0000031\nЦель: Project Manager (senior)\n\nНавыки:\n- Accessibility, Design System, контейнеризация, ms excel, Usability Testing, коммуникация\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: коммуникация, kanban, Jira\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\nСтаж: 8 лет\n"
+}

@@ -1,0 +1,20 @@
+Морозов Ирина, Leipzig
+Email: user036@example.com | Тел.: +49 151 0000036
+Цель: UX/UI Designer (senior)
+
+Навыки:
+- Airflow, Figma, Prototyping, Tableau, ui, пользовательские сценарии, usability testing, custdev
+
+Опыт:
+2022–2026 UX/UI Designer — CompanyX
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+
+Проекты:
+1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI
+Стек: figma, ux design, ui design, Prototyping, Wireframing
+
+2) Дизайн-система — компоненты, гайдлайны, доступность
+Стек: Figma, Design System, Accessibility
+
+Стаж: 6 лет

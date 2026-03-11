@@ -1,0 +1,52 @@
+{
+  "id": "res_012",
+  "fio": "Сидоров Ирина",
+  "city": "Leipzig",
+  "email": "user012@example.com",
+  "phone": "+49 151 0000012",
+  "target_role": "QA Engineer",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Airflow",
+    "ETL",
+    "Git",
+    "Kubernetes",
+    "PyTest",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "PyTest",
+        "Playwright",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "SQL",
+        "Testing",
+        "API testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2016
+    }
+  ],
+  "certificates": [],
+  "text": "Сидоров Ирина, Leipzig\nEmail: user012@example.com | Тел.: +49 151 0000012\nЦель: QA Engineer (middle)\n\nНавыки:\n- Apache Airflow, data pipeline, Git, Kubernetes, py.test, SQL\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Автотесты (база) — smoke e2e, отчётность\nСтек: PyTest, Playwright, cicd\n\n2) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: sql, тестирование, postman\n\nСтаж: 3 лет\n"
+}

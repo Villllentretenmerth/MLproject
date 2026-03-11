@@ -1,0 +1,59 @@
+{
+  "id": "res_052",
+  "fio": "Иванов Мария",
+  "city": "Berlin",
+  "email": "user052@example.com",
+  "phone": "+49 151 0000052",
+  "target_role": "UX/UI Designer",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Prototyping",
+    "Selenium",
+    "UI Design",
+    "Usability Testing",
+    "Wireframing",
+    "тайм-менеджмент",
+    "фасилитация"
+  ],
+  "projects": [
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "UI Design",
+        "Wireframing",
+        "Prototyping",
+        "Figma",
+        "UX Design"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс Figma",
+    "курс PM"
+  ],
+  "text": "Иванов Мария, Berlin\nEmail: user052@example.com | Тел.: +49 151 0000052\nЦель: UX/UI Designer (middle)\n\nНавыки:\n- prototypes, Selenium, интерфейсы, юзабилити тестирование, вайрфреймы, тайм-менеджмент, фасилитация\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: дизайн-система, доступность, figma\n\n2) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: ui, вайрфреймы, прототипирование, figma, ux design\n\nСтаж: 4 лет\n"
+}

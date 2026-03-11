@@ -1,0 +1,57 @@
+{
+  "id": "res_015",
+  "fio": "Волков Ольга",
+  "city": "Berlin",
+  "email": "user015@example.com",
+  "phone": "+49 151 0000015",
+  "target_role": "QA Engineer",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "strong",
+  "expected_score_range": [
+    80,
+    100
+  ],
+  "skills": [
+    "API testing",
+    "Confluence",
+    "Excel",
+    "Git",
+    "Linux",
+    "SQL",
+    "Selenium"
+  ],
+  "projects": [
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "PyTest",
+        "Playwright",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "API testing",
+        "SQL",
+        "Testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2020
+    }
+  ],
+  "certificates": [
+    "курс DevOps",
+    "курс SQL",
+    "курс Power BI"
+  ],
+  "text": "Волков Ольга, Berlin\nEmail: user015@example.com | Тел.: +49 151 0000015\nЦель: QA Engineer (junior)\n\nНавыки:\n- postman, Confluence, Excel, Git, Linux, T-SQL, seleniun\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Автотесты (база) — smoke e2e, отчётность\nСтек: PyTest, playwright, ci/cd\n\n2) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: тестирование api, sql, Testing\n\nСтаж: 1 лет\n"
+}

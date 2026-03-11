@@ -1,0 +1,20 @@
+Петрова Мария, Berlin
+Email: user035@example.com | Тел.: +49 151 0000035
+Цель: Python Backend (middle)
+
+Навыки:
+- data pipeline, Figma, numpy, pgsql, Prometheus, python
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Поддержка качества: ревью, документация, улучшения процессов.
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: Python, message queue, docker, Linux
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: python, pgsql, REST API, SQL
+
+Стаж: 4 лет

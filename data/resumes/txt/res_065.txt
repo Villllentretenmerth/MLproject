@@ -1,0 +1,20 @@
+Смирнов Никита, Hamburg
+Email: user065@example.com | Тел.: +49 151 0000065
+Цель: Python Backend (middle)
+
+Навыки:
+- django, containers, Kafka, Linux, Postgres, py.test, py, Redis, T-SQL, Terraform
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+
+Проекты:
+1) REST сервис — CRUD API, авторизация, интеграции
+Стек: Python, sql, Postgres, REST
+
+2) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: py, containers, linux, rabbitmq
+
+Стаж: 3 лет

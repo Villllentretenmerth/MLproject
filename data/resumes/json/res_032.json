@@ -1,0 +1,54 @@
+{
+  "id": "res_032",
+  "fio": "Соколова Ирина",
+  "city": "Hamburg",
+  "email": "user032@example.com",
+  "phone": "+49 151 0000032",
+  "target_role": "QA Engineer",
+  "level": "senior",
+  "experience_years": 7,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Jira",
+    "Kubernetes",
+    "Playwright",
+    "Power BI",
+    "SQL",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "Playwright",
+        "PyTest",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "Testing",
+        "SQL",
+        "API testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2017
+    }
+  ],
+  "certificates": [
+    "курс Power BI"
+  ],
+  "text": "Соколова Ирина, Hamburg\nEmail: user032@example.com | Тел.: +49 151 0000032\nЦель: QA Engineer (senior)\n\nНавыки:\n- Jira, k8s, Playwright, Power BI, T-SQL, Testing\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Автотесты (база) — smoke e2e, отчётность\nСтек: Playwright, PyTest, cicd\n\n2) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: тестирование, sql, postman\n\nСтаж: 7 лет\n"
+}

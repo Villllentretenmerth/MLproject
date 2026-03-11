@@ -1,0 +1,40 @@
+{
+  "id": "vac_102",
+  "title": "Junior Python Backend Developer (Django)",
+  "department": "Core",
+  "location": "Remote",
+  "level": "junior",
+  "must_have": [
+    {
+      "skill": "Python",
+      "weight": 4
+    },
+    {
+      "skill": "Django",
+      "weight": 3
+    },
+    {
+      "skill": "SQL",
+      "weight": 3
+    },
+    {
+      "skill": "PostgreSQL",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "Docker",
+      "weight": 1
+    },
+    {
+      "skill": "REST",
+      "weight": 1
+    },
+    {
+      "skill": "CI/CD",
+      "weight": 1
+    }
+  ],
+  "description_text": "Разработка серверной части на Django, работа с БД, API, базовые практики dev."
+}

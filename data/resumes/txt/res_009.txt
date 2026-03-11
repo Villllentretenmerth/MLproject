@@ -1,0 +1,20 @@
+Петрова Игорь, Munich
+Email: user009@example.com | Тел.: +49 151 0000009
+Цель: Python Backend (middle)
+
+Навыки:
+- ci/cd, NumPy, python, Terraform, quality assurance, ux research
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) REST сервис — CRUD API, авторизация, интеграции
+Стек: python, REST, SQL-запросы, Postgres
+
+2) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: py, rabbitmq, Docker, ubuntu
+
+Стаж: 4 лет

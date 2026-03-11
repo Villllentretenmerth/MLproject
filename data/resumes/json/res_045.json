@@ -1,0 +1,53 @@
+{
+  "id": "res_045",
+  "fio": "Петрова Артём",
+  "city": "Munich",
+  "email": "user045@example.com",
+  "phone": "+49 151 0000045",
+  "target_role": "Data Analyst",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "API testing",
+    "Django",
+    "Git",
+    "Playwright",
+    "PostgreSQL",
+    "Selenium",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [],
+  "text": "Петрова Артём, Munich\nEmail: user045@example.com | Тел.: +49 151 0000045\nЦель: Data Analyst (junior)\n\nНавыки:\n- postman, Django, git, playwright, PostgreSQL, seleniun, qa\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: Python, Pandas, SQL-запросы\n\n2) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: SQL, PowerBI, excel\n\nСтаж: 1 лет\n"
+}

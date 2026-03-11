@@ -1,0 +1,20 @@
+Морозов Ольга, Munich
+Email: user047@example.com | Тел.: +49 151 0000047
+Цель: Python Backend (middle)
+
+Навыки:
+- postman, Ansible, django, ubuntu, playwright, SQL, quality assurance
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: linux, py, очереди сообщений, контейнеризация
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: SQL, Python, REST API, postgres
+
+Стаж: 4 лет

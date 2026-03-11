@@ -1,0 +1,20 @@
+Сидоров Игорь, Potsdam
+Email: user059@example.com | Тел.: +49 151 0000059
+Цель: Python Backend (middle)
+
+Навыки:
+- kanban, airflow, Confluence, Jira, вайрфреймы, stakeholder management, тайм-менеджмент
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: py, rabbitmq, Docker, ubuntu
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: python, rest, sql, pgsql
+
+Стаж: 3 лет

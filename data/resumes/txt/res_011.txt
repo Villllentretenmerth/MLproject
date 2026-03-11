@@ -1,0 +1,20 @@
+Новикова Игорь, Munich
+Email: user011@example.com | Тел.: +49 151 0000011
+Цель: UX/UI Designer (junior)
+
+Навыки:
+- django, git, Information Architecture, prototype, ui design, wireframes, тайм-менеджмент
+
+Опыт:
+2022–2026 UX/UI Designer — CompanyX
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI
+Стек: ui design, wireframes, prototypes, figma, пользовательские сценарии
+
+2) Дизайн-система — компоненты, гайдлайны, доступность
+Стек: design system, accessibility, Figma
+
+Стаж: 0 лет

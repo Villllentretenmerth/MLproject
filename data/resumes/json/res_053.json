@@ -1,0 +1,56 @@
+{
+  "id": "res_053",
+  "fio": "Морозов Сергей",
+  "city": "Berlin",
+  "email": "user053@example.com",
+  "phone": "+49 151 0000053",
+  "target_role": "QA Engineer",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "API testing",
+    "Django",
+    "Jira",
+    "Power BI",
+    "Tableau",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "PyTest",
+        "Playwright",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "API testing",
+        "Testing",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [
+    "курс Power BI",
+    "курс SQL",
+    "курс QA"
+  ],
+  "text": "Морозов Сергей, Berlin\nEmail: user053@example.com | Тел.: +49 151 0000053\nЦель: QA Engineer (junior)\n\nНавыки:\n- postman, django, Jira, Power BI, Tableau, коммуникация\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Автотесты (база) — smoke e2e, отчётность\nСтек: pytest, playwright, пайплайн\n\n2) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: API testing, Testing, T-SQL\n\nСтаж: 0 лет\n"
+}

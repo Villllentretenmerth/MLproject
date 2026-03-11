@@ -1,0 +1,59 @@
+{
+  "id": "res_011",
+  "fio": "Новикова Игорь",
+  "city": "Munich",
+  "email": "user011@example.com",
+  "phone": "+49 151 0000011",
+  "target_role": "UX/UI Designer",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Django",
+    "Git",
+    "Information Architecture",
+    "Prototyping",
+    "UI Design",
+    "Wireframing",
+    "тайм-менеджмент"
+  ],
+  "projects": [
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "UI Design",
+        "Wireframing",
+        "Prototyping",
+        "Figma",
+        "UX Design"
+      ]
+    },
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2019
+    }
+  ],
+  "certificates": [
+    "курс Figma",
+    "курс DevOps",
+    "курс PM"
+  ],
+  "text": "Новикова Игорь, Munich\nEmail: user011@example.com | Тел.: +49 151 0000011\nЦель: UX/UI Designer (junior)\n\nНавыки:\n- django, git, Information Architecture, prototype, ui design, wireframes, тайм-менеджмент\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: ui design, wireframes, prototypes, figma, пользовательские сценарии\n\n2) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: design system, accessibility, Figma\n\nСтаж: 0 лет\n"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "res_006",
+  "fio": "Соколова Сергей",
+  "city": "Berlin",
+  "email": "user006@example.com",
+  "phone": "+49 151 0000006",
+  "target_role": "Python Backend",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Agile",
+    "Django",
+    "Docker",
+    "Linux",
+    "Playwright",
+    "Python",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "REST",
+        "SQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "Docker",
+        "Linux",
+        "RabbitMQ"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2016
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс Python",
+    "курс QA"
+  ],
+  "text": "Соколова Сергей, Berlin\nEmail: user006@example.com | Тел.: +49 151 0000006\nЦель: Python Backend (middle)\n\nНавыки:\n- Agile, django, контейнеризация, debian, playwright, python, quality assurance\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) REST сервис — CRUD API, авторизация, интеграции\nСтек: python, rest, SQL, pgsql\n\n2) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: py, Docker, ubuntu, RabbitMQ\n\nСтаж: 3 лет\n"
+}

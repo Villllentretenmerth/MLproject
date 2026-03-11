@@ -1,0 +1,55 @@
+{
+  "id": "res_042",
+  "fio": "Смирнов Сергей",
+  "city": "Hamburg",
+  "email": "user042@example.com",
+  "phone": "+49 151 0000042",
+  "target_role": "UX/UI Designer",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Information Architecture",
+    "Linux",
+    "Playwright",
+    "Prototyping",
+    "UI Design",
+    "UX Design",
+    "stakeholder management"
+  ],
+  "projects": [
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "UX Design",
+        "UI Design",
+        "Prototyping",
+        "Figma",
+        "Wireframing"
+      ]
+    },
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2023
+    }
+  ],
+  "certificates": [],
+  "text": "Смирнов Сергей, Hamburg\nEmail: user042@example.com | Тел.: +49 151 0000042\nЦель: UX/UI Designer (middle)\n\nНавыки:\n- ia, debian, Playwright, прототипирование, ui, ux, stakeholder management\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: UX Design, ui design, прототипирование, figma, Wireframing\n\n2) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: Design System, a11y, Figma\n\nСтаж: 3 лет\n"
+}

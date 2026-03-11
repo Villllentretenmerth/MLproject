@@ -1,0 +1,57 @@
+{
+  "id": "res_060",
+  "fio": "Петрова Никита",
+  "city": "Potsdam",
+  "email": "user060@example.com",
+  "phone": "+49 151 0000060",
+  "target_role": "DevOps",
+  "level": "senior",
+  "experience_years": 9,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "API testing",
+    "CI/CD",
+    "Git",
+    "Jira",
+    "Selenium",
+    "Tableau",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "CI/CD для сервиса",
+      "summary": "пайплайны сборки и деплой",
+      "stack": [
+        "CI/CD",
+        "GitLab CI",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Kubernetes окружение",
+      "summary": "деплой, конфиги, сервисы",
+      "stack": [
+        "Kubernetes",
+        "Linux",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс Power BI",
+    "курс DevOps"
+  ],
+  "text": "Петрова Никита, Potsdam\nEmail: user060@example.com | Тел.: +49 151 0000060\nЦель: DevOps (senior)\n\nНавыки:\n- api testing, ci/cd, Git, Jira, selenium, tableau, тестирование\n\nОпыт:\n2022–2026 DevOps — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) CI/CD для сервиса — пайплайны сборки и деплой\nСтек: CI/CD, GitlabCI, контейнеризация\n\n2) Kubernetes окружение — деплой, конфиги, сервисы\nСтек: k8s, linux, docker\n\nСтаж: 9 лет\n"
+}

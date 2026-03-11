@@ -1,0 +1,56 @@
+{
+  "id": "res_024",
+  "fio": "Волков Ольга",
+  "city": "Munich",
+  "email": "user024@example.com",
+  "phone": "+49 151 0000024",
+  "target_role": "UX/UI Designer",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Ansible",
+    "Linux",
+    "NumPy",
+    "SQL",
+    "Wireframing",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "Wireframing",
+        "Figma",
+        "UX Design",
+        "UI Design",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2016
+    }
+  ],
+  "certificates": [
+    "курс Docker"
+  ],
+  "text": "Волков Ольга, Munich\nEmail: user024@example.com | Тел.: +49 151 0000024\nЦель: UX/UI Designer (junior)\n\nНавыки:\n- Ansible, Linux, NumPy, SQL-запросы, wireframes, коммуникация\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: Wireframing, Figma, ux design, ui, prototype\n\n2) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: дизайн-система, доступность, Figma\n\nСтаж: 0 лет\n"
+}

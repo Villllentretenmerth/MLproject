@@ -1,0 +1,59 @@
+{
+  "id": "res_068",
+  "fio": "Морозов Сергей",
+  "city": "Hamburg",
+  "email": "user068@example.com",
+  "phone": "+49 151 0000068",
+  "target_role": "Python Backend",
+  "level": "middle",
+  "experience_years": 2,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Docker",
+    "Excel",
+    "GitLab CI",
+    "Information Architecture",
+    "Python",
+    "SQL",
+    "фасилитация"
+  ],
+  "projects": [
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "SQL",
+        "REST",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "Docker",
+        "RabbitMQ",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2022
+    }
+  ],
+  "certificates": [
+    "курс Figma",
+    "курс QA",
+    "курс Power BI"
+  ],
+  "text": "Морозов Сергей, Hamburg\nEmail: user068@example.com | Тел.: +49 151 0000068\nЦель: Python Backend (middle)\n\nНавыки:\n- docker, excel, GitlabCI, ia, python, SQL-запросы, фасилитация\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) REST сервис — CRUD API, авторизация, интеграции\nСтек: python, T-SQL, rest, Postgres\n\n2) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: python, Docker, RabbitMQ, Linux\n\nСтаж: 2 лет\n"
+}

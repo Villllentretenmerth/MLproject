@@ -1,0 +1,55 @@
+{
+  "id": "res_049",
+  "fio": "Морозов Анна",
+  "city": "Hamburg",
+  "email": "user049@example.com",
+  "phone": "+49 151 0000049",
+  "target_role": "QA Engineer",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Confluence",
+    "PyTest",
+    "REST",
+    "RabbitMQ",
+    "SQL",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "PyTest",
+        "Playwright",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "Testing",
+        "SQL",
+        "API testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [
+    "курс QA",
+    "курс Figma"
+  ],
+  "text": "Морозов Анна, Hamburg\nEmail: user049@example.com | Тел.: +49 151 0000049\nЦель: QA Engineer (middle)\n\nНавыки:\n- Confluence, py.test, rest api, rabbitmq, SQL, тестирование\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Автотесты (база) — smoke e2e, отчётность\nСтек: PyTest, playwright, CI/CD\n\n2) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: qa, SQL-запросы, API testing\n\nСтаж: 3 лет\n"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vac_301",
+  "title": "QA Engineer (Manual + API)",
+  "department": "QA",
+  "location": "Remote",
+  "level": "middle",
+  "must_have": [
+    {
+      "skill": "Testing",
+      "weight": 4
+    },
+    {
+      "skill": "API testing",
+      "weight": 3
+    },
+    {
+      "skill": "SQL",
+      "weight": 2
+    },
+    {
+      "skill": "Git",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "PyTest",
+      "weight": 1
+    },
+    {
+      "skill": "Playwright",
+      "weight": 1
+    },
+    {
+      "skill": "CI/CD",
+      "weight": 1
+    },
+    {
+      "skill": "Linux",
+      "weight": 1
+    }
+  ],
+  "description_text": "Функциональное/регрессионное тестирование, API testing (Postman), SQL-проверки. Плюсом pytest/playwright и CI/CD."
+}

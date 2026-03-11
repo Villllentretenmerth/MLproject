@@ -1,0 +1,20 @@
+Морозов Анна, Berlin
+Email: user070@example.com | Тел.: +49 151 0000070
+Цель: Python Backend (senior)
+
+Навыки:
+- Helm, postgres, prototypes, python, rest, message queue, Wireframing
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: Python, RabbitMQ, Docker, ubuntu
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: Python, rest api, Postgres, T-SQL
+
+Стаж: 7 лет

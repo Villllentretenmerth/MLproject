@@ -1,0 +1,58 @@
+{
+  "id": "res_013",
+  "fio": "Кузнецова Ольга",
+  "city": "Leipzig",
+  "email": "user013@example.com",
+  "phone": "+49 151 0000013",
+  "target_role": "Python Backend",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Agile",
+    "Git",
+    "Information Architecture",
+    "PostgreSQL",
+    "UX Design",
+    "User Research"
+  ],
+  "projects": [
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "PostgreSQL",
+        "Python",
+        "REST",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "RabbitMQ",
+        "Docker",
+        "Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс DevOps",
+    "курс Power BI"
+  ],
+  "text": "Кузнецова Ольга, Leipzig\nEmail: user013@example.com | Тел.: +49 151 0000013\nЦель: Python Backend (junior)\n\nНавыки:\n- kanban, Git, Information Architecture, pgsql, пользовательские сценарии, User Research\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) REST сервис — CRUD API, авторизация, интеграции\nСтек: PostgreSQL, python, rest, T-SQL\n\n2) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: py, очереди сообщений, containers, debian\n\nСтаж: 1 лет\n"
+}

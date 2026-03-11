@@ -1,0 +1,54 @@
+{
+  "id": "res_021",
+  "fio": "Петрова Игорь",
+  "city": "Hamburg",
+  "email": "user021@example.com",
+  "phone": "+49 151 0000021",
+  "target_role": "Python Backend",
+  "level": "senior",
+  "experience_years": 5,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Accessibility",
+    "Docker",
+    "Python",
+    "Scikit-learn",
+    "UX Design",
+    "User Research"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "Docker",
+        "RabbitMQ",
+        "Linux"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "REST",
+        "SQL",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [],
+  "text": "Петрова Игорь, Hamburg\nEmail: user021@example.com | Тел.: +49 151 0000021\nЦель: Python Backend (senior)\n\nНавыки:\n- доступность, containers, python, scikit learn, пользовательские сценарии, исследования пользователей\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: py, Docker, rabbitmq, linux\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: python, REST, sql, Postgres\n\nСтаж: 5 лет\n"
+}

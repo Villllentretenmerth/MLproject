@@ -1,0 +1,55 @@
+{
+  "id": "res_019",
+  "fio": "Кузнецова Игорь",
+  "city": "Hamburg",
+  "email": "user019@example.com",
+  "phone": "+49 151 0000019",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "Agile",
+    "Airflow",
+    "Excel",
+    "Pandas",
+    "Python",
+    "SQL",
+    "Tableau",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "Jira",
+        "коммуникация"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2019
+    }
+  ],
+  "certificates": [
+    "курс PM"
+  ],
+  "text": "Кузнецова Игорь, Hamburg\nEmail: user019@example.com | Тел.: +49 151 0000019\nЦель: Project Manager (middle)\n\nНавыки:\n- scrum, airflow, excel, pandas, python, T-SQL, tableau, qa\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\n2) Ведение проекта — спринты, риски, коммуникация\nСтек: scrum, Jira, коммуникация\n\nСтаж: 4 лет\n"
+}

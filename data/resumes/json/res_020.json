@@ -1,0 +1,52 @@
+{
+  "id": "res_020",
+  "fio": "Смирнов Ирина",
+  "city": "Leipzig",
+  "email": "user020@example.com",
+  "phone": "+49 151 0000020",
+  "target_role": "Project Manager",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "API testing",
+    "Airflow",
+    "Git",
+    "Playwright",
+    "RabbitMQ",
+    "Selenium",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "Jira",
+        "коммуникация"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2023
+    }
+  ],
+  "certificates": [],
+  "text": "Смирнов Ирина, Leipzig\nEmail: user020@example.com | Тел.: +49 151 0000020\nЦель: Project Manager (junior)\n\nНавыки:\n- postman, Apache Airflow, git, Playwright, RabbitMQ, seleniun, qa\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: kanban, Jira, коммуникация\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\nСтаж: 0 лет\n"
+}

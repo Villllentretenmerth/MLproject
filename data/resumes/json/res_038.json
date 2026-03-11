@@ -1,0 +1,55 @@
+{
+  "id": "res_038",
+  "fio": "Морозов Елена",
+  "city": "Leipzig",
+  "email": "user038@example.com",
+  "phone": "+49 151 0000038",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Docker",
+    "Playwright",
+    "PyTest",
+    "REST",
+    "SQL",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "коммуникация",
+        "Agile",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2022
+    }
+  ],
+  "certificates": [
+    "курс SQL",
+    "курс Power BI",
+    "курс Docker"
+  ],
+  "text": "Морозов Елена, Leipzig\nEmail: user038@example.com | Тел.: +49 151 0000038\nЦель: Project Manager (middle)\n\nНавыки:\n- containers, playwright, PyTest, rest api, SQL, коммуникация\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\n2) Ведение проекта — спринты, риски, коммуникация\nСтек: коммуникация, Agile, Jira\n\nСтаж: 3 лет\n"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "res_055",
+  "fio": "Морозов Анна",
+  "city": "Potsdam",
+  "email": "user055@example.com",
+  "phone": "+49 151 0000055",
+  "target_role": "Data Analyst",
+  "level": "senior",
+  "experience_years": 9,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "Figma",
+    "Information Architecture",
+    "Prototyping",
+    "Redis",
+    "Scikit-learn",
+    "UI Design",
+    "User Research",
+    "Wireframing"
+  ],
+  "projects": [
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2016
+    }
+  ],
+  "certificates": [
+    "курс QA",
+    "курс DevOps",
+    "курс PM"
+  ],
+  "text": "Морозов Анна, Potsdam\nEmail: user055@example.com | Тел.: +49 151 0000055\nЦель: Data Analyst (senior)\n\nНавыки:\n- figma, Information Architecture, prototypes, redis, scikit learn, интерфейсы, кастдев, вайрфреймы\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: SQL-запросы, powerbi, excel\n\n2) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: Python, pandas, SQL-запросы\n\nСтаж: 9 лет\n"
+}

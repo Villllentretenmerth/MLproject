@@ -1,0 +1,32 @@
+{
+  "id": "vac_202",
+  "title": "Junior Data Analyst (SQL + Excel)",
+  "department": "Analytics",
+  "location": "Remote",
+  "level": "junior",
+  "must_have": [
+    {
+      "skill": "SQL",
+      "weight": 4
+    },
+    {
+      "skill": "Excel",
+      "weight": 4
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "Power BI",
+      "weight": 2
+    },
+    {
+      "skill": "Python",
+      "weight": 1
+    },
+    {
+      "skill": "Pandas",
+      "weight": 1
+    }
+  ],
+  "description_text": "Выгрузки, отчётность, SQL/Excel. Плюсом Power BI и базовый Python/pandas."
+}

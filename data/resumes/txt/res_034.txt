@@ -1,0 +1,20 @@
+Соколова Ольга, Berlin
+Email: user034@example.com | Тел.: +49 151 0000034
+Цель: Python Backend (middle)
+
+Навыки:
+- django, Docker, Linux, NumPy, prototypes, rest api, sql
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+
+Проекты:
+1) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: containers, debian, python, RabbitMQ
+
+2) REST сервис — CRUD API, авторизация, интеграции
+Стек: REST API, T-SQL, python, postgres
+
+Стаж: 3 лет

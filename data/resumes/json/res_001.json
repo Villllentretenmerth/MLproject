@@ -1,0 +1,56 @@
+{
+  "id": "res_001",
+  "fio": "Сидоров Анна",
+  "city": "Munich",
+  "email": "user001@example.com",
+  "phone": "+49 151 0000001",
+  "target_role": "Data Analyst",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Design System",
+    "Docker",
+    "Information Architecture",
+    "Power BI",
+    "Prototyping",
+    "Usability Testing"
+  ],
+  "projects": [
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "Power BI",
+        "SQL",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2023
+    }
+  ],
+  "certificates": [
+    "курс PM",
+    "курс SQL",
+    "курс Docker"
+  ],
+  "text": "Сидоров Анна, Munich\nEmail: user001@example.com | Тел.: +49 151 0000001\nЦель: Data Analyst (junior)\n\nНавыки:\n- design system, docker, информационная архитектура, powerbi, Prototyping, usability\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: python, pandas, SQL\n\n2) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: Power BI, SQL-запросы, Excel\n\nСтаж: 0 лет\n"
+}

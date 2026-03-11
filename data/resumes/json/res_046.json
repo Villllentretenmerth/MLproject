@@ -1,0 +1,58 @@
+{
+  "id": "res_046",
+  "fio": "Волков Ольга",
+  "city": "Berlin",
+  "email": "user046@example.com",
+  "phone": "+49 151 0000046",
+  "target_role": "UX/UI Designer",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Docker",
+    "Power BI",
+    "Testing",
+    "UI Design",
+    "UX Design",
+    "User Research",
+    "Wireframing"
+  ],
+  "projects": [
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "UX Design",
+        "UI Design",
+        "Wireframing",
+        "Figma",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [
+    "курс Figma",
+    "курс PM"
+  ],
+  "text": "Волков Ольга, Berlin\nEmail: user046@example.com | Тел.: +49 151 0000046\nЦель: UX/UI Designer (middle)\n\nНавыки:\n- контейнеризация, PowerBI, qa, ui, пользовательские сценарии, custdev, wireframes\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: UX Design, интерфейсы, Wireframing, figma, прототипирование\n\n2) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: Design System, a11y, Figma\n\nСтаж: 4 лет\n"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "res_014",
+  "fio": "Соколова Дмитрий",
+  "city": "Potsdam",
+  "email": "user014@example.com",
+  "phone": "+49 151 0000014",
+  "target_role": "UX/UI Designer",
+  "level": "middle",
+  "experience_years": 2,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Agile",
+    "Grafana",
+    "Power BI",
+    "Tableau",
+    "UI Design",
+    "продуктовое мышление"
+  ],
+  "projects": [
+    {
+      "name": "Дизайн-система",
+      "summary": "компоненты, гайдлайны, доступность",
+      "stack": [
+        "Design System",
+        "Accessibility",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Редизайн личного кабинета",
+      "summary": "пользовательские сценарии, прототипы, UI",
+      "stack": [
+        "UI Design",
+        "Figma",
+        "UX Design",
+        "Wireframing",
+        "Prototyping"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2022
+    }
+  ],
+  "certificates": [
+    "курс Python",
+    "курс Figma",
+    "курс QA"
+  ],
+  "text": "Соколова Дмитрий, Potsdam\nEmail: user014@example.com | Тел.: +49 151 0000014\nЦель: UX/UI Designer (middle)\n\nНавыки:\n- Agile, Grafana, Power BI, Tableau, интерфейсы, продуктовое мышление\n\nОпыт:\n2022–2026 UX/UI Designer — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Дизайн-система — компоненты, гайдлайны, доступность\nСтек: Design System, доступность, figma\n\n2) Редизайн личного кабинета — пользовательские сценарии, прототипы, UI\nСтек: ui design, figma, пользовательские сценарии, Wireframing, прототипирование\n\nСтаж: 2 лет\n"
+}

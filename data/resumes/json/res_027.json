@@ -1,0 +1,55 @@
+{
+  "id": "res_027",
+  "fio": "Соколова Мария",
+  "city": "Leipzig",
+  "email": "user027@example.com",
+  "phone": "+49 151 0000027",
+  "target_role": "DevOps",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Ansible",
+    "Docker",
+    "GitLab CI",
+    "Linux",
+    "Pandas",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Kubernetes окружение",
+      "summary": "деплой, конфиги, сервисы",
+      "stack": [
+        "Linux",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "CI/CD для сервиса",
+      "summary": "пайплайны сборки и деплой",
+      "stack": [
+        "GitLab CI",
+        "Docker",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [
+    "курс Python",
+    "курс PM"
+  ],
+  "text": "Соколова Мария, Leipzig\nEmail: user027@example.com | Тел.: +49 151 0000027\nЦель: DevOps (junior)\n\nНавыки:\n- Ansible, containers, GitlabCI, Linux, Pandas, коммуникация\n\nОпыт:\n2022–2026 DevOps — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Kubernetes окружение — деплой, конфиги, сервисы\nСтек: linux, Docker, k8s\n\n2) CI/CD для сервиса — пайплайны сборки и деплой\nСтек: GitLab CI, Docker, пайплайн\n\nСтаж: 1 лет\n"
+}

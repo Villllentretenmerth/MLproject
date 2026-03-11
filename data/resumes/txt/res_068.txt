@@ -1,0 +1,20 @@
+Морозов Сергей, Hamburg
+Email: user068@example.com | Тел.: +49 151 0000068
+Цель: Python Backend (middle)
+
+Навыки:
+- docker, excel, GitlabCI, ia, python, SQL-запросы, фасилитация
+
+Опыт:
+2022–2026 Python Backend — CompanyX
+- Работа с требованиями, приоритизация, поиск и устранение проблем.
+- Поддержка качества: ревью, документация, улучшения процессов.
+
+Проекты:
+1) REST сервис — CRUD API, авторизация, интеграции
+Стек: python, T-SQL, rest, Postgres
+
+2) Сервис уведомлений — очереди, ретраи, фоновые задачи
+Стек: python, Docker, RabbitMQ, Linux
+
+Стаж: 2 лет

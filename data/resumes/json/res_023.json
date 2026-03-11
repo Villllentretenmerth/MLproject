@@ -1,0 +1,55 @@
+{
+  "id": "res_023",
+  "fio": "Петрова Ирина",
+  "city": "Berlin",
+  "email": "user023@example.com",
+  "phone": "+49 151 0000023",
+  "target_role": "DevOps",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "CI/CD",
+    "Excel",
+    "Kubernetes",
+    "Linux",
+    "Terraform",
+    "Usability Testing",
+    "stakeholder management"
+  ],
+  "projects": [
+    {
+      "name": "CI/CD для сервиса",
+      "summary": "пайплайны сборки и деплой",
+      "stack": [
+        "CI/CD",
+        "GitLab CI",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Kubernetes окружение",
+      "summary": "деплой, конфиги, сервисы",
+      "stack": [
+        "Kubernetes",
+        "Linux",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2017
+    }
+  ],
+  "certificates": [
+    "курс DevOps"
+  ],
+  "text": "Петрова Ирина, Berlin\nEmail: user023@example.com | Тел.: +49 151 0000023\nЦель: DevOps (middle)\n\nНавыки:\n- пайплайн, excel, kubernetes, debian, Terraform, usability, stakeholder management\n\nОпыт:\n2022–2026 DevOps — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) CI/CD для сервиса — пайплайны сборки и деплой\nСтек: CI/CD, gitlab ci, контейнеризация\n\n2) Kubernetes окружение — деплой, конфиги, сервисы\nСтек: k8s, ubuntu, контейнеризация\n\nСтаж: 4 лет\n"
+}

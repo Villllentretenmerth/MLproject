@@ -1,0 +1,44 @@
+{
+  "id": "vac_201",
+  "title": "Data Analyst (SQL, BI)",
+  "department": "Analytics",
+  "location": "Berlin / Hybrid",
+  "level": "junior",
+  "must_have": [
+    {
+      "skill": "SQL",
+      "weight": 4
+    },
+    {
+      "skill": "Excel",
+      "weight": 3
+    },
+    {
+      "skill": "Power BI",
+      "weight": 3
+    },
+    {
+      "skill": "Python",
+      "weight": 2
+    },
+    {
+      "skill": "Pandas",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "ETL",
+      "weight": 1
+    },
+    {
+      "skill": "Airflow",
+      "weight": 1
+    },
+    {
+      "skill": "Tableau",
+      "weight": 1
+    }
+  ],
+  "description_text": "SQL-запросы, отчётность и дашборды в Power BI, работа с Excel. Плюсом ETL/Airflow/Tableau."
+}

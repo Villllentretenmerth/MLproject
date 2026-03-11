@@ -1,0 +1,54 @@
+{
+  "id": "res_018",
+  "fio": "Смирнов Ирина",
+  "city": "Leipzig",
+  "email": "user018@example.com",
+  "phone": "+49 151 0000018",
+  "target_role": "DevOps",
+  "level": "senior",
+  "experience_years": 8,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Figma",
+    "GitLab CI",
+    "Information Architecture",
+    "NumPy",
+    "Playwright",
+    "Tableau"
+  ],
+  "projects": [
+    {
+      "name": "CI/CD для сервиса",
+      "summary": "пайплайны сборки и деплой",
+      "stack": [
+        "GitLab CI",
+        "CI/CD",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Kubernetes окружение",
+      "summary": "деплой, конфиги, сервисы",
+      "stack": [
+        "Kubernetes",
+        "Linux",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [
+    "курс SQL"
+  ],
+  "text": "Смирнов Ирина, Leipzig\nEmail: user018@example.com | Тел.: +49 151 0000018\nЦель: DevOps (senior)\n\nНавыки:\n- figma, gitlab ci, Information Architecture, numpy, playwright, Tableau\n\nОпыт:\n2022–2026 DevOps — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) CI/CD для сервиса — пайплайны сборки и деплой\nСтек: gitlab ci, cicd, контейнеризация\n\n2) Kubernetes окружение — деплой, конфиги, сервисы\nСтек: k8s, ubuntu, Docker\n\nСтаж: 8 лет\n"
+}

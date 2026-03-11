@@ -1,0 +1,59 @@
+{
+  "id": "res_047",
+  "fio": "Морозов Ольга",
+  "city": "Munich",
+  "email": "user047@example.com",
+  "phone": "+49 151 0000047",
+  "target_role": "Python Backend",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "mismatch",
+  "expected_score_range": [
+    0,
+    20
+  ],
+  "skills": [
+    "API testing",
+    "Ansible",
+    "Django",
+    "Linux",
+    "Playwright",
+    "SQL",
+    "Testing"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Linux",
+        "Python",
+        "RabbitMQ",
+        "Docker"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "SQL",
+        "Python",
+        "REST",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2020
+    }
+  ],
+  "certificates": [
+    "курс Figma",
+    "курс SQL",
+    "курс DevOps"
+  ],
+  "text": "Морозов Ольга, Munich\nEmail: user047@example.com | Тел.: +49 151 0000047\nЦель: Python Backend (middle)\n\nНавыки:\n- postman, Ansible, django, ubuntu, playwright, SQL, quality assurance\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: linux, py, очереди сообщений, контейнеризация\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: SQL, Python, REST API, postgres\n\nСтаж: 4 лет\n"
+}

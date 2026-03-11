@@ -1,0 +1,55 @@
+{
+  "id": "res_017",
+  "fio": "Сидоров Дмитрий",
+  "city": "Berlin",
+  "email": "user017@example.com",
+  "phone": "+49 151 0000017",
+  "target_role": "Project Manager",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Agile",
+    "Git",
+    "Jira",
+    "Kafka",
+    "PyTest",
+    "stakeholder management"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Agile",
+        "Jira",
+        "коммуникация"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "тайм-менеджмент",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс DevOps",
+    "курс QA"
+  ],
+  "text": "Сидоров Дмитрий, Berlin\nEmail: user017@example.com | Тел.: +49 151 0000017\nЦель: Project Manager (junior)\n\nНавыки:\n- scrum, Git, Jira, kafka, PyTest, stakeholder management\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: kanban, Jira, коммуникация\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: тайм-менеджмент, Confluence\n\nСтаж: 0 лет\n"
+}

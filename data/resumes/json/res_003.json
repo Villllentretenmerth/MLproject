@@ -1,0 +1,55 @@
+{
+  "id": "res_003",
+  "fio": "Соколова Артём",
+  "city": "Munich",
+  "email": "user003@example.com",
+  "phone": "+49 151 0000003",
+  "target_role": "Project Manager",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Airflow",
+    "Confluence",
+    "Design System",
+    "Helm",
+    "Jira",
+    "коммуникация"
+  ],
+  "projects": [
+    {
+      "name": "Ведение проекта",
+      "summary": "спринты, риски, коммуникация",
+      "stack": [
+        "Jira",
+        "коммуникация",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Процессы команды",
+      "summary": "фасилитация и улучшение потока задач",
+      "stack": [
+        "Confluence",
+        "тайм-менеджмент"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [
+    "курс Docker",
+    "курс PM",
+    "курс QA"
+  ],
+  "text": "Соколова Артём, Munich\nEmail: user003@example.com | Тел.: +49 151 0000003\nЦель: Project Manager (middle)\n\nНавыки:\n- airflow, Confluence, Design System, Helm, Jira, коммуникация\n\nОпыт:\n2022–2026 Project Manager — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Ведение проекта — спринты, риски, коммуникация\nСтек: Jira, коммуникация, kanban\n\n2) Процессы команды — фасилитация и улучшение потока задач\nСтек: Confluence, тайм-менеджмент\n\nСтаж: 3 лет\n"
+}

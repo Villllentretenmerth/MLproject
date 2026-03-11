@@ -1,0 +1,53 @@
+{
+  "id": "res_058",
+  "fio": "Петрова Ирина",
+  "city": "Leipzig",
+  "email": "user058@example.com",
+  "phone": "+49 151 0000058",
+  "target_role": "Data Analyst",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "medium",
+  "expected_score_range": [
+    55,
+    80
+  ],
+  "skills": [
+    "Excel",
+    "PostgreSQL",
+    "Power BI",
+    "SQL",
+    "Scikit-learn",
+    "Testing",
+    "Usability Testing"
+  ],
+  "projects": [
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "SQL",
+        "Python",
+        "Pandas"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2024
+    }
+  ],
+  "certificates": [],
+  "text": "Петрова Ирина, Leipzig\nEmail: user058@example.com | Тел.: +49 151 0000058\nЦель: Data Analyst (junior)\n\nНавыки:\n- Excel, pgsql, Power BI, T-SQL, scikit-learn, quality assurance, usability\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: SQL-запросы, PowerBI, Excel\n\n2) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: SQL, py, Pandas\n\nСтаж: 1 лет\n"
+}

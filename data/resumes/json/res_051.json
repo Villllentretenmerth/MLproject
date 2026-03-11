@@ -1,0 +1,55 @@
+{
+  "id": "res_051",
+  "fio": "Морозов Ирина",
+  "city": "Potsdam",
+  "email": "user051@example.com",
+  "phone": "+49 151 0000051",
+  "target_role": "Data Analyst",
+  "level": "junior",
+  "experience_years": 0,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "CI/CD",
+    "Django",
+    "PostgreSQL",
+    "Python",
+    "stakeholder management",
+    "продуктовое мышление"
+  ],
+  "projects": [
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2025
+    }
+  ],
+  "certificates": [
+    "курс Python",
+    "курс Figma"
+  ],
+  "text": "Морозов Ирина, Potsdam\nEmail: user051@example.com | Тел.: +49 151 0000051\nЦель: Data Analyst (junior)\n\nНавыки:\n- CI/CD, django, Postgres, py, stakeholder management, продуктовое мышление\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: py, Pandas, sql\n\n2) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: sql, Power BI, excel\n\nСтаж: 0 лет\n"
+}

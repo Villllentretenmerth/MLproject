@@ -1,0 +1,56 @@
+{
+  "id": "vac_101",
+  "title": "Python Backend Developer (FastAPI)",
+  "department": "Platform",
+  "location": "Remote",
+  "level": "middle",
+  "must_have": [
+    {
+      "skill": "Python",
+      "weight": 4
+    },
+    {
+      "skill": "FastAPI",
+      "weight": 3
+    },
+    {
+      "skill": "REST",
+      "weight": 3
+    },
+    {
+      "skill": "SQL",
+      "weight": 3
+    },
+    {
+      "skill": "PostgreSQL",
+      "weight": 3
+    },
+    {
+      "skill": "Docker",
+      "weight": 2
+    },
+    {
+      "skill": "Linux",
+      "weight": 2
+    }
+  ],
+  "nice_to_have": [
+    {
+      "skill": "Redis",
+      "weight": 1
+    },
+    {
+      "skill": "CI/CD",
+      "weight": 1
+    },
+    {
+      "skill": "RabbitMQ",
+      "weight": 1
+    },
+    {
+      "skill": "Kubernetes",
+      "weight": 1
+    }
+  ],
+  "description_text": "Разработка REST API на FastAPI, работа с Postgres, контейнеризация docker. Плюсом Redis, CI/CD, очереди сообщений, k8s."
+}

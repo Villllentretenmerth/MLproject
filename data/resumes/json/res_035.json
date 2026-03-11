@@ -1,0 +1,56 @@
+{
+  "id": "res_035",
+  "fio": "Петрова Мария",
+  "city": "Berlin",
+  "email": "user035@example.com",
+  "phone": "+49 151 0000035",
+  "target_role": "Python Backend",
+  "level": "middle",
+  "experience_years": 4,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "ETL",
+    "Figma",
+    "NumPy",
+    "PostgreSQL",
+    "Prometheus",
+    "Python"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Python",
+        "RabbitMQ",
+        "Docker",
+        "Linux"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "PostgreSQL",
+        "REST",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2020
+    }
+  ],
+  "certificates": [
+    "курс Figma"
+  ],
+  "text": "Петрова Мария, Berlin\nEmail: user035@example.com | Тел.: +49 151 0000035\nЦель: Python Backend (middle)\n\nНавыки:\n- data pipeline, Figma, numpy, pgsql, Prometheus, python\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: Python, message queue, docker, Linux\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: python, pgsql, REST API, SQL\n\nСтаж: 4 лет\n"
+}

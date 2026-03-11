@@ -1,0 +1,57 @@
+{
+  "id": "res_048",
+  "fio": "Соколова Анна",
+  "city": "Hamburg",
+  "email": "user048@example.com",
+  "phone": "+49 151 0000048",
+  "target_role": "Python Backend",
+  "level": "senior",
+  "experience_years": 8,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Ansible",
+    "Jira",
+    "Linux",
+    "Prototyping",
+    "User Research"
+  ],
+  "projects": [
+    {
+      "name": "Сервис уведомлений",
+      "summary": "очереди, ретраи, фоновые задачи",
+      "stack": [
+        "Linux",
+        "Python",
+        "RabbitMQ",
+        "Docker"
+      ]
+    },
+    {
+      "name": "REST сервис",
+      "summary": "CRUD API, авторизация, интеграции",
+      "stack": [
+        "Python",
+        "REST",
+        "SQL",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2021
+    }
+  ],
+  "certificates": [
+    "курс SQL",
+    "курс QA",
+    "курс PM"
+  ],
+  "text": "Соколова Анна, Hamburg\nEmail: user048@example.com | Тел.: +49 151 0000048\nЦель: Python Backend (senior)\n\nНавыки:\n- Ansible, Jira, debian, Prototyping, ux research\n\nОпыт:\n2022–2026 Python Backend — CompanyX\n- Поддержка качества: ревью, документация, улучшения процессов.\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n\nПроекты:\n1) Сервис уведомлений — очереди, ретраи, фоновые задачи\nСтек: ubuntu, python, message queue, Docker\n\n2) REST сервис — CRUD API, авторизация, интеграции\nСтек: py, rest, T-SQL, postgres\n\nСтаж: 8 лет\n"
+}

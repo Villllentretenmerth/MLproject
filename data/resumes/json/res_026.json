@@ -1,0 +1,55 @@
+{
+  "id": "res_026",
+  "fio": "Новикова Ирина",
+  "city": "Hamburg",
+  "email": "user026@example.com",
+  "phone": "+49 151 0000026",
+  "target_role": "Data Analyst",
+  "level": "middle",
+  "experience_years": 3,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Ansible",
+    "Figma",
+    "Prometheus",
+    "Python",
+    "UX Design",
+    "управление рисками"
+  ],
+  "projects": [
+    {
+      "name": "Дашборды продаж",
+      "summary": "Power BI отчёты, витрины данных",
+      "stack": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Аналитика поведения",
+      "summary": "сегментации, отчётность, выгрузки",
+      "stack": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2018
+    }
+  ],
+  "certificates": [
+    "курс SQL",
+    "курс Figma"
+  ],
+  "text": "Новикова Ирина, Hamburg\nEmail: user026@example.com | Тел.: +49 151 0000026\nЦель: Data Analyst (middle)\n\nНавыки:\n- Ansible, Figma, Prometheus, Python, ux design, управление рисками\n\nОпыт:\n2022–2026 Data Analyst — CompanyX\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n- Поддержка качества: ревью, документация, улучшения процессов.\n\nПроекты:\n1) Дашборды продаж — Power BI отчёты, витрины данных\nСтек: T-SQL, PowerBI, excel\n\n2) Аналитика поведения — сегментации, отчётность, выгрузки\nСтек: Python, pandas, SQL\n\nСтаж: 3 лет\n"
+}

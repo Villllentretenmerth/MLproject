@@ -1,0 +1,52 @@
+{
+  "id": "res_016",
+  "fio": "Попова Анна",
+  "city": "Hamburg",
+  "email": "user016@example.com",
+  "phone": "+49 151 0000016",
+  "target_role": "QA Engineer",
+  "level": "junior",
+  "experience_years": 1,
+  "quality_label": "weak",
+  "expected_score_range": [
+    20,
+    55
+  ],
+  "skills": [
+    "Git",
+    "Linux",
+    "Pandas",
+    "REST",
+    "продуктовое мышление",
+    "тайм-менеджмент"
+  ],
+  "projects": [
+    {
+      "name": "Регресс веб-сервиса",
+      "summary": "чек-листы, тест-кейсы, баг-репорты",
+      "stack": [
+        "Testing",
+        "API testing",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Автотесты (база)",
+      "summary": "smoke e2e, отчётность",
+      "stack": [
+        "PyTest",
+        "Playwright",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Университет",
+      "program": "Информатика",
+      "year": 2025
+    }
+  ],
+  "certificates": [],
+  "text": "Попова Анна, Hamburg\nEmail: user016@example.com | Тел.: +49 151 0000016\nЦель: QA Engineer (junior)\n\nНавыки:\n- Git, linux, Pandas, rest, продуктовое мышление, тайм-менеджмент\n\nОпыт:\n2022–2026 QA Engineer — CompanyX\n- Работа с требованиями, приоритизация, поиск и устранение проблем.\n- Участие в командной разработке, оценка задач, взаимодействие со стейкхолдерами.\n\nПроекты:\n1) Регресс веб-сервиса — чек-листы, тест-кейсы, баг-репорты\nСтек: тестирование, тестирование api, SQL-запросы\n\n2) Автотесты (база) — smoke e2e, отчётность\nСтек: pytest, Playwright, pipeline\n\nСтаж: 1 лет\n"
+}
