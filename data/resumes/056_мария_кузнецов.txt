@@ -1,0 +1,10 @@
+resume_id: a79b7c26-b99a-4357-a976-081bdff46930
+candidate: Мария Кузнецов
+
+Junior QA Engineer (Senior)
+Желаемая должность: Junior QA Engineer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 5 лет.
+Ключевые навыки: Jira, Test Design, Pytest, Python, Postman, API testing, SQL, Selenium.
+Домен: ecommerce.
+О себе: Люблю работать в команде. Быстро погружаюсь в новую предметную область. Сильный технический кругозор.

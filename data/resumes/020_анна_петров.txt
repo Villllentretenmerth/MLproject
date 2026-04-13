@@ -1,0 +1,10 @@
+resume_id: b66a5ae8-24d4-4258-b19e-58907bc937ad
+candidate: Анна Петров
+
+Python QA Engineer (Middle)
+Желаемая должность: Python QA Engineer
+Образование: ИТМО, Программная инженерия
+Опыт работы: 4 лет.
+Ключевые навыки: Pytest, API testing, SQL, Selenium, Jira, Manual testing.
+Домен: ecommerce.
+О себе: Ответственно подхожу к срокам и качеству. Быстро погружаюсь в новую предметную область. Ориентируюсь на бизнес-результат.

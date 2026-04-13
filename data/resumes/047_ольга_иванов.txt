@@ -1,0 +1,10 @@
+resume_id: 9038b3d0-a0d4-4b95-90b2-28694883a361
+candidate: Ольга Иванов
+
+IT Project Manager (Lead)
+Желаемая должность: IT Project Manager
+Образование: ИТМО, Программная инженерия
+Опыт работы: 9 лет.
+Ключевые навыки: Scrum, Jira, Budgeting, Roadmap Planning, Confluence.
+Домен: enterprise.
+О себе: Внимателен к качеству решений. Ориентируюсь на бизнес-результат. Люблю работать в команде.

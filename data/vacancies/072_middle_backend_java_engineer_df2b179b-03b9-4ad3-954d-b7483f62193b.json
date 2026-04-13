@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "df2b179b-03b9-4ad3-954d-b7483f62193b",
+  "title": "Middle Backend Java Engineer",
+  "track": "java_backend",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Docker",
+    "Microservices",
+    "Spring Boot",
+    "Kafka",
+    "Redis",
+    "Kubernetes",
+    "Hibernate"
+  ],
+  "optional_skills": [
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Разработка высоконагруженных микросервисов",
+    "Покрытие кода тестами",
+    "Проектирование сервисной архитектуры",
+    "Оптимизация существующего Java-кода"
+  ],
+  "raw_text": "Вакансия: Middle Backend Java Engineer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Разработка высоконагруженных микросервисов\n— Покрытие кода тестами\n— Проектирование сервисной архитектуры\n— Оптимизация существующего Java-кода\n\nНаши ожидания:\n— Docker\n— Microservices\n— Spring Boot\n— Kafka\n— Redis\n— Kubernetes\n— Hibernate\n\nБудет плюсом:\n— Знание DDD"
+}

@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "3cd44002-396c-418e-81e9-089433e880f9",
+  "title": "Lead Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Lead",
+  "min_years_experience": 10,
+  "company": "ProductWave",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "CI/CD",
+    "Pytest",
+    "Redis",
+    "Django",
+    "Kubernetes"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL",
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Code Review и внедрение инженерных практик",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Lead Backend Python Developer\nКомпания: ProductWave\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 10 лет\nДомен: edtech\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Проектирование и разработка масштабируемых backend-сервисов\n— Code Review и внедрение инженерных практик\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— CI/CD\n— Pytest\n— Redis\n— Django\n— Kubernetes\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с NoSQL\n— Опыт работы с ClickHouse"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "8a118757-f67b-4cf0-809c-6ee4553548ce",
+  "title": "Senior Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Statistics",
+    "Pandas",
+    "SQL",
+    "Tableau",
+    "Excel",
+    "ETL"
+  ],
+  "optional_skills": [
+    "Опыт работы в продуктовой аналитике"
+  ],
+  "tasks": [
+    "Формирование гипотез и A/B тестов",
+    "Анализ продуктовых метрик",
+    "Подготовка аналитических отчетов",
+    "Сбор и очистка данных"
+  ],
+  "raw_text": "Вакансия: Senior Product Analyst\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Формирование гипотез и A/B тестов\n— Анализ продуктовых метрик\n— Подготовка аналитических отчетов\n— Сбор и очистка данных\n\nНаши ожидания:\n— Statistics\n— Pandas\n— SQL\n— Tableau\n— Excel\n— ETL\n\nБудет плюсом:\n— Опыт работы в продуктовой аналитике"
+}

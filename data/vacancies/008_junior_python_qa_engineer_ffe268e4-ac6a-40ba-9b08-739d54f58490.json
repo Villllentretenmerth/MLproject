@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "ffe268e4-ac6a-40ba-9b08-739d54f58490",
+  "title": "Junior Python QA Engineer",
+  "track": "qa",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ProductWave",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Jira",
+    "Pytest",
+    "Postman",
+    "Manual testing",
+    "Selenium",
+    "Python",
+    "SQL"
+  ],
+  "optional_skills": [
+    "Опыт нагрузочного тестирования",
+    "Опыт CI интеграции тестов",
+    "Базовое понимание backend-разработки"
+  ],
+  "tasks": [
+    "Регресс и smoke testing",
+    "Написание тест-кейсов",
+    "Проверка API и интеграций",
+    "Автоматизация тестирования"
+  ],
+  "raw_text": "Вакансия: Junior Python QA Engineer\nКомпания: ProductWave\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: ml_platform\n\nВаши задачи:\n— Регресс и smoke testing\n— Написание тест-кейсов\n— Проверка API и интеграций\n— Автоматизация тестирования\n\nНаши ожидания:\n— Jira\n— Pytest\n— Postman\n— Manual testing\n— Selenium\n— Python\n— SQL\n\nБудет плюсом:\n— Опыт нагрузочного тестирования\n— Опыт CI интеграции тестов\n— Базовое понимание backend-разработки"
+}

@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "81c1131d-5f69-4d9f-9a0b-1152cfe3e5d2",
+  "title": "Junior Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ScaleHub",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Kubernetes",
+    "Java",
+    "PostgreSQL",
+    "Kafka",
+    "Redis",
+    "JUnit"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices",
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Проектирование сервисной архитектуры",
+    "Оптимизация существующего Java-кода",
+    "Разработка высоконагруженных микросервисов",
+    "Покрытие кода тестами"
+  ],
+  "raw_text": "Вакансия: Junior Senior Java Developer\nКомпания: ScaleHub\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: fintech\n\nВаши задачи:\n— Проектирование сервисной архитектуры\n— Оптимизация существующего Java-кода\n— Разработка высоконагруженных микросервисов\n— Покрытие кода тестами\n\nНаши ожидания:\n— Kubernetes\n— Java\n— PostgreSQL\n— Kafka\n— Redis\n— JUnit\n\nБудет плюсом:\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices\n— Знание DDD"
+}

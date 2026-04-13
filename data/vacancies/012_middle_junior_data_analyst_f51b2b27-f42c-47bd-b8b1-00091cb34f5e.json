@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "f51b2b27-f42c-47bd-b8b1-00091cb34f5e",
+  "title": "Middle Junior Data Analyst",
+  "track": "data_analytics",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "NextLayer",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Python",
+    "Excel",
+    "Tableau",
+    "A/B testing"
+  ],
+  "optional_skills": [
+    "Опыт работы в продуктовой аналитике",
+    "Знание Python для анализа данных",
+    "Опыт построения прогнозных моделей"
+  ],
+  "tasks": [
+    "Сбор и очистка данных",
+    "Подготовка аналитических отчетов",
+    "Анализ продуктовых метрик",
+    "Формирование гипотез и A/B тестов"
+  ],
+  "raw_text": "Вакансия: Middle Junior Data Analyst\nКомпания: NextLayer\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: fintech\n\nВаши задачи:\n— Сбор и очистка данных\n— Подготовка аналитических отчетов\n— Анализ продуктовых метрик\n— Формирование гипотез и A/B тестов\n\nНаши ожидания:\n— Python\n— Excel\n— Tableau\n— A/B testing\n\nБудет плюсом:\n— Опыт работы в продуктовой аналитике\n— Знание Python для анализа данных\n— Опыт построения прогнозных моделей"
+}

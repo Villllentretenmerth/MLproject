@@ -1,0 +1,10 @@
+resume_id: 954eb608-7486-45ea-ad38-e2eb228b5c78
+candidate: Дмитрий Смирнова
+
+Backend Python Developer (Senior)
+Желаемая должность: Backend Python Developer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 7 лет.
+Ключевые навыки: CI/CD, MongoDB, Kafka, Azure, PostgreSQL, Redis, AWS, Pytest.
+Домен: ecommerce.
+О себе: Быстро погружаюсь в новую предметную область. Ориентируюсь на бизнес-результат. Ответственно подхожу к срокам и качеству.

@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "84c153eb-a299-47a2-8b08-e0bd0057087c",
+  "title": "Middle Platform Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "CI/CD",
+    "Kafka",
+    "Kubernetes",
+    "Azure",
+    "Linux",
+    "Terraform"
+  ],
+  "optional_skills": [
+    "Опыт FinOps",
+    "Опыт работы с Kafka",
+    "Опыт построения internal platform"
+  ],
+  "tasks": [
+    "Работа с контейнерной платформой",
+    "Автоматизация инфраструктуры",
+    "Поддержка CI/CD пайплайнов",
+    "Наблюдаемость и мониторинг"
+  ],
+  "raw_text": "Вакансия: Middle Platform Engineer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: edtech\n\nВаши задачи:\n— Работа с контейнерной платформой\n— Автоматизация инфраструктуры\n— Поддержка CI/CD пайплайнов\n— Наблюдаемость и мониторинг\n\nНаши ожидания:\n— CI/CD\n— Kafka\n— Kubernetes\n— Azure\n— Linux\n— Terraform\n\nБудет плюсом:\n— Опыт FinOps\n— Опыт работы с Kafka\n— Опыт построения internal platform"
+}

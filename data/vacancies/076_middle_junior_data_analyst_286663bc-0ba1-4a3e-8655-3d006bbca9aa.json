@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "286663bc-0ba1-4a3e-8655-3d006bbca9aa",
+  "title": "Middle Junior Data Analyst",
+  "track": "data_analytics",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "CloudCore",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "enterprise",
+  "required_skills": [
+    "ETL",
+    "Pandas",
+    "Data Visualization",
+    "A/B testing",
+    "SQL"
+  ],
+  "optional_skills": [
+    "Знание Python для анализа данных"
+  ],
+  "tasks": [
+    "Формирование гипотез и A/B тестов",
+    "Подготовка аналитических отчетов",
+    "Анализ продуктовых метрик",
+    "Сбор и очистка данных"
+  ],
+  "raw_text": "Вакансия: Middle Junior Data Analyst\nКомпания: CloudCore\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: enterprise\n\nВаши задачи:\n— Формирование гипотез и A/B тестов\n— Подготовка аналитических отчетов\n— Анализ продуктовых метрик\n— Сбор и очистка данных\n\nНаши ожидания:\n— ETL\n— Pandas\n— Data Visualization\n— A/B testing\n— SQL\n\nБудет плюсом:\n— Знание Python для анализа данных"
+}

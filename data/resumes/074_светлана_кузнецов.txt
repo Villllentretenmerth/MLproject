@@ -1,0 +1,10 @@
+resume_id: 585939ae-0b54-446a-ad88-edcb28441a3b
+candidate: Светлана Кузнецов
+
+Lead Python Developer (Middle)
+Желаемая должность: Lead Python Developer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 2 лет.
+Ключевые навыки: Pytest, CI/CD, FastAPI, Kubernetes, Flask, RabbitMQ.
+Домен: ecommerce.
+О себе: Сильный технический кругозор. Люблю работать в команде. Быстро погружаюсь в новую предметную область.

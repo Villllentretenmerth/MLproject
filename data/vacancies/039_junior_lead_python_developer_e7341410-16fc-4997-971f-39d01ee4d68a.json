@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "e7341410-16fc-4997-971f-39d01ee4d68a",
+  "title": "Junior Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "AWS",
+    "asyncio",
+    "Redis",
+    "CI/CD",
+    "Flask",
+    "Azure"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Open Source вклад",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Junior Lead Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: ml_platform\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— AWS\n— asyncio\n— Redis\n— CI/CD\n— Flask\n— Azure\n\nБудет плюсом:\n— Понимание frontend-части\n— Open Source вклад\n— Опыт работы с NoSQL"
+}

@@ -1,0 +1,10 @@
+resume_id: 0c5ad1f0-9b81-43e4-b0ba-cb4bc08d99dd
+candidate: Павел Волкова
+
+Lead Python Developer (Lead)
+Желаемая должность: Lead Python Developer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 11 лет.
+Ключевые навыки: asyncio, MongoDB, Flask, Pytest, RabbitMQ, Redis, Azure, FastAPI.
+Домен: edtech.
+О себе: Сильный технический кругозор. Ориентируюсь на бизнес-результат. Быстро погружаюсь в новую предметную область.

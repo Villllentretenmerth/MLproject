@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "adea804f-a5bc-49af-977a-5383d9ff3ea7",
+  "title": "Middle Platform Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Linux",
+    "Terraform",
+    "Azure",
+    "PostgreSQL",
+    "CI/CD"
+  ],
+  "optional_skills": [
+    "Опыт FinOps",
+    "Опыт построения internal platform"
+  ],
+  "tasks": [
+    "Работа с контейнерной платформой",
+    "Повышение надежности систем",
+    "Автоматизация инфраструктуры",
+    "Наблюдаемость и мониторинг"
+  ],
+  "raw_text": "Вакансия: Middle Platform Engineer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 2 лет\nДомен: ecommerce\n\nВаши задачи:\n— Работа с контейнерной платформой\n— Повышение надежности систем\n— Автоматизация инфраструктуры\n— Наблюдаемость и мониторинг\n\nНаши ожидания:\n— Linux\n— Terraform\n— Azure\n— PostgreSQL\n— CI/CD\n\nБудет плюсом:\n— Опыт FinOps\n— Опыт построения internal platform"
+}

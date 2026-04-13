@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "c4e494dd-ad44-45cd-8beb-deeaa778b212",
+  "title": "Junior Java Developer",
+  "track": "java_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Spring Boot",
+    "Kubernetes",
+    "PostgreSQL",
+    "JUnit",
+    "Docker",
+    "Java"
+  ],
+  "optional_skills": [
+    "Знание DDD",
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Разработка высоконагруженных микросервисов",
+    "Проектирование сервисной архитектуры",
+    "Покрытие кода тестами",
+    "Оптимизация существующего Java-кода"
+  ],
+  "raw_text": "Вакансия: Junior Java Developer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Разработка высоконагруженных микросервисов\n— Проектирование сервисной архитектуры\n— Покрытие кода тестами\n— Оптимизация существующего Java-кода\n\nНаши ожидания:\n— Spring Boot\n— Kubernetes\n— PostgreSQL\n— JUnit\n— Docker\n— Java\n\nБудет плюсом:\n— Знание DDD\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices"
+}

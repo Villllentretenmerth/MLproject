@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "298600fa-a419-4020-a958-095c14c89378",
+  "title": "Junior Java Developer",
+  "track": "java_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "NextLayer",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "ml_platform",
+  "required_skills": [
+    "PostgreSQL",
+    "Java",
+    "Kubernetes",
+    "Hibernate",
+    "JUnit",
+    "Spring Boot",
+    "Docker"
+  ],
+  "optional_skills": [
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Интеграция через брокеры сообщений",
+    "Разработка высоконагруженных микросервисов",
+    "Покрытие кода тестами",
+    "Проектирование сервисной архитектуры"
+  ],
+  "raw_text": "Вакансия: Junior Java Developer\nКомпания: NextLayer\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 0 лет\nДомен: ml_platform\n\nВаши задачи:\n— Интеграция через брокеры сообщений\n— Разработка высоконагруженных микросервисов\n— Покрытие кода тестами\n— Проектирование сервисной архитектуры\n\nНаши ожидания:\n— PostgreSQL\n— Java\n— Kubernetes\n— Hibernate\n— JUnit\n— Spring Boot\n— Docker\n\nБудет плюсом:\n— Знание DDD"
+}

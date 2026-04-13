@@ -1,0 +1,10 @@
+resume_id: a59d599e-6cea-4882-9848-d7c3344d01a6
+candidate: Максим Федоров
+
+Engineering Manager (Lead)
+Желаемая должность: Engineering Manager
+Образование: ИТМО, Программная инженерия
+Опыт работы: 10 лет.
+Ключевые навыки: Team Leadership, Agile, Kanban, Jira, Confluence, Budgeting.
+Домен: fintech.
+О себе: Быстро погружаюсь в новую предметную область. Внимателен к качеству решений. Ориентируюсь на бизнес-результат.

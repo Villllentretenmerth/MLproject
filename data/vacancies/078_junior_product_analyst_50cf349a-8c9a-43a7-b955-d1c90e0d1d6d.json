@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "50cf349a-8c9a-43a7-b955-d1c90e0d1d6d",
+  "title": "Junior Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "FinMatrix",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Tableau",
+    "ETL",
+    "Excel",
+    "A/B testing"
+  ],
+  "optional_skills": [
+    "Опыт построения прогнозных моделей"
+  ],
+  "tasks": [
+    "Формирование гипотез и A/B тестов",
+    "Анализ продуктовых метрик",
+    "Сбор и очистка данных",
+    "Подготовка аналитических отчетов"
+  ],
+  "raw_text": "Вакансия: Junior Product Analyst\nКомпания: FinMatrix\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: ml_platform\n\nВаши задачи:\n— Формирование гипотез и A/B тестов\n— Анализ продуктовых метрик\n— Сбор и очистка данных\n— Подготовка аналитических отчетов\n\nНаши ожидания:\n— Tableau\n— ETL\n— Excel\n— A/B testing\n\nБудет плюсом:\n— Опыт построения прогнозных моделей"
+}

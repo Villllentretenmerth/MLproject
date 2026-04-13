@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "570f951f-063c-4c39-a983-fcf2840f4442",
+  "title": "Middle Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "CloudCore",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Python",
+    "MongoDB",
+    "Azure",
+    "Kubernetes",
+    "Kafka",
+    "asyncio",
+    "AWS"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Middle Python Developer\nКомпания: CloudCore\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 4 лет\nДомен: ml_platform\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— Python\n— MongoDB\n— Azure\n— Kubernetes\n— Kafka\n— asyncio\n— AWS\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с NoSQL"
+}

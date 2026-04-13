@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "6082c9bd-5b61-464a-951e-a5955c71a993",
+  "title": "Middle Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "enterprise",
+  "required_skills": [
+    "asyncio",
+    "AWS",
+    "Azure",
+    "Python"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Middle Backend Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: enterprise\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Проектирование и разработка масштабируемых backend-сервисов\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— asyncio\n— AWS\n— Azure\n— Python\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Open Source вклад"
+}

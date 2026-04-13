@@ -1,0 +1,10 @@
+resume_id: e52f272d-0da7-4b19-a00e-5c122d12f947
+candidate: Анна Морозова
+
+Lead Python Developer (Middle)
+Желаемая должность: Lead Python Developer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 3 лет.
+Ключевые навыки: Django, MongoDB, Pytest, asyncio, PostgreSQL.
+Домен: b2b_saas.
+О себе: Люблю работать в команде. Ориентируюсь на бизнес-результат. Сильный технический кругозор.

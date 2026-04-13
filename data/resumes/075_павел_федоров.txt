@@ -1,0 +1,10 @@
+resume_id: 34c0428b-4f6c-43ae-99f0-1632bce97d7f
+candidate: Павел Федоров
+
+Senior Python Developer (Senior)
+Желаемая должность: Senior Python Developer
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 8 лет.
+Ключевые навыки: Flask, asyncio, Python, Azure, MongoDB, RabbitMQ, FastAPI.
+Домен: b2b_saas.
+О себе: Сильный технический кругозор. Внимателен к качеству решений. Люблю работать в команде.

@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "ab030a67-3165-492d-b7f2-3e53e73040c9",
+  "title": "Middle Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Azure",
+    "CI/CD",
+    "Redis",
+    "RabbitMQ",
+    "Pytest"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API"
+  ],
+  "raw_text": "Вакансия: Middle Python Developer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: ecommerce\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n\nНаши ожидания:\n— Azure\n— CI/CD\n— Redis\n— RabbitMQ\n— Pytest\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Понимание frontend-части\n— Опыт работы с NoSQL"
+}

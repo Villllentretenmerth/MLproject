@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "9f9e0dbd-67bb-4130-b870-256c7e290a3b",
+  "title": "Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Senior",
+  "min_years_experience": 7,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Python",
+    "Kafka",
+    "Kubernetes",
+    "PostgreSQL",
+    "CI/CD",
+    "Flask"
+  ],
+  "optional_skills": [
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Senior Python Developer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 7 лет\nДомен: ecommerce\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Проектирование и разработка масштабируемых backend-сервисов\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— Python\n— Kafka\n— Kubernetes\n— PostgreSQL\n— CI/CD\n— Flask\n\nБудет плюсом:\n— Опыт работы с NoSQL"
+}

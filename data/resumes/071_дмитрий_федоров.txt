@@ -1,0 +1,10 @@
+resume_id: eb229ebf-99ba-41e1-a98a-ee687f9d2d81
+candidate: Дмитрий Федоров
+
+DevOps Engineer (Senior)
+Желаемая должность: DevOps Engineer
+Образование: ИТМО, Программная инженерия
+Опыт работы: 5 лет.
+Ключевые навыки: Terraform, PostgreSQL, AWS, Azure, Linux, Kubernetes.
+Домен: enterprise.
+О себе: Ответственно подхожу к срокам и качеству. Сильный технический кругозор. Люблю работать в команде.

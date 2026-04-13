@@ -1,0 +1,10 @@
+resume_id: 97221d20-b97b-41e9-96ed-421b2eed3cae
+candidate: Екатерина Попов
+
+Senior DevOps Engineer (Lead)
+Желаемая должность: Senior DevOps Engineer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 11 лет.
+Ключевые навыки: AWS, Kubernetes, CI/CD, Monitoring, Docker, Azure, Kafka, Terraform.
+Домен: fintech.
+О себе: Быстро погружаюсь в новую предметную область. Люблю работать в команде. Внимателен к качеству решений.

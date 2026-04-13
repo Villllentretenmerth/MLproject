@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "f8911120-6924-4e50-b9b6-187c109e2054",
+  "title": "Lead Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Lead",
+  "min_years_experience": 9,
+  "company": "TechNova",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Data Visualization",
+    "A/B testing",
+    "ETL",
+    "SQL",
+    "Excel",
+    "Pandas"
+  ],
+  "optional_skills": [
+    "Опыт работы в продуктовой аналитике"
+  ],
+  "tasks": [
+    "Сбор и очистка данных",
+    "Формирование гипотез и A/B тестов",
+    "Подготовка аналитических отчетов",
+    "Построение дашбордов"
+  ],
+  "raw_text": "Вакансия: Lead Product Analyst\nКомпания: TechNova\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 9 лет\nДомен: fintech\n\nВаши задачи:\n— Сбор и очистка данных\n— Формирование гипотез и A/B тестов\n— Подготовка аналитических отчетов\n— Построение дашбордов\n\nНаши ожидания:\n— Data Visualization\n— A/B testing\n— ETL\n— SQL\n— Excel\n— Pandas\n\nБудет плюсом:\n— Опыт работы в продуктовой аналитике"
+}

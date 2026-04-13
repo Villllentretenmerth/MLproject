@@ -1,0 +1,10 @@
+resume_id: 98e1d984-cc35-4b6a-b2a1-a27682e6a380
+candidate: Ольга Волкова
+
+Java Developer (Senior)
+Желаемая должность: Java Developer
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 6 лет.
+Ключевые навыки: Kafka, PostgreSQL, Spring Boot, JUnit, Docker, Microservices.
+Домен: ecommerce.
+О себе: Люблю работать в команде. Внимателен к качеству решений. Ответственно подхожу к срокам и качеству.

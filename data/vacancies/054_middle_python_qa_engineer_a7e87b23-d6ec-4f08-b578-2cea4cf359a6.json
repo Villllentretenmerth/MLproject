@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "a7e87b23-d6ec-4f08-b578-2cea4cf359a6",
+  "title": "Middle Python QA Engineer",
+  "track": "qa",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "DataPulse",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "fintech",
+  "required_skills": [
+    "Selenium",
+    "Test Design",
+    "Python",
+    "Postman",
+    "Pytest",
+    "API testing"
+  ],
+  "optional_skills": [
+    "Базовое понимание backend-разработки",
+    "Опыт нагрузочного тестирования",
+    "Опыт CI интеграции тестов"
+  ],
+  "tasks": [
+    "Проверка API и интеграций",
+    "Автоматизация тестирования",
+    "Написание тест-кейсов",
+    "Заведение дефектов и контроль фиксов"
+  ],
+  "raw_text": "Вакансия: Middle Python QA Engineer\nКомпания: DataPulse\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 2 лет\nДомен: fintech\n\nВаши задачи:\n— Проверка API и интеграций\n— Автоматизация тестирования\n— Написание тест-кейсов\n— Заведение дефектов и контроль фиксов\n\nНаши ожидания:\n— Selenium\n— Test Design\n— Python\n— Postman\n— Pytest\n— API testing\n\nБудет плюсом:\n— Базовое понимание backend-разработки\n— Опыт нагрузочного тестирования\n— Опыт CI интеграции тестов"
+}

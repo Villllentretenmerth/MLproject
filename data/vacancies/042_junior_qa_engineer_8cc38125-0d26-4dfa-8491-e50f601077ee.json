@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "8cc38125-0d26-4dfa-8491-e50f601077ee",
+  "title": "Junior QA Engineer",
+  "track": "qa",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "CloudCore",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "Pytest",
+    "Python",
+    "API testing",
+    "Postman",
+    "SQL"
+  ],
+  "optional_skills": [
+    "Опыт нагрузочного тестирования",
+    "Базовое понимание backend-разработки",
+    "Опыт CI интеграции тестов"
+  ],
+  "tasks": [
+    "Регресс и smoke testing",
+    "Автоматизация тестирования",
+    "Заведение дефектов и контроль фиксов",
+    "Проверка API и интеграций"
+  ],
+  "raw_text": "Вакансия: Junior QA Engineer\nКомпания: CloudCore\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: edtech\n\nВаши задачи:\n— Регресс и smoke testing\n— Автоматизация тестирования\n— Заведение дефектов и контроль фиксов\n— Проверка API и интеграций\n\nНаши ожидания:\n— Pytest\n— Python\n— API testing\n— Postman\n— SQL\n\nБудет плюсом:\n— Опыт нагрузочного тестирования\n— Базовое понимание backend-разработки\n— Опыт CI интеграции тестов"
+}

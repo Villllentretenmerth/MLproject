@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "56f486a8-a748-46b4-b017-80d3e64f39b1",
+  "title": "Middle Junior Data Analyst",
+  "track": "data_analytics",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ScaleHub",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "SQL",
+    "ETL",
+    "Excel",
+    "Python",
+    "Tableau"
+  ],
+  "optional_skills": [
+    "Опыт построения прогнозных моделей",
+    "Опыт работы в продуктовой аналитике",
+    "Знание Python для анализа данных"
+  ],
+  "tasks": [
+    "Формирование гипотез и A/B тестов",
+    "Подготовка аналитических отчетов",
+    "Построение дашбордов",
+    "Анализ продуктовых метрик"
+  ],
+  "raw_text": "Вакансия: Middle Junior Data Analyst\nКомпания: ScaleHub\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ecommerce\n\nВаши задачи:\n— Формирование гипотез и A/B тестов\n— Подготовка аналитических отчетов\n— Построение дашбордов\n— Анализ продуктовых метрик\n\nНаши ожидания:\n— SQL\n— ETL\n— Excel\n— Python\n— Tableau\n\nБудет плюсом:\n— Опыт построения прогнозных моделей\n— Опыт работы в продуктовой аналитике\n— Знание Python для анализа данных"
+}

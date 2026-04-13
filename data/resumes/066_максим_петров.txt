@@ -1,0 +1,10 @@
+resume_id: 959584db-b6f6-45b6-a0ab-cf1f04eb97f5
+candidate: Максим Петров
+
+Senior DevOps Engineer (Lead)
+Желаемая должность: Senior DevOps Engineer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 11 лет.
+Ключевые навыки: Docker, Kubernetes, Terraform, Azure, Linux, CI/CD, Kafka, AWS.
+Домен: ml_platform.
+О себе: Сильный технический кругозор. Ориентируюсь на бизнес-результат. Ответственно подхожу к срокам и качеству.

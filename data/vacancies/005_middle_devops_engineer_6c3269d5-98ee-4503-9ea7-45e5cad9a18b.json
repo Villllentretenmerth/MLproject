@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "6c3269d5-98ee-4503-9ea7-45e5cad9a18b",
+  "title": "Middle DevOps Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "QuantumApps",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "PostgreSQL",
+    "Linux",
+    "Kubernetes",
+    "Monitoring",
+    "Azure"
+  ],
+  "optional_skills": [
+    "Опыт работы с Kafka",
+    "Опыт построения internal platform",
+    "Опыт FinOps"
+  ],
+  "tasks": [
+    "Наблюдаемость и мониторинг",
+    "Повышение надежности систем",
+    "Автоматизация инфраструктуры",
+    "Работа с контейнерной платформой"
+  ],
+  "raw_text": "Вакансия: Middle DevOps Engineer\nКомпания: QuantumApps\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: ecommerce\n\nВаши задачи:\n— Наблюдаемость и мониторинг\n— Повышение надежности систем\n— Автоматизация инфраструктуры\n— Работа с контейнерной платформой\n\nНаши ожидания:\n— PostgreSQL\n— Linux\n— Kubernetes\n— Monitoring\n— Azure\n\nБудет плюсом:\n— Опыт работы с Kafka\n— Опыт построения internal platform\n— Опыт FinOps"
+}

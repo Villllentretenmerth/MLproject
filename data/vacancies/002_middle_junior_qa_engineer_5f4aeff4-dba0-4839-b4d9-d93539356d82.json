@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "5f4aeff4-dba0-4839-b4d9-d93539356d82",
+  "title": "Middle Junior QA Engineer",
+  "track": "qa",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "CloudCore",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "fintech",
+  "required_skills": [
+    "Manual testing",
+    "API testing",
+    "Jira",
+    "Pytest",
+    "Test Design"
+  ],
+  "optional_skills": [
+    "Базовое понимание backend-разработки",
+    "Опыт нагрузочного тестирования"
+  ],
+  "tasks": [
+    "Автоматизация тестирования",
+    "Регресс и smoke testing",
+    "Проверка API и интеграций",
+    "Заведение дефектов и контроль фиксов"
+  ],
+  "raw_text": "Вакансия: Middle Junior QA Engineer\nКомпания: CloudCore\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: fintech\n\nВаши задачи:\n— Автоматизация тестирования\n— Регресс и smoke testing\n— Проверка API и интеграций\n— Заведение дефектов и контроль фиксов\n\nНаши ожидания:\n— Manual testing\n— API testing\n— Jira\n— Pytest\n— Test Design\n\nБудет плюсом:\n— Базовое понимание backend-разработки\n— Опыт нагрузочного тестирования"
+}

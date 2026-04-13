@@ -1,0 +1,10 @@
+resume_id: f2a061fb-21b4-4a6d-a2c6-09f7864251bb
+candidate: Ольга Кузнецов
+
+Senior DevOps Engineer (Lead)
+Желаемая должность: Senior DevOps Engineer
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 10 лет.
+Ключевые навыки: Linux, Monitoring, Docker, CI/CD, PostgreSQL, Terraform, AWS, Azure.
+Домен: fintech.
+О себе: Ответственно подхожу к срокам и качеству. Люблю работать в команде. Внимателен к качеству решений.

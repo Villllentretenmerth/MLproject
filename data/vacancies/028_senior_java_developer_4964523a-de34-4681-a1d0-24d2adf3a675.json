@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "4964523a-de34-4681-a1d0-24d2adf3a675",
+  "title": "Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Docker",
+    "Redis",
+    "Spring Boot",
+    "PostgreSQL"
+  ],
+  "optional_skills": [
+    "Знание DDD",
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Оптимизация существующего Java-кода",
+    "Интеграция через брокеры сообщений",
+    "Проектирование сервисной архитектуры",
+    "Разработка высоконагруженных микросервисов"
+  ],
+  "raw_text": "Вакансия: Senior Java Developer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: ml_platform\n\nВаши задачи:\n— Оптимизация существующего Java-кода\n— Интеграция через брокеры сообщений\n— Проектирование сервисной архитектуры\n— Разработка высоконагруженных микросервисов\n\nНаши ожидания:\n— Docker\n— Redis\n— Spring Boot\n— PostgreSQL\n\nБудет плюсом:\n— Знание DDD\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices"
+}

@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "c27dadf4-d8a9-404a-a078-9df33e283249",
+  "title": "Middle Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "CloudCore",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "fintech",
+  "required_skills": [
+    "Flask",
+    "Docker",
+    "ClickHouse",
+    "asyncio",
+    "FastAPI",
+    "Python",
+    "Azure"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Middle Backend Python Developer\nКомпания: CloudCore\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 2 лет\nДомен: fintech\n\nВаши задачи:\n— Проектирование и разработка масштабируемых backend-сервисов\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— Flask\n— Docker\n— ClickHouse\n— asyncio\n— FastAPI\n— Python\n— Azure\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с NoSQL"
+}

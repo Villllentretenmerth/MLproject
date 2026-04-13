@@ -1,0 +1,10 @@
+resume_id: b9fc5439-47f1-44d2-85df-a9e7cc6c7eb2
+candidate: Ольга Кузнецов
+
+Junior Data Analyst (Senior)
+Желаемая должность: Junior Data Analyst
+Образование: ВШЭ, Бизнес-информатика
+Опыт работы: 5 лет.
+Ключевые навыки: Data Visualization, A/B testing, Statistics, ETL, Excel, Tableau, Pandas, SQL.
+Домен: enterprise.
+О себе: Внимателен к качеству решений. Сильный технический кругозор. Быстро погружаюсь в новую предметную область.

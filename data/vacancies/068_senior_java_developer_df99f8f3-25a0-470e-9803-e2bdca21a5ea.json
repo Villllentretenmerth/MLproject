@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "df99f8f3-25a0-470e-9803-e2bdca21a5ea",
+  "title": "Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Senior",
+  "min_years_experience": 6,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "enterprise",
+  "required_skills": [
+    "Docker",
+    "Kafka",
+    "Microservices",
+    "Hibernate",
+    "Spring Boot",
+    "JUnit"
+  ],
+  "optional_skills": [
+    "Знание DDD",
+    "Опыт performance tuning JVM"
+  ],
+  "tasks": [
+    "Покрытие кода тестами",
+    "Оптимизация существующего Java-кода",
+    "Проектирование сервисной архитектуры",
+    "Интеграция через брокеры сообщений"
+  ],
+  "raw_text": "Вакансия: Senior Java Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 6 лет\nДомен: enterprise\n\nВаши задачи:\n— Покрытие кода тестами\n— Оптимизация существующего Java-кода\n— Проектирование сервисной архитектуры\n— Интеграция через брокеры сообщений\n\nНаши ожидания:\n— Docker\n— Kafka\n— Microservices\n— Hibernate\n— Spring Boot\n— JUnit\n\nБудет плюсом:\n— Знание DDD\n— Опыт performance tuning JVM"
+}

@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "1bd1418a-4425-4862-ac84-40855cb94933",
+  "title": "Middle Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Django",
+    "CI/CD",
+    "asyncio",
+    "Flask",
+    "MongoDB",
+    "Kubernetes",
+    "RabbitMQ"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Middle Senior Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: ecommerce\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n— Проектирование и разработка масштабируемых backend-сервисов\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— Django\n— CI/CD\n— asyncio\n— Flask\n— MongoDB\n— Kubernetes\n— RabbitMQ\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Понимание frontend-части\n— Опыт работы с NoSQL"
+}

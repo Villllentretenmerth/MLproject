@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "7cb2f85e-d414-426e-a25f-1cc55366bc55",
+  "title": "Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Senior",
+  "min_years_experience": 6,
+  "company": "ScaleHub",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "AWS",
+    "FastAPI",
+    "ClickHouse",
+    "MongoDB",
+    "Kafka"
+  ],
+  "optional_skills": [
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Senior Python Developer\nКомпания: ScaleHub\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 6 лет\nДомен: edtech\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— AWS\n— FastAPI\n— ClickHouse\n— MongoDB\n— Kafka\n\nБудет плюсом:\n— Open Source вклад"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "ed619031-aa58-4028-94fb-f7ad0d6445ee",
+  "title": "Senior QA Engineer",
+  "track": "qa",
+  "seniority": "Senior",
+  "min_years_experience": 6,
+  "company": "DataPulse",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "enterprise",
+  "required_skills": [
+    "Jira",
+    "SQL",
+    "Postman",
+    "API testing",
+    "Test Design",
+    "Manual testing"
+  ],
+  "optional_skills": [
+    "Базовое понимание backend-разработки"
+  ],
+  "tasks": [
+    "Заведение дефектов и контроль фиксов",
+    "Автоматизация тестирования",
+    "Регресс и smoke testing",
+    "Написание тест-кейсов"
+  ],
+  "raw_text": "Вакансия: Senior QA Engineer\nКомпания: DataPulse\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 6 лет\nДомен: enterprise\n\nВаши задачи:\n— Заведение дефектов и контроль фиксов\n— Автоматизация тестирования\n— Регресс и smoke testing\n— Написание тест-кейсов\n\nНаши ожидания:\n— Jira\n— SQL\n— Postman\n— API testing\n— Test Design\n— Manual testing\n\nБудет плюсом:\n— Базовое понимание backend-разработки"
+}

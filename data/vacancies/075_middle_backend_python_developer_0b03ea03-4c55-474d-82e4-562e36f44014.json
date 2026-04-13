@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "0b03ea03-4c55-474d-82e4-562e36f44014",
+  "title": "Middle Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "Docker",
+    "Django",
+    "Kubernetes",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Разработка и поддержка API",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Middle Backend Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: edtech\n\nВаши задачи:\n— Разработка и поддержка API\n— Проектирование и разработка масштабируемых backend-сервисов\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— Docker\n— Django\n— Kubernetes\n— MongoDB\n— PostgreSQL\n\nБудет плюсом:\n— Опыт работы с ClickHouse"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "eda74eea-e9c0-486a-b321-ed9297acb408",
+  "title": "Senior Data Analyst",
+  "track": "data_analytics",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "FinMatrix",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Statistics",
+    "Python",
+    "SQL",
+    "Data Visualization",
+    "Tableau",
+    "Excel"
+  ],
+  "optional_skills": [
+    "Знание Python для анализа данных"
+  ],
+  "tasks": [
+    "Анализ продуктовых метрик",
+    "Построение дашбордов",
+    "Сбор и очистка данных",
+    "Подготовка аналитических отчетов"
+  ],
+  "raw_text": "Вакансия: Senior Data Analyst\nКомпания: FinMatrix\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 5 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Анализ продуктовых метрик\n— Построение дашбордов\n— Сбор и очистка данных\n— Подготовка аналитических отчетов\n\nНаши ожидания:\n— Statistics\n— Python\n— SQL\n— Data Visualization\n— Tableau\n— Excel\n\nБудет плюсом:\n— Знание Python для анализа данных"
+}

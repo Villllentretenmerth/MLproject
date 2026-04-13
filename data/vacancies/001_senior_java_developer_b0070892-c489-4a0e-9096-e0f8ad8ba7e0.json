@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "b0070892-c489-4a0e-9096-e0f8ad8ba7e0",
+  "title": "Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "enterprise",
+  "required_skills": [
+    "Spring Boot",
+    "Redis",
+    "Docker",
+    "PostgreSQL",
+    "JUnit",
+    "Java",
+    "Microservices"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM",
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Проектирование сервисной архитектуры",
+    "Интеграция через брокеры сообщений",
+    "Оптимизация существующего Java-кода",
+    "Покрытие кода тестами"
+  ],
+  "raw_text": "Вакансия: Senior Java Developer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: enterprise\n\nВаши задачи:\n— Проектирование сервисной архитектуры\n— Интеграция через брокеры сообщений\n— Оптимизация существующего Java-кода\n— Покрытие кода тестами\n\nНаши ожидания:\n— Spring Boot\n— Redis\n— Docker\n— PostgreSQL\n— JUnit\n— Java\n— Microservices\n\nБудет плюсом:\n— Опыт performance tuning JVM\n— Знание DDD"
+}

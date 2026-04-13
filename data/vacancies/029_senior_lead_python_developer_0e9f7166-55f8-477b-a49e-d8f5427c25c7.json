@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "0e9f7166-55f8-477b-a49e-d8f5427c25c7",
+  "title": "Senior Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Senior",
+  "min_years_experience": 7,
+  "company": "NextLayer",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "asyncio",
+    "Django",
+    "FastAPI",
+    "ClickHouse",
+    "Redis",
+    "CI/CD",
+    "RabbitMQ"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с ClickHouse",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Senior Lead Python Developer\nКомпания: NextLayer\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 7 лет\nДомен: ecommerce\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— asyncio\n— Django\n— FastAPI\n— ClickHouse\n— Redis\n— CI/CD\n— RabbitMQ\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с ClickHouse\n— Опыт работы с NoSQL"
+}

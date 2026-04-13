@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "5c07e748-42f6-4fb7-9a5a-af7abad18d34",
+  "title": "Middle Backend Java Engineer",
+  "track": "java_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "TechNova",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "JUnit",
+    "PostgreSQL",
+    "Spring Boot",
+    "Microservices",
+    "Java",
+    "Kafka",
+    "Hibernate"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM",
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Оптимизация существующего Java-кода",
+    "Покрытие кода тестами",
+    "Интеграция через брокеры сообщений",
+    "Проектирование сервисной архитектуры"
+  ],
+  "raw_text": "Вакансия: Middle Backend Java Engineer\nКомпания: TechNova\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: edtech\n\nВаши задачи:\n— Оптимизация существующего Java-кода\n— Покрытие кода тестами\n— Интеграция через брокеры сообщений\n— Проектирование сервисной архитектуры\n\nНаши ожидания:\n— JUnit\n— PostgreSQL\n— Spring Boot\n— Microservices\n— Java\n— Kafka\n— Hibernate\n\nБудет плюсом:\n— Опыт performance tuning JVM\n— Знание DDD"
+}

@@ -1,0 +1,10 @@
+resume_id: b7254670-4bc2-425a-ab5f-a9e2d0df813b
+candidate: Ольга Смирнова
+
+Backend Java Engineer (Senior)
+Желаемая должность: Backend Java Engineer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 5 лет.
+Ключевые навыки: Spring Boot, Microservices, Docker, PostgreSQL, Hibernate.
+Домен: enterprise.
+О себе: Ответственно подхожу к срокам и качеству. Ориентируюсь на бизнес-результат. Быстро погружаюсь в новую предметную область.

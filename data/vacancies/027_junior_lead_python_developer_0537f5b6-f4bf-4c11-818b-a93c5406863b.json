@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "0537f5b6-f4bf-4c11-818b-a93c5406863b",
+  "title": "Junior Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "MongoDB",
+    "Pytest",
+    "Azure",
+    "Kafka",
+    "FastAPI"
+  ],
+  "optional_skills": [
+    "Open Source вклад",
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Junior Lead Python Developer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: fintech\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— MongoDB\n— Pytest\n— Azure\n— Kafka\n— FastAPI\n\nБудет плюсом:\n— Open Source вклад\n— Понимание frontend-части"
+}

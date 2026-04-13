@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "b08d9f90-1041-4dc8-b169-6e09d8387e1f",
+  "title": "Junior Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Kubernetes",
+    "AWS",
+    "RabbitMQ",
+    "Flask",
+    "Pytest"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Менторство middle-разработчиков",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Разработка и поддержка API"
+  ],
+  "raw_text": "Вакансия: Junior Lead Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Менторство middle-разработчиков\n— Проектирование и разработка масштабируемых backend-сервисов\n— Разработка и поддержка API\n\nНаши ожидания:\n— Kubernetes\n— AWS\n— RabbitMQ\n— Flask\n— Pytest\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Опыт работы с NoSQL"
+}

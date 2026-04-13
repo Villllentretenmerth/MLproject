@@ -1,0 +1,10 @@
+resume_id: 0c0bbd40-cfc7-4a0b-8c98-7f60b2516189
+candidate: Светлана Федоров
+
+Senior Python Developer (Senior)
+Желаемая должность: Senior Python Developer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 5 лет.
+Ключевые навыки: ClickHouse, Python, Kubernetes, AWS, Kafka, RabbitMQ, Redis.
+Домен: fintech.
+О себе: Сильный технический кругозор. Внимателен к качеству решений. Быстро погружаюсь в новую предметную область.

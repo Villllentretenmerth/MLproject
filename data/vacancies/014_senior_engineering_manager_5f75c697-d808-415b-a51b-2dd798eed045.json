@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "5f75c697-d808-415b-a51b-2dd798eed045",
+  "title": "Senior Engineering Manager",
+  "track": "management",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "ProductWave",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Scrum",
+    "Roadmap Planning",
+    "Budgeting",
+    "Kanban",
+    "Stakeholder Management",
+    "Confluence"
+  ],
+  "optional_skills": [
+    "Технический бэкграунд"
+  ],
+  "tasks": [
+    "Управление delivery команды",
+    "Коммуникация со стейкхолдерами",
+    "Планирование roadmap",
+    "Управление рисками и сроками"
+  ],
+  "raw_text": "Вакансия: Senior Engineering Manager\nКомпания: ProductWave\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 5 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Управление delivery команды\n— Коммуникация со стейкхолдерами\n— Планирование roadmap\n— Управление рисками и сроками\n\nНаши ожидания:\n— Scrum\n— Roadmap Planning\n— Budgeting\n— Kanban\n— Stakeholder Management\n— Confluence\n\nБудет плюсом:\n— Технический бэкграунд"
+}
