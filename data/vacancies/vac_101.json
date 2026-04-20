@@ -1,0 +1,33 @@
+{
+  "vacancy_id": "vac_101",
+  "title": "Python Backend Developer (FastAPI)",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "DemoCompany",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "platform",
+  "required_skills": [
+    "Python",
+    "FastAPI",
+    "REST",
+    "SQL",
+    "PostgreSQL",
+    "Docker",
+    "Linux"
+  ],
+  "optional_skills": [
+    "Redis",
+    "CI/CD",
+    "RabbitMQ",
+    "Kubernetes"
+  ],
+  "tasks": [
+    "Разработка и поддержка решений по направлению вакансии",
+    "Работа с ключевыми инструментами: Python, FastAPI, REST, SQL",
+    "Разработка REST API на FastAPI, работа с Postgres, контейнеризация docker. Плюсом Redis, CI/CD, очереди сообщений, k8s.",
+    "Взаимодействие с командой направления Platform"
+  ],
+  "raw_text": "Вакансия: Python Backend Developer (FastAPI)\nКомпания: DemoCompany\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: platform\n\nВаши задачи:\n— Разработка и поддержка решений по направлению вакансии\n— Работа с ключевыми инструментами: Python, FastAPI, REST, SQL\n— Разработка REST API на FastAPI, работа с Postgres, контейнеризация docker. Плюсом Redis, CI/CD, очереди сообщений, k8s.\n— Взаимодействие с командой направления Platform\n\nНаши ожидания:\n— Python\n— FastAPI\n— REST\n— SQL\n— PostgreSQL\n— Docker\n— Linux\n\nБудет плюсом:\n— Redis\n— CI/CD\n— RabbitMQ\n— Kubernetes"
+}

@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "vac_102",
+  "title": "Junior Python Backend Developer (Django)",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 1,
+  "company": "DemoCompany",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "core",
+  "required_skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "PostgreSQL"
+  ],
+  "optional_skills": [
+    "Docker",
+    "REST",
+    "CI/CD"
+  ],
+  "tasks": [
+    "Разработка и поддержка решений по направлению вакансии",
+    "Работа с ключевыми инструментами: Python, Django, SQL, PostgreSQL",
+    "Разработка серверной части на Django, работа с БД, API, базовые практики dev.",
+    "Взаимодействие с командой направления Core"
+  ],
+  "raw_text": "Вакансия: Junior Python Backend Developer (Django)\nКомпания: DemoCompany\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 1 лет\nДомен: core\n\nВаши задачи:\n— Разработка и поддержка решений по направлению вакансии\n— Работа с ключевыми инструментами: Python, Django, SQL, PostgreSQL\n— Разработка серверной части на Django, работа с БД, API, базовые практики dev.\n— Взаимодействие с командой направления Core\n\nНаши ожидания:\n— Python\n— Django\n— SQL\n— PostgreSQL\n\nБудет плюсом:\n— Docker\n— REST\n— CI/CD"
+}

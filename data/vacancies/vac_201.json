@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "vac_201",
+  "title": "Data Analyst (SQL, BI)",
+  "track": "data_analytics",
+  "seniority": "Junior",
+  "min_years_experience": 1,
+  "company": "DemoCompany",
+  "work_format": "Berlin / Hybrid",
+  "employment_type": "Полная",
+  "domain": "analytics",
+  "required_skills": [
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Python",
+    "Pandas"
+  ],
+  "optional_skills": [
+    "ETL",
+    "Airflow",
+    "Tableau"
+  ],
+  "tasks": [
+    "Сбор, анализ и интерпретация данных для бизнеса",
+    "Работа с ключевыми инструментами: SQL, Excel, Power BI, Python",
+    "SQL-запросы, отчётность и дашборды в Power BI, работа с Excel. Плюсом ETL/Airflow/Tableau.",
+    "Взаимодействие с командой направления Analytics"
+  ],
+  "raw_text": "Вакансия: Data Analyst (SQL, BI)\nКомпания: DemoCompany\nФормат работы: Berlin / Hybrid\nЗанятость: Полная\nОпыт работы: от 1 лет\nДомен: analytics\n\nВаши задачи:\n— Сбор, анализ и интерпретация данных для бизнеса\n— Работа с ключевыми инструментами: SQL, Excel, Power BI, Python\n— SQL-запросы, отчётность и дашборды в Power BI, работа с Excel. Плюсом ETL/Airflow/Tableau.\n— Взаимодействие с командой направления Analytics\n\nНаши ожидания:\n— SQL\n— Excel\n— Power BI\n— Python\n— Pandas\n\nБудет плюсом:\n— ETL\n— Airflow\n— Tableau"
+}

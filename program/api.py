@@ -15,14 +15,9 @@ UPLOAD_DIR = BASE_DIR / 'uploads'
 UPLOAD_DIR.mkdir(exist_ok=True)
 init_db(DEFAULT_DB_PATH)
 
-@app.get('/health')
-def health():
-    return {'status': 'ok'}
-
-
 @app.post('/vacancies')
 def create_vacancy(payload: dict[str, Any]):
-    tmp_path = UPLOAD_DIR / 'vacancy_from_api.json'
+    tmp_path = BASE_DIR / 'data' /'vacancies' / 'vacancy_from_api.json'
     import json
     tmp_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
     vacancy_id = import_vacancy_json(tmp_path)
@@ -36,7 +31,7 @@ async def upload_resume(file: UploadFile = File(...)):
         raise HTTPException(status_code=400, detail='Поддерживаются только TXT и PDF')
 
     data = await file.read()
-    target = UPLOAD_DIR / (file.filename or 'resume.txt')
+    target = BASE_DIR / 'data' / 'resumes' / (file.filename or 'resume.txt')
     target.write_bytes(data)
 
     from .importers import import_resume_file
@@ -60,7 +55,7 @@ def create_resume_from_text(full_name: str = Form(...), resume_text: str = Form(
 
 
 @app.get('/db/summary')
-def db_summary() -> dict[str, int]:
+def db_summary():
     result: dict[str, int] = {}
     with get_connection(DEFAULT_DB_PATH) as conn:
         for table in ['vacancies', 'candidates', 'resumes', 'skills', 'vacancy_skill_requirements']:

@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "vac_202",
+  "title": "Junior Data Analyst (SQL + Excel)",
+  "track": "data_analytics",
+  "seniority": "Junior",
+  "min_years_experience": 1,
+  "company": "DemoCompany",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "analytics",
+  "required_skills": [
+    "SQL",
+    "Excel"
+  ],
+  "optional_skills": [
+    "Power BI",
+    "Python",
+    "Pandas"
+  ],
+  "tasks": [
+    "Сбор, анализ и интерпретация данных для бизнеса",
+    "Работа с ключевыми инструментами: SQL, Excel",
+    "Выгрузки, отчётность, SQL/Excel. Плюсом Power BI и базовый Python/pandas.",
+    "Взаимодействие с командой направления Analytics"
+  ],
+  "raw_text": "Вакансия: Junior Data Analyst (SQL + Excel)\nКомпания: DemoCompany\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 1 лет\nДомен: analytics\n\nВаши задачи:\n— Сбор, анализ и интерпретация данных для бизнеса\n— Работа с ключевыми инструментами: SQL, Excel\n— Выгрузки, отчётность, SQL/Excel. Плюсом Power BI и базовый Python/pandas.\n— Взаимодействие с командой направления Analytics\n\nНаши ожидания:\n— SQL\n— Excel\n\nБудет плюсом:\n— Power BI\n— Python\n— Pandas"
+}

@@ -2,12 +2,25 @@ PRAGMA foreign_keys = ON;
 
 -- Вакансии
 CREATE TABLE IF NOT EXISTS vacancies (
-  id              INTEGER PRIMARY KEY AUTOINCREMENT,
-  title           TEXT NOT NULL,
-  description     TEXT NOT NULL,
-  created_at      TEXT NOT NULL DEFAULT (datetime('now')),
-  updated_at      TEXT
+  id                    INTEGER PRIMARY KEY AUTOINCREMENT,
+  external_id           TEXT UNIQUE,
+  title                 TEXT NOT NULL,
+  role                  TEXT,
+  track                 TEXT,
+  seniority             TEXT,
+  company               TEXT,
+  work_format           TEXT,
+  employment_type       TEXT,
+  domain                TEXT,
+  min_years_experience  REAL,
+  raw_text              TEXT,
+  description           TEXT NOT NULL,
+  created_at            TEXT NOT NULL DEFAULT (datetime('now')),
+  updated_at            TEXT
 );
+CREATE INDEX IF NOT EXISTS idx_vacancies_role ON vacancies(role);
+CREATE INDEX IF NOT EXISTS idx_vacancies_track ON vacancies(track);
+CREATE INDEX IF NOT EXISTS idx_vacancies_seniority ON vacancies(seniority);
 
 -- Кандидаты
 CREATE TABLE IF NOT EXISTS candidates (
@@ -72,16 +85,25 @@ CREATE TABLE IF NOT EXISTS resume_skills (
   FOREIGN KEY(resume_id) REFERENCES resumes(id) ON DELETE CASCADE,
   FOREIGN KEY(skill_id) REFERENCES skills(id) ON DELETE CASCADE
 );
+CREATE INDEX IF NOT EXISTS idx_resume_skills_resume ON resume_skills(resume_id);
+CREATE INDEX IF NOT EXISTS idx_resume_skills_skill ON resume_skills(skill_id);
 
 -- Итоговый score
 CREATE TABLE IF NOT EXISTS scores (
-  id              INTEGER PRIMARY KEY AUTOINCREMENT,
-  vacancy_id      INTEGER NOT NULL,
-  resume_id       INTEGER NOT NULL,
-  score           REAL NOT NULL CHECK (score >= 0 AND score <= 100),
-  matched_required INTEGER NOT NULL DEFAULT 0,
-  matched_optional INTEGER NOT NULL DEFAULT 0,
-  created_at      TEXT NOT NULL DEFAULT (datetime('now')),
+  id                      INTEGER PRIMARY KEY AUTOINCREMENT,
+  vacancy_id              INTEGER NOT NULL,
+  resume_id               INTEGER NOT NULL,
+  score                   REAL NOT NULL CHECK (score >= 0 AND score <= 100),
+  keyword_score           REAL,
+  semantic_score          REAL,
+  matched_required        INTEGER NOT NULL DEFAULT 0,
+  matched_optional        INTEGER NOT NULL DEFAULT 0,
+  required_weight_matched REAL NOT NULL DEFAULT 0,
+  required_weight_total   REAL NOT NULL DEFAULT 0,
+  optional_weight_matched REAL NOT NULL DEFAULT 0,
+  optional_weight_total   REAL NOT NULL DEFAULT 0,
+  explanation             TEXT,
+  created_at              TEXT NOT NULL DEFAULT (datetime('now')),
   UNIQUE(vacancy_id, resume_id),
   FOREIGN KEY(vacancy_id) REFERENCES vacancies(id) ON DELETE CASCADE,
   FOREIGN KEY(resume_id) REFERENCES resumes(id) ON DELETE CASCADE
@@ -94,7 +116,7 @@ CREATE TABLE IF NOT EXISTS score_skill_matches (
   score_id        INTEGER NOT NULL,
   skill_id        INTEGER NOT NULL,
   match_type      TEXT NOT NULL CHECK (match_type IN ('required','optional')),
-  proof           TEXT,               
+  proof           TEXT,
   PRIMARY KEY (score_id, skill_id),
   FOREIGN KEY(score_id) REFERENCES scores(id) ON DELETE CASCADE,
   FOREIGN KEY(skill_id) REFERENCES skills(id) ON DELETE CASCADE

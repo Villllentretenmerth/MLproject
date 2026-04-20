@@ -2,3 +2,7 @@ fastapi>=0.110
 uvicorn>=0.29
 pypdf>=4.0
 python-multipart>=0.0.9
+scikit-learn
+sentence-transformers
+torch
+transformers

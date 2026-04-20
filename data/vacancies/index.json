@@ -478,5 +478,53 @@
     "vacancy_id": "6082c9bd-5b61-464a-951e-a5955c71a993",
     "title": "Middle Backend Python Developer",
     "filename": "080_middle_backend_python_developer_6082c9bd-5b61-464a-951e-a5955c71a993.json"
+  },
+  {
+    "num": 81,
+    "vacancy_id": "vac_101",
+    "title": "Python Backend Developer (FastAPI)",
+    "filename": "vac_101.json"
+  },
+  {
+    "num": 82,
+    "vacancy_id": "vac_102",
+    "title": "Junior Python Backend Developer (Django)",
+    "filename": "vac_102.json"
+  },
+  {
+    "num": 83,
+    "vacancy_id": "vac_201",
+    "title": "Data Analyst (SQL, BI)",
+    "filename": "vac_201.json"
+  },
+  {
+    "num": 84,
+    "vacancy_id": "vac_202",
+    "title": "Junior Data Analyst (SQL + Excel)",
+    "filename": "vac_202.json"
+  },
+  {
+    "num": 85,
+    "vacancy_id": "vac_301",
+    "title": "QA Engineer (Manual + API)",
+    "filename": "vac_301.json"
+  },
+  {
+    "num": 86,
+    "vacancy_id": "vac_501",
+    "title": "DevOps Engineer (CI/CD, Docker, Kubernetes)",
+    "filename": "vac_501.json"
+  },
+  {
+    "num": 87,
+    "vacancy_id": "vac_601",
+    "title": "Project Manager (IT / Agile)",
+    "filename": "vac_601.json"
+  },
+  {
+    "num": 88,
+    "vacancy_id": "vac_701",
+    "title": "UX/UI Designer (Figma)",
+    "filename": "vac_701.json"
   }
 ]

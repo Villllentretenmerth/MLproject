@@ -40,7 +40,15 @@ def extract_text(path: str | Path):
 
 
 def infer_candidate_name(text: str, fallback_name: str):
-    first_line = clean_text(text).split('\n')[0].strip()
-    if 2 <= len(first_line) <= 120:
-        return first_line
+    lines = [line.strip() for line in clean_text(text).split('\n') if line.strip()]
+    for line in lines[:8]:
+        lowered = line.casefold()
+        if lowered.startswith('resume_id:'):
+            continue
+        if lowered.startswith('candidate:'):
+            candidate = line.split(':', 1)[1].strip()
+            if 2 <= len(candidate) <= 120:
+                return candidate
+        if 2 <= len(line) <= 120 and not any(lowered.startswith(prefix) for prefix in ['желаемая должность:', 'образование:', 'опыт работы:', 'ключевые навыки:', 'домен:', 'о себе:']):
+            return line
     return fallback_name
