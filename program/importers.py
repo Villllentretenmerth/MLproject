@@ -242,6 +242,10 @@ def import_all_resumes(resumes_dir: str | Path = DEFAULT_RESUMES_DIR, db_path: s
 
 
 def bootstrap_project(db_path: str | Path = DEFAULT_DB_PATH):
+    db_path = Path(db_path)
+    if db_path.exists():
+        db_path.unlink()
+
     init_db(db_path=db_path)
     load_taxonomy(db_path=db_path)
     vacancies_loaded = import_all_vacancies(db_path=db_path)

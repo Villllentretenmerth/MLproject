@@ -38,6 +38,10 @@ class ScoreResult:
     required_weight_total: float
     optional_weight_matched: float
     optional_weight_total: float
+    experience_years: float | None
+    required_experience_years: float | None
+    experience_shortfall_years: float
+    experience_penalty: float
     found_skills: list[dict[str, Any]]
     missing_required_skills: list[str]
     backend: str
@@ -176,13 +180,59 @@ def semantic_similarity(
     raise ValueError(f"Unsupported semantic backend: {backend}")
 
 
+def extract_experience_years(text: str) -> float | None:
+    normalized = clean_text(text or "")
+    patterns = [
+        r"опыт\s+работы\s*[:\-]?\s*(\d+(?:[\.,]\d+)?)\s*(?:лет|года|год)",
+        r"experience\s*[:\-]?\s*(\d+(?:[\.,]\d+)?)\s*(?:years?|yrs?)",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, normalized, flags=re.IGNORECASE | re.UNICODE)
+        if not match:
+            continue
+        value = match.group(1).replace(",", ".")
+        try:
+            years = float(value)
+        except ValueError:
+            continue
+        return max(0.0, years)
+    return None
+
+
+def resolve_required_experience_years(
+    requirements: list[VacancyRequirement],
+    vacancy_min_years: float | None = None,
+) -> float | None:
+    values: list[float] = []
+    if vacancy_min_years is not None:
+        values.append(float(vacancy_min_years))
+    values.extend(float(req.min_years) for req in requirements if req.min_years is not None)
+    return max(values) if values else None
+
+
+def calculate_experience_penalty(
+    experience_years: float | None,
+    required_experience_years: float | None,
+) -> tuple[float, float]:
+    if required_experience_years is None or experience_years is None:
+        return 1.0, 0.0
+
+    shortfall = max(0.0, required_experience_years - experience_years)
+    if shortfall <= 0:
+        return 1.0, 0.0
+
+    penalty = max(0.45, 1.0 - 0.12 * shortfall)
+    return penalty, shortfall
+
+
 def get_vacancy_payload(
     vacancy_id: int,
     db_path: str | Path = DEFAULT_DB_PATH,):
     with get_connection(db_path) as conn:
         vacancy = conn.execute(
             """
-            SELECT id, title, description, raw_text
+            SELECT id, title, description, raw_text, min_years_experience
             FROM vacancies
             WHERE id = ?
             """,
@@ -233,6 +283,7 @@ def get_vacancy_payload(
         "description": vacancy["description"],
         "raw_text": vacancy["raw_text"],
         "requirements": requirements,
+        "min_years_experience": float(vacancy["min_years_experience"]) if vacancy["min_years_experience"] is not None else None,
     }
 
 
@@ -283,6 +334,7 @@ def calculate_score(
     backend: str = "auto",
     language: str | None = None,
     model_name: str | None = None,
+    vacancy_min_years: float | None = None,
 ):
     resume_text = clean_text(resume_text or "")
     vacancy_text = clean_text(vacancy_text or "")
@@ -290,6 +342,12 @@ def calculate_score(
 
     required_items = [r for r in requirements if r.is_required]
     optional_items = [r for r in requirements if not r.is_required]
+
+    experience_years = extract_experience_years(resume_text)
+    required_experience_years = resolve_required_experience_years(
+        requirements=requirements,
+        vacancy_min_years=vacancy_min_years,
+    )
 
     required_weight_total = sum(max(r.weight, 0.0) for r in required_items)
     optional_weight_total = sum(max(r.weight, 0.0) for r in optional_items)
@@ -350,7 +408,17 @@ def calculate_score(
         missing_ratio = len(missing_required_skills) / len(required_items)
         missing_penalty = max(0.5, 1.0 - 0.35 * missing_ratio)
 
-    final_score = 100.0 * (0.65 * keyword_score + 0.35 * semantic_score) * missing_penalty
+    experience_penalty, experience_shortfall_years = calculate_experience_penalty(
+        experience_years=experience_years,
+        required_experience_years=required_experience_years,
+    )
+
+    final_score = (
+        100.0
+        * (0.65 * keyword_score + 0.35 * semantic_score)
+        * missing_penalty
+        * experience_penalty
+    )
     final_score = round(max(0.0, min(100.0, final_score)), 2)
 
     return ScoreResult(
@@ -367,6 +435,10 @@ def calculate_score(
         required_weight_total=round(required_weight_total, 4),
         optional_weight_matched=round(optional_weight_matched, 4),
         optional_weight_total=round(optional_weight_total, 4),
+        experience_years=round(experience_years, 2) if experience_years is not None else None,
+        required_experience_years=round(required_experience_years, 2) if required_experience_years is not None else None,
+        experience_shortfall_years=round(experience_shortfall_years, 2),
+        experience_penalty=round(experience_penalty, 4),
         found_skills=sorted(found_skills, key=lambda x: (-float(x["weight"]), x["skill"])),
         missing_required_skills=missing_required_skills,
         backend=backend_used,
@@ -382,6 +454,10 @@ def save_score(
     explanation = {
         "backend": result.backend,
         "language": result.language,
+        "experience_years": result.experience_years,
+        "required_experience_years": result.required_experience_years,
+        "experience_shortfall_years": result.experience_shortfall_years,
+        "experience_penalty": result.experience_penalty,
         "found_skills": [
             {
                 "skill": item["skill"],
@@ -506,6 +582,7 @@ def score_resume_against_vacancy(
         requirements=vacancy["requirements"],
         backend=backend,
         model_name=model_name,
+        vacancy_min_years=vacancy.get("min_years_experience"),
     )
 
     score_id = save_score(vacancy_id, resume_id, result, db_path=db_path)
