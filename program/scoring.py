@@ -165,7 +165,7 @@ def semantic_similarity(
     resume_text: str,
     backend: str = "auto",
     language: str | None = None,
-    model_name: str | None = None,):
+    model_name: str | None = None):
     language = language or detect_language(f"{vacancy_text}\n{resume_text}")
     selected_backend = "hf" if backend == "auto" else backend
 
@@ -180,7 +180,7 @@ def semantic_similarity(
     raise ValueError(f"Unsupported semantic backend: {backend}")
 
 
-def extract_experience_years(text: str) -> float | None:
+def extract_experience_years(text: str):
     normalized = clean_text(text or "")
     patterns = [
         r"опыт\s+работы\s*[:\-]?\s*(\d+(?:[\.,]\d+)?)\s*(?:лет|года|год)",
@@ -202,8 +202,7 @@ def extract_experience_years(text: str) -> float | None:
 
 def resolve_required_experience_years(
     requirements: list[VacancyRequirement],
-    vacancy_min_years: float | None = None,
-) -> float | None:
+    vacancy_min_years: float | None = None):
     values: list[float] = []
     if vacancy_min_years is not None:
         values.append(float(vacancy_min_years))
@@ -213,8 +212,7 @@ def resolve_required_experience_years(
 
 def calculate_experience_penalty(
     experience_years: float | None,
-    required_experience_years: float | None,
-) -> tuple[float, float]:
+    required_experience_years: float | None):
     if required_experience_years is None or experience_years is None:
         return 1.0, 0.0
 
@@ -228,7 +226,7 @@ def calculate_experience_penalty(
 
 def get_vacancy_payload(
     vacancy_id: int,
-    db_path: str | Path = DEFAULT_DB_PATH,):
+    db_path: str | Path = DEFAULT_DB_PATH):
     with get_connection(db_path) as conn:
         vacancy = conn.execute(
             """
@@ -289,7 +287,7 @@ def get_vacancy_payload(
 
 def get_resume_payload(
     resume_id: int,
-    db_path: str | Path = DEFAULT_DB_PATH,):
+    db_path: str | Path = DEFAULT_DB_PATH):
     with get_connection(db_path) as conn:
         row = conn.execute(
             """
@@ -334,8 +332,7 @@ def calculate_score(
     backend: str = "auto",
     language: str | None = None,
     model_name: str | None = None,
-    vacancy_min_years: float | None = None,
-):
+    vacancy_min_years: float | None = None):
     resume_text = clean_text(resume_text or "")
     vacancy_text = clean_text(vacancy_text or "")
     language = language or detect_language(f"{vacancy_text}\n{resume_text}")
