@@ -1,0 +1,10 @@
+resume_id: 3cd3e626-70ff-46c0-8cd7-c9d4baf5a5a3
+candidate: Светлана Орлов
+
+Backend Python Developer (Middle)
+Желаемая должность: Backend Python Developer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 4 лет.
+Ключевые навыки: AWS, Kubernetes, Azure, Pytest, Kafka, asyncio.
+Домен: fintech.
+О себе: Сильный технический кругозор. Быстро погружаюсь в новую предметную область. Люблю работать в команде.

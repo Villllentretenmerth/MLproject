@@ -1,0 +1,10 @@
+resume_id: 19dca725-f231-489f-a6c1-dc1133bbd23e
+candidate: Дмитрий Морозова
+
+Java Developer (Junior)
+Желаемая должность: Java Developer
+Образование: ИТМО, Программная инженерия
+Опыт работы: 1 лет.
+Ключевые навыки: Hibernate, PostgreSQL, Microservices, Docker, Kafka, Java, JUnit, Redis.
+Домен: ecommerce.
+О себе: Люблю работать в команде. Внимателен к качеству решений. Ответственно подхожу к срокам и качеству.

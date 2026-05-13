@@ -1,0 +1,10 @@
+resume_id: 7f80ad8c-45a2-4511-96a3-4ae762e166f5
+candidate: Максим Смирнова
+
+Junior QA Engineer (Senior)
+Желаемая должность: Junior QA Engineer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 6 лет.
+Ключевые навыки: Postman, Python, Test Design, API testing, Pytest, Selenium, Manual testing.
+Домен: enterprise.
+О себе: Сильный технический кругозор. Быстро погружаюсь в новую предметную область. Внимателен к качеству решений.

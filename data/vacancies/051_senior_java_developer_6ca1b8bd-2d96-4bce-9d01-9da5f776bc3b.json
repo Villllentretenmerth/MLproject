@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "6ca1b8bd-2d96-4bce-9d01-9da5f776bc3b",
+  "title": "Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "DataPulse",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Kafka",
+    "Redis",
+    "Microservices",
+    "Hibernate",
+    "Spring Boot",
+    "Kubernetes",
+    "Docker"
+  ],
+  "optional_skills": [
+    "Опыт миграции monolith to microservices",
+    "Опыт performance tuning JVM",
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Покрытие кода тестами",
+    "Разработка высоконагруженных микросервисов",
+    "Проектирование сервисной архитектуры",
+    "Интеграция через брокеры сообщений"
+  ],
+  "raw_text": "Вакансия: Senior Java Developer\nКомпания: DataPulse\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: ml_platform\n\nВаши задачи:\n— Покрытие кода тестами\n— Разработка высоконагруженных микросервисов\n— Проектирование сервисной архитектуры\n— Интеграция через брокеры сообщений\n\nНаши ожидания:\n— Kafka\n— Redis\n— Microservices\n— Hibernate\n— Spring Boot\n— Kubernetes\n— Docker\n\nБудет плюсом:\n— Опыт миграции monolith to microservices\n— Опыт performance tuning JVM\n— Знание DDD"
+}

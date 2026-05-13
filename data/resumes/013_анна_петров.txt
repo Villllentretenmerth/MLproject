@@ -1,0 +1,10 @@
+resume_id: 75f97292-8487-4322-8dc4-def52a452bc3
+candidate: Анна Петров
+
+Backend Python Developer (Lead)
+Желаемая должность: Backend Python Developer
+Образование: НИУ МГСУ, Промышленное и гражданское строительство
+Опыт работы: 9 лет.
+Ключевые навыки: Python, Django, CI/CD, Kubernetes, ClickHouse.
+Домен: enterprise.
+О себе: Внимателен к качеству решений. Сильный технический кругозор. Люблю работать в команде.

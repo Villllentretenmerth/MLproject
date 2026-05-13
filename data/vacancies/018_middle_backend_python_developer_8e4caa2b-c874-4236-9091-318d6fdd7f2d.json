@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "8e4caa2b-c874-4236-9091-318d6fdd7f2d",
+  "title": "Middle Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "NextLayer",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "ClickHouse",
+    "Flask",
+    "asyncio",
+    "FastAPI"
+  ],
+  "optional_skills": [
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Middle Backend Python Developer\nКомпания: NextLayer\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ml_platform\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— ClickHouse\n— Flask\n— asyncio\n— FastAPI\n\nБудет плюсом:\n— Open Source вклад"
+}

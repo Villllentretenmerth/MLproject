@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "4d826c79-246d-45fe-8019-52373da6f14c",
+  "title": "Middle IT Project Manager",
+  "track": "management",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "QuantumApps",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Agile",
+    "Jira",
+    "Team Leadership",
+    "Kanban",
+    "Budgeting"
+  ],
+  "optional_skills": [
+    "Технический бэкграунд",
+    "Управление распределенными командами",
+    "Опыт в fintech"
+  ],
+  "tasks": [
+    "Управление delivery команды",
+    "Коммуникация со стейкхолдерами",
+    "Планирование roadmap",
+    "Управление рисками и сроками"
+  ],
+  "raw_text": "Вакансия: Middle IT Project Manager\nКомпания: QuantumApps\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ecommerce\n\nВаши задачи:\n— Управление delivery команды\n— Коммуникация со стейкхолдерами\n— Планирование roadmap\n— Управление рисками и сроками\n\nНаши ожидания:\n— Agile\n— Jira\n— Team Leadership\n— Kanban\n— Budgeting\n\nБудет плюсом:\n— Технический бэкграунд\n— Управление распределенными командами\n— Опыт в fintech"
+}

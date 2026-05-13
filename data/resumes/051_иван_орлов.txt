@@ -1,0 +1,10 @@
+resume_id: 63bb4912-b9b5-4cf1-b872-e1aeaa793ac8
+candidate: Иван Орлов
+
+Data Analyst (Middle)
+Желаемая должность: Data Analyst
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 2 лет.
+Ключевые навыки: Data Visualization, SQL, ETL, Power BI, Statistics, Python.
+Домен: fintech.
+О себе: Люблю работать в команде. Сильный технический кругозор. Внимателен к качеству решений.

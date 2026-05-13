@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "f50fa9ad-e910-4298-bada-b7a189059915",
+  "title": "Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "CloudCore",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Flask",
+    "RabbitMQ",
+    "ClickHouse",
+    "Pytest",
+    "CI/CD",
+    "Docker",
+    "PostgreSQL"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL",
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Senior Python Developer\nКомпания: CloudCore\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 5 лет\nДомен: ecommerce\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Проектирование и разработка масштабируемых backend-сервисов\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— Flask\n— RabbitMQ\n— ClickHouse\n— Pytest\n— CI/CD\n— Docker\n— PostgreSQL\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с NoSQL\n— Open Source вклад"
+}

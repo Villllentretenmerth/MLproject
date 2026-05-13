@@ -1,0 +1,10 @@
+resume_id: 5749760a-8a9f-4947-89bf-531c7d3b7121
+candidate: Павел Сидорова
+
+Junior Data Analyst (Senior)
+Желаемая должность: Junior Data Analyst
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 5 лет.
+Ключевые навыки: Excel, Python, Statistics, Data Visualization, Power BI, ETL, A/B testing, SQL.
+Домен: fintech.
+О себе: Ответственно подхожу к срокам и качеству. Ориентируюсь на бизнес-результат. Внимателен к качеству решений.

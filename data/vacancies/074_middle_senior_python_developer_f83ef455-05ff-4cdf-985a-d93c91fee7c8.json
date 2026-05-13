@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "f83ef455-05ff-4cdf-985a-d93c91fee7c8",
+  "title": "Middle Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "ProductWave",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "enterprise",
+  "required_skills": [
+    "Flask",
+    "PostgreSQL",
+    "MongoDB",
+    "Azure"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Middle Senior Python Developer\nКомпания: ProductWave\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 4 лет\nДомен: enterprise\n\nВаши задачи:\n— Проектирование и разработка масштабируемых backend-сервисов\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— Flask\n— PostgreSQL\n— MongoDB\n— Azure\n\nБудет плюсом:\n— Понимание frontend-части"
+}

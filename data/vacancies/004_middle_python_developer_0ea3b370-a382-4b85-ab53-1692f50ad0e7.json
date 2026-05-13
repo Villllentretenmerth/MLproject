@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "0ea3b370-a382-4b85-ab53-1692f50ad0e7",
+  "title": "Middle Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "CloudCore",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "RabbitMQ",
+    "Flask",
+    "PostgreSQL",
+    "AWS",
+    "Kafka",
+    "Azure",
+    "FastAPI"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Менторство middle-разработчиков",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Разработка и поддержка API",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Middle Python Developer\nКомпания: CloudCore\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: ecommerce\n\nВаши задачи:\n— Менторство middle-разработчиков\n— Проектирование и разработка масштабируемых backend-сервисов\n— Разработка и поддержка API\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— RabbitMQ\n— Flask\n— PostgreSQL\n— AWS\n— Kafka\n— Azure\n— FastAPI\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Понимание frontend-части"
+}

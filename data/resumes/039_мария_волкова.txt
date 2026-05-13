@@ -1,0 +1,10 @@
+resume_id: 7de76e2b-8cd8-4a60-90d0-07270c56591c
+candidate: Мария Волкова
+
+Senior Java Developer (Junior)
+Желаемая должность: Senior Java Developer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 1 лет.
+Ключевые навыки: Hibernate, Microservices, Redis, PostgreSQL, Kubernetes, Java, Kafka.
+Домен: ecommerce.
+О себе: Люблю работать в команде. Ответственно подхожу к срокам и качеству. Сильный технический кругозор.

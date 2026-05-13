@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "d99eeef0-8658-4f02-a60b-974da3892d0a",
+  "title": "Junior Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "CI/CD",
+    "Pytest",
+    "Docker",
+    "Python",
+    "Azure",
+    "Django"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с ClickHouse",
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Junior Senior Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: ecommerce\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— CI/CD\n— Pytest\n— Docker\n— Python\n— Azure\n— Django\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с ClickHouse\n— Open Source вклад"
+}

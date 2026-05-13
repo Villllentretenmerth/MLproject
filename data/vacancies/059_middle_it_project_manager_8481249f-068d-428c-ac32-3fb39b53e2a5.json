@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "8481249f-068d-428c-ac32-3fb39b53e2a5",
+  "title": "Middle IT Project Manager",
+  "track": "management",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "TechNova",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Scrum",
+    "Kanban",
+    "Agile",
+    "Team Leadership",
+    "Confluence"
+  ],
+  "optional_skills": [
+    "Технический бэкграунд",
+    "Опыт в fintech"
+  ],
+  "tasks": [
+    "Координация нескольких команд",
+    "Планирование roadmap",
+    "Управление рисками и сроками",
+    "Коммуникация со стейкхолдерами"
+  ],
+  "raw_text": "Вакансия: Middle IT Project Manager\nКомпания: TechNova\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: ml_platform\n\nВаши задачи:\n— Координация нескольких команд\n— Планирование roadmap\n— Управление рисками и сроками\n— Коммуникация со стейкхолдерами\n\nНаши ожидания:\n— Scrum\n— Kanban\n— Agile\n— Team Leadership\n— Confluence\n\nБудет плюсом:\n— Технический бэкграунд\n— Опыт в fintech"
+}

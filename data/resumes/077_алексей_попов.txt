@@ -1,0 +1,10 @@
+resume_id: 574f404b-eb06-4315-93a6-c355c7bc46d0
+candidate: Алексей Попов
+
+Engineering Manager (Middle)
+Желаемая должность: Engineering Manager
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 2 лет.
+Ключевые навыки: Risk Management, Agile, Budgeting, Kanban, Scrum, Roadmap Planning, Jira, Confluence.
+Домен: ecommerce.
+О себе: Ответственно подхожу к срокам и качеству. Внимателен к качеству решений. Сильный технический кругозор.

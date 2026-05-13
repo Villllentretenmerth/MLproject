@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "f89a5af0-438f-4499-9146-cd8cfdc17f0b",
+  "title": "Middle Python QA Engineer",
+  "track": "qa",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "ProductWave",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Python",
+    "Postman",
+    "Pytest",
+    "Selenium"
+  ],
+  "optional_skills": [
+    "Опыт нагрузочного тестирования",
+    "Базовое понимание backend-разработки"
+  ],
+  "tasks": [
+    "Написание тест-кейсов",
+    "Проверка API и интеграций",
+    "Регресс и smoke testing",
+    "Автоматизация тестирования"
+  ],
+  "raw_text": "Вакансия: Middle Python QA Engineer\nКомпания: ProductWave\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: fintech\n\nВаши задачи:\n— Написание тест-кейсов\n— Проверка API и интеграций\n— Регресс и smoke testing\n— Автоматизация тестирования\n\nНаши ожидания:\n— Python\n— Postman\n— Pytest\n— Selenium\n\nБудет плюсом:\n— Опыт нагрузочного тестирования\n— Базовое понимание backend-разработки"
+}

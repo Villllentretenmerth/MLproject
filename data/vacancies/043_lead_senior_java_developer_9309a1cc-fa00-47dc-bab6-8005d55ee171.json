@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "9309a1cc-fa00-47dc-bab6-8005d55ee171",
+  "title": "Lead Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Lead",
+  "min_years_experience": 10,
+  "company": "NextLayer",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Kafka",
+    "PostgreSQL",
+    "Docker",
+    "Hibernate",
+    "Microservices",
+    "Java",
+    "JUnit"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices",
+    "Знание DDD"
+  ],
+  "tasks": [
+    "Оптимизация существующего Java-кода",
+    "Проектирование сервисной архитектуры",
+    "Разработка высоконагруженных микросервисов",
+    "Интеграция через брокеры сообщений"
+  ],
+  "raw_text": "Вакансия: Lead Senior Java Developer\nКомпания: NextLayer\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 10 лет\nДомен: ecommerce\n\nВаши задачи:\n— Оптимизация существующего Java-кода\n— Проектирование сервисной архитектуры\n— Разработка высоконагруженных микросервисов\n— Интеграция через брокеры сообщений\n\nНаши ожидания:\n— Kafka\n— PostgreSQL\n— Docker\n— Hibernate\n— Microservices\n— Java\n— JUnit\n\nБудет плюсом:\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices\n— Знание DDD"
+}

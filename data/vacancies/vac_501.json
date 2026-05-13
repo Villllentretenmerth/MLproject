@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "vac_501",
+  "title": "DevOps Engineer (CI/CD, Docker, Kubernetes)",
+  "track": "devops",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "DemoCompany",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "infrastructure",
+  "required_skills": [
+    "Linux",
+    "Docker",
+    "CI/CD",
+    "GitLab CI",
+    "Kubernetes"
+  ],
+  "optional_skills": [
+    "Prometheus",
+    "Grafana",
+    "Terraform"
+  ],
+  "tasks": [
+    "Разработка и поддержка решений по направлению вакансии",
+    "Работа с ключевыми инструментами: Linux, Docker, CI/CD, GitLab CI",
+    "Сборка и деплой, пайплайны, контейнеры, k8s окружения, мониторинг.",
+    "Взаимодействие с командой направления Infrastructure"
+  ],
+  "raw_text": "Вакансия: DevOps Engineer (CI/CD, Docker, Kubernetes)\nКомпания: DemoCompany\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: infrastructure\n\nВаши задачи:\n— Разработка и поддержка решений по направлению вакансии\n— Работа с ключевыми инструментами: Linux, Docker, CI/CD, GitLab CI\n— Сборка и деплой, пайплайны, контейнеры, k8s окружения, мониторинг.\n— Взаимодействие с командой направления Infrastructure\n\nНаши ожидания:\n— Linux\n— Docker\n— CI/CD\n— GitLab CI\n— Kubernetes\n\nБудет плюсом:\n— Prometheus\n— Grafana\n— Terraform"
+}

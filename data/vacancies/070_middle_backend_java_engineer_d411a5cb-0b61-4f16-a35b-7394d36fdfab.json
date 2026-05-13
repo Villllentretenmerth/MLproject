@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "d411a5cb-0b61-4f16-a35b-7394d36fdfab",
+  "title": "Middle Backend Java Engineer",
+  "track": "java_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "fintech",
+  "required_skills": [
+    "Redis",
+    "Kubernetes",
+    "JUnit",
+    "PostgreSQL",
+    "Java",
+    "Hibernate",
+    "Docker"
+  ],
+  "optional_skills": [
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Интеграция через брокеры сообщений",
+    "Оптимизация существующего Java-кода",
+    "Покрытие кода тестами",
+    "Разработка высоконагруженных микросервисов"
+  ],
+  "raw_text": "Вакансия: Middle Backend Java Engineer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: fintech\n\nВаши задачи:\n— Интеграция через брокеры сообщений\n— Оптимизация существующего Java-кода\n— Покрытие кода тестами\n— Разработка высоконагруженных микросервисов\n\nНаши ожидания:\n— Redis\n— Kubernetes\n— JUnit\n— PostgreSQL\n— Java\n— Hibernate\n— Docker\n\nБудет плюсом:\n— Опыт миграции monolith to microservices"
+}

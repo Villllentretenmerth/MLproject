@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "ce878c79-effd-4436-bffa-7073e70bccc1",
+  "title": "Senior Delivery Manager",
+  "track": "management",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "ScaleHub",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Kanban",
+    "Team Leadership",
+    "Agile",
+    "Risk Management"
+  ],
+  "optional_skills": [
+    "Технический бэкграунд"
+  ],
+  "tasks": [
+    "Планирование roadmap",
+    "Координация нескольких команд",
+    "Коммуникация со стейкхолдерами",
+    "Управление рисками и сроками"
+  ],
+  "raw_text": "Вакансия: Senior Delivery Manager\nКомпания: ScaleHub\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 5 лет\nДомен: fintech\n\nВаши задачи:\n— Планирование roadmap\n— Координация нескольких команд\n— Коммуникация со стейкхолдерами\n— Управление рисками и сроками\n\nНаши ожидания:\n— Kanban\n— Team Leadership\n— Agile\n— Risk Management\n\nБудет плюсом:\n— Технический бэкграунд"
+}

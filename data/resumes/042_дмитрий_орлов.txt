@@ -1,0 +1,10 @@
+resume_id: 884d4ec8-5cdf-4be6-a12d-3b5aeb1840d9
+candidate: Дмитрий Орлов
+
+QA Engineer (Middle)
+Желаемая должность: QA Engineer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 4 лет.
+Ключевые навыки: API testing, Selenium, Postman, Manual testing, Python, SQL.
+Домен: ml_platform.
+О себе: Быстро погружаюсь в новую предметную область. Сильный технический кругозор. Люблю работать в команде.

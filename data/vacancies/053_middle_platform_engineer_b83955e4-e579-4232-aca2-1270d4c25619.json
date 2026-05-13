@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "b83955e4-e579-4232-aca2-1270d4c25619",
+  "title": "Middle Platform Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "CloudCore",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "CI/CD",
+    "Azure",
+    "Linux",
+    "Terraform"
+  ],
+  "optional_skills": [
+    "Опыт FinOps",
+    "Опыт работы с Kafka",
+    "Опыт построения internal platform"
+  ],
+  "tasks": [
+    "Наблюдаемость и мониторинг",
+    "Работа с контейнерной платформой",
+    "Повышение надежности систем",
+    "Автоматизация инфраструктуры"
+  ],
+  "raw_text": "Вакансия: Middle Platform Engineer\nКомпания: CloudCore\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: edtech\n\nВаши задачи:\n— Наблюдаемость и мониторинг\n— Работа с контейнерной платформой\n— Повышение надежности систем\n— Автоматизация инфраструктуры\n\nНаши ожидания:\n— AWS\n— Docker\n— CI/CD\n— Azure\n— Linux\n— Terraform\n\nБудет плюсом:\n— Опыт FinOps\n— Опыт работы с Kafka\n— Опыт построения internal platform"
+}

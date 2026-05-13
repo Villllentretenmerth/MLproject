@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "15489ec7-a6e3-4ffa-afed-b50a9450f90b",
+  "title": "Middle Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "QuantumApps",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Pandas",
+    "Data Visualization",
+    "Excel",
+    "Power BI",
+    "ETL",
+    "Tableau",
+    "Statistics"
+  ],
+  "optional_skills": [
+    "Опыт построения прогнозных моделей",
+    "Опыт работы в продуктовой аналитике",
+    "Знание Python для анализа данных"
+  ],
+  "tasks": [
+    "Сбор и очистка данных",
+    "Подготовка аналитических отчетов",
+    "Построение дашбордов",
+    "Анализ продуктовых метрик"
+  ],
+  "raw_text": "Вакансия: Middle Product Analyst\nКомпания: QuantumApps\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: fintech\n\nВаши задачи:\n— Сбор и очистка данных\n— Подготовка аналитических отчетов\n— Построение дашбордов\n— Анализ продуктовых метрик\n\nНаши ожидания:\n— Pandas\n— Data Visualization\n— Excel\n— Power BI\n— ETL\n— Tableau\n— Statistics\n\nБудет плюсом:\n— Опыт построения прогнозных моделей\n— Опыт работы в продуктовой аналитике\n— Знание Python для анализа данных"
+}

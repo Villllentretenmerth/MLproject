@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Candidate Scoring MVP</title>
+  <link rel="stylesheet" href="{{ url_for('static', path='/style.css') }}">
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">FastAPI web interface</p>
+        <h1>Подбор кандидатов под вакансию</h1>
+        <p class="lead">Загрузите резюме, добавьте вакансию и запустите скоринг по навыкам, опыту и семантической близости текста.</p>
+      </div>
+      <div class="stats">
+        <span><b>{{ summary.vacancies }}</b> вакансий</span>
+        <span><b>{{ summary.resumes }}</b> резюме</span>
+        <span><b>{{ summary.scores }}</b> оценок</span>
+      </div>
+    </header>
+
+    {% if message %}<div class="notice success">{{ message }}</div>{% endif %}
+    {% if error %}<div class="notice error">{{ error }}</div>{% endif %}
+
+    <section class="grid">
+      <article class="card span-2">
+        <h2>Новая вакансия</h2>
+        <form action="/ui/vacancies" method="post" class="form">
+          <label>Название
+            <input name="title" placeholder="Middle Python Developer" required>
+          </label>
+          <label>Описание
+            <textarea name="description" rows="6" placeholder="Опишите задачи и требования" required></textarea>
+          </label>
+          <label>Минимальный опыт, лет
+            <input name="min_years_experience" type="number" min="0" step="0.5" placeholder="3">
+          </label>
+          <label>Обязательные навыки
+            <textarea name="required_skills" rows="4" placeholder="Python&#10;FastAPI&#10;SQL"></textarea>
+          </label>
+          <label>Желательные навыки
+            <textarea name="optional_skills" rows="3" placeholder="Docker&#10;ML"></textarea>
+          </label>
+          <button type="submit">Сохранить вакансию</button>
+        </form>
+      </article>
+
+      <article class="card">
+        <h2>Резюме текстом</h2>
+        <form action="/ui/resumes/manual" method="post" class="form">
+          <label>ФИО кандидата
+            <input name="full_name" placeholder="Иван Иванов" required>
+          </label>
+          <label>Текст резюме
+            <textarea name="resume_text" rows="8" required></textarea>
+          </label>
+          <button type="submit">Добавить резюме</button>
+        </form>
+      </article>
+
+      <article class="card">
+        <h2>Загрузка файла</h2>
+        <form action="/ui/resumes/upload" method="post" enctype="multipart/form-data" class="form">
+          <label>TXT или PDF
+            <input name="file" type="file" accept=".txt,.pdf" required>
+          </label>
+          <button type="submit">Загрузить</button>
+        </form>
+
+        <hr>
+
+        <h2>Запуск скоринга</h2>
+        <form action="/ui/score" method="post" class="form">
+          <label>Вакансия
+            <select name="vacancy_id" required>
+              {% for vacancy in vacancies %}
+                <option value="{{ vacancy.id }}">#{{ vacancy.id }} {{ vacancy.title }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>Сколько результатов показать
+            <input name="limit" type="number" min="1" max="100" value="10">
+          </label>
+          <button type="submit">Оценить кандидатов</button>
+        </form>
+      </article>
+    </section>
+
+    {% if score_results %}
+      <section class="card results">
+        <h2>Результаты скоринга</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Кандидат</th>
+                <th>Score</th>
+                <th>Ключевые слова</th>
+                <th>Семантика</th>
+                <th>Найдено обязательных</th>
+                <th>Не хватает</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in score_results %}
+                <tr>
+                  <td>{{ item.candidate_name }}</td>
+                  <td><strong>{{ item.score }}</strong></td>
+                  <td>{{ '%.0f'|format(item.keyword_score * 100) }}%</td>
+                  <td>{{ '%.0f'|format(item.semantic_score * 100) }}%</td>
+                  <td>{{ item.matched_required }}/{{ item.total_required }}</td>
+                  <td>{{ item.missing_required_skills|join(', ') if item.missing_required_skills else 'нет' }}</td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    {% endif %}
+
+    <section class="grid lists">
+      <article class="card">
+        <h2>Вакансии</h2>
+        <ul class="items">
+          {% for vacancy in vacancies[:12] %}
+            <li><b>#{{ vacancy.id }}</b> {{ vacancy.title }} <span>{{ vacancy.requirements_count }} требований</span></li>
+          {% else %}
+            <li>Вакансий пока нет</li>
+          {% endfor %}
+        </ul>
+      </article>
+
+      <article class="card">
+        <h2>Резюме</h2>
+        <ul class="items">
+          {% for resume in resumes[:12] %}
+            <li><b>#{{ resume.id }}</b> {{ resume.full_name }} <span>{{ resume.source_type }}</span></li>
+          {% else %}
+            <li>Резюме пока нет</li>
+          {% endfor %}
+        </ul>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

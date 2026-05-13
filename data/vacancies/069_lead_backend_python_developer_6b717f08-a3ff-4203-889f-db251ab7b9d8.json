@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "6b717f08-a3ff-4203-889f-db251ab7b9d8",
+  "title": "Lead Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Lead",
+  "min_years_experience": 8,
+  "company": "ScaleHub",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Azure",
+    "Redis",
+    "RabbitMQ",
+    "Pytest"
+  ],
+  "optional_skills": [
+    "Опыт работы с NoSQL",
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Lead Backend Python Developer\nКомпания: ScaleHub\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— Azure\n— Redis\n— RabbitMQ\n— Pytest\n\nБудет плюсом:\n— Опыт работы с NoSQL\n— Опыт работы с ClickHouse"
+}

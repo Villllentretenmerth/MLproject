@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "8bcbe3c8-f30e-49a6-89f8-6ad152838fc0",
+  "title": "Junior Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "ScaleHub",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Flask",
+    "CI/CD",
+    "Pytest",
+    "Django",
+    "Kafka",
+    "Python",
+    "Docker"
+  ],
+  "optional_skills": [
+    "Open Source вклад",
+    "Понимание frontend-части",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Junior Python Developer\nКомпания: ScaleHub\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 0 лет\nДомен: ecommerce\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— Flask\n— CI/CD\n— Pytest\n— Django\n— Kafka\n— Python\n— Docker\n\nБудет плюсом:\n— Open Source вклад\n— Понимание frontend-части\n— Опыт работы с NoSQL"
+}

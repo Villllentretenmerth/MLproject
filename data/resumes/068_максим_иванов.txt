@@ -1,0 +1,10 @@
+resume_id: 3588aca0-c33c-41b4-9a9c-01625a772cee
+candidate: Максим Иванов
+
+Lead Python Developer (Lead)
+Желаемая должность: Lead Python Developer
+Образование: ВШЭ, Бизнес-информатика
+Опыт работы: 10 лет.
+Ключевые навыки: MongoDB, asyncio, Flask, RabbitMQ, Kubernetes.
+Домен: enterprise.
+О себе: Быстро погружаюсь в новую предметную область. Ориентируюсь на бизнес-результат. Ответственно подхожу к срокам и качеству.

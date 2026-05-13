@@ -1,0 +1,10 @@
+resume_id: 26d28b0f-70b7-4c2d-a9e5-9586d8e41f5c
+candidate: Алексей Федоров
+
+Senior Python Developer (Senior)
+Желаемая должность: Senior Python Developer
+Образование: ВШЭ, Бизнес-информатика
+Опыт работы: 8 лет.
+Ключевые навыки: Flask, Azure, Kafka, ClickHouse, Docker, Python, Kubernetes, MongoDB.
+Домен: enterprise.
+О себе: Быстро погружаюсь в новую предметную область. Ориентируюсь на бизнес-результат. Сильный технический кругозор.

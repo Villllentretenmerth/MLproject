@@ -1,0 +1,10 @@
+resume_id: 4f5224cf-7f1a-4574-b03d-d9ef990ea375
+candidate: Светлана Смирнова
+
+Java Developer (Senior)
+Желаемая должность: Java Developer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 5 лет.
+Ключевые навыки: Hibernate, PostgreSQL, Java, Microservices, JUnit, Redis, Spring Boot, Docker.
+Домен: b2b_saas.
+О себе: Ориентируюсь на бизнес-результат. Сильный технический кругозор. Люблю работать в команде.

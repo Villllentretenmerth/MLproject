@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "1518a70b-6424-4a40-a935-8f2427442c49",
+  "title": "Middle Backend Java Engineer",
+  "track": "java_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ScaleHub",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Docker",
+    "Hibernate",
+    "Microservices",
+    "Redis",
+    "Kafka",
+    "JUnit",
+    "PostgreSQL"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM"
+  ],
+  "tasks": [
+    "Проектирование сервисной архитектуры",
+    "Разработка высоконагруженных микросервисов",
+    "Оптимизация существующего Java-кода",
+    "Покрытие кода тестами"
+  ],
+  "raw_text": "Вакансия: Middle Backend Java Engineer\nКомпания: ScaleHub\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: fintech\n\nВаши задачи:\n— Проектирование сервисной архитектуры\n— Разработка высоконагруженных микросервисов\n— Оптимизация существующего Java-кода\n— Покрытие кода тестами\n\nНаши ожидания:\n— Docker\n— Hibernate\n— Microservices\n— Redis\n— Kafka\n— JUnit\n— PostgreSQL\n\nБудет плюсом:\n— Опыт performance tuning JVM"
+}

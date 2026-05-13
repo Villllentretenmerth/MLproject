@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "633e5933-ea43-4d00-a376-5bd7695513d7",
+  "title": "Middle DevOps Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ProductWave",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "PostgreSQL",
+    "Terraform",
+    "CI/CD",
+    "Docker"
+  ],
+  "optional_skills": [
+    "Опыт построения internal platform",
+    "Опыт FinOps"
+  ],
+  "tasks": [
+    "Работа с контейнерной платформой",
+    "Автоматизация инфраструктуры",
+    "Поддержка CI/CD пайплайнов",
+    "Наблюдаемость и мониторинг"
+  ],
+  "raw_text": "Вакансия: Middle DevOps Engineer\nКомпания: ProductWave\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ml_platform\n\nВаши задачи:\n— Работа с контейнерной платформой\n— Автоматизация инфраструктуры\n— Поддержка CI/CD пайплайнов\n— Наблюдаемость и мониторинг\n\nНаши ожидания:\n— PostgreSQL\n— Terraform\n— CI/CD\n— Docker\n\nБудет плюсом:\n— Опыт построения internal platform\n— Опыт FinOps"
+}

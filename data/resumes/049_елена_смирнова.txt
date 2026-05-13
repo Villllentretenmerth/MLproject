@@ -1,0 +1,10 @@
+resume_id: f856391c-fbb9-4dea-b41d-52d03481805f
+candidate: Елена Смирнова
+
+Senior Python Developer (Middle)
+Желаемая должность: Senior Python Developer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 4 лет.
+Ключевые навыки: PostgreSQL, Redis, Flask, CI/CD, RabbitMQ, asyncio, Docker, Kafka.
+Домен: fintech.
+О себе: Люблю работать в команде. Быстро погружаюсь в новую предметную область. Сильный технический кругозор.

@@ -1,0 +1,10 @@
+resume_id: 482c84f0-eac6-4595-8f0c-9183290a6490
+candidate: Елена Петров
+
+Lead Python Developer (Lead)
+Желаемая должность: Lead Python Developer
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 9 лет.
+Ключевые навыки: Redis, Docker, ClickHouse, Kubernetes, AWS, PostgreSQL, RabbitMQ, Kafka.
+Домен: edtech.
+О себе: Ориентируюсь на бизнес-результат. Сильный технический кругозор. Внимателен к качеству решений.

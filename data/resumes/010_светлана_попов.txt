@@ -1,0 +1,10 @@
+resume_id: 99e35dc8-c997-4d1e-aa64-43b55bf41b62
+candidate: Светлана Попов
+
+Backend Java Engineer (Lead)
+Желаемая должность: Backend Java Engineer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 12 лет.
+Ключевые навыки: Hibernate, JUnit, Spring Boot, Kubernetes, Docker, Redis, Microservices, Java.
+Домен: ecommerce.
+О себе: Быстро погружаюсь в новую предметную область. Внимателен к качеству решений. Сильный технический кругозор.

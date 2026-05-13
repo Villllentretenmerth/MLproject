@@ -1,0 +1,10 @@
+resume_id: 4ceb9b8c-e4c8-4717-8824-3abd7b4a182b
+candidate: Павел Иванов
+
+Junior Data Analyst (Junior)
+Желаемая должность: Junior Data Analyst
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 1 лет.
+Ключевые навыки: Excel, A/B testing, Statistics, Power BI, Pandas, SQL, Tableau.
+Домен: enterprise.
+О себе: Люблю работать в команде. Ориентируюсь на бизнес-результат. Внимателен к качеству решений.

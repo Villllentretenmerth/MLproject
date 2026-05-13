@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "d470992f-bd20-4828-be81-323e941f813d",
+  "title": "Middle Data Analyst",
+  "track": "data_analytics",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "NextLayer",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Statistics",
+    "Data Visualization",
+    "ETL",
+    "SQL",
+    "Python",
+    "Tableau",
+    "Excel"
+  ],
+  "optional_skills": [
+    "Знание Python для анализа данных"
+  ],
+  "tasks": [
+    "Подготовка аналитических отчетов",
+    "Построение дашбордов",
+    "Сбор и очистка данных",
+    "Анализ продуктовых метрик"
+  ],
+  "raw_text": "Вакансия: Middle Data Analyst\nКомпания: NextLayer\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: ml_platform\n\nВаши задачи:\n— Подготовка аналитических отчетов\n— Построение дашбордов\n— Сбор и очистка данных\n— Анализ продуктовых метрик\n\nНаши ожидания:\n— Statistics\n— Data Visualization\n— ETL\n— SQL\n— Python\n— Tableau\n— Excel\n\nБудет плюсом:\n— Знание Python для анализа данных"
+}

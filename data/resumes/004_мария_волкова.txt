@@ -1,0 +1,10 @@
+resume_id: 9998b3ab-3e1a-4702-8cce-3ca2f9055e55
+candidate: Мария Волкова
+
+Senior Python Developer (Lead)
+Желаемая должность: Senior Python Developer
+Образование: МФТИ, Прикладная математика и информатика
+Опыт работы: 11 лет.
+Ключевые навыки: Django, FastAPI, Kubernetes, Flask, Pytest.
+Домен: enterprise.
+О себе: Быстро погружаюсь в новую предметную область. Сильный технический кругозор. Внимателен к качеству решений.

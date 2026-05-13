@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "ce248bf9-ac01-432e-9509-faee0e90ed67",
+  "title": "Junior Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "FinMatrix",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "enterprise",
+  "required_skills": [
+    "Pytest",
+    "CI/CD",
+    "ClickHouse",
+    "Azure",
+    "Django",
+    "asyncio",
+    "Python"
+  ],
+  "optional_skills": [
+    "Опыт работы с NoSQL",
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Менторство middle-разработчиков",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Junior Backend Python Developer\nКомпания: FinMatrix\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 0 лет\nДомен: enterprise\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Менторство middle-разработчиков\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— Pytest\n— CI/CD\n— ClickHouse\n— Azure\n— Django\n— asyncio\n— Python\n\nБудет плюсом:\n— Опыт работы с NoSQL\n— Опыт работы с ClickHouse"
+}

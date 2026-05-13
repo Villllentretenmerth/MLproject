@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "bcf31251-ddf6-43bf-80f9-092cb6871897",
+  "title": "Middle Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "DataPulse",
+  "work_format": "Офис",
+  "employment_type": "Контракт",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Python",
+    "AWS",
+    "Pytest",
+    "Django",
+    "FastAPI",
+    "Azure"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Опыт работы с NoSQL",
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Менторство middle-разработчиков",
+    "Разработка и поддержка API",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Middle Lead Python Developer\nКомпания: DataPulse\nФормат работы: Офис\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: ml_platform\n\nВаши задачи:\n— Менторство middle-разработчиков\n— Разработка и поддержка API\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— Python\n— AWS\n— Pytest\n— Django\n— FastAPI\n— Azure\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Опыт работы с NoSQL\n— Open Source вклад"
+}

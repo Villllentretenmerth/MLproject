@@ -1,0 +1,10 @@
+resume_id: c12f3752-b81c-4059-bbdf-39f468a97124
+candidate: Дмитрий Орлов
+
+Backend Java Engineer (Lead)
+Желаемая должность: Backend Java Engineer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 10 лет.
+Ключевые навыки: Java, Microservices, Docker, Spring Boot, Kafka, Kubernetes.
+Домен: ml_platform.
+О себе: Быстро погружаюсь в новую предметную область. Ответственно подхожу к срокам и качеству. Люблю работать в команде.

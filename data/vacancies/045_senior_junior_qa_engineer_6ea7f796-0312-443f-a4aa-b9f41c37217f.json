@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "6ea7f796-0312-443f-a4aa-b9f41c37217f",
+  "title": "Senior Junior QA Engineer",
+  "track": "qa",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Postman",
+    "Pytest",
+    "SQL",
+    "Jira",
+    "Test Design",
+    "API testing"
+  ],
+  "optional_skills": [
+    "Опыт CI интеграции тестов",
+    "Опыт нагрузочного тестирования",
+    "Базовое понимание backend-разработки"
+  ],
+  "tasks": [
+    "Написание тест-кейсов",
+    "Проверка API и интеграций",
+    "Заведение дефектов и контроль фиксов",
+    "Регресс и smoke testing"
+  ],
+  "raw_text": "Вакансия: Senior Junior QA Engineer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 5 лет\nДомен: ml_platform\n\nВаши задачи:\n— Написание тест-кейсов\n— Проверка API и интеграций\n— Заведение дефектов и контроль фиксов\n— Регресс и smoke testing\n\nНаши ожидания:\n— Postman\n— Pytest\n— SQL\n— Jira\n— Test Design\n— API testing\n\nБудет плюсом:\n— Опыт CI интеграции тестов\n— Опыт нагрузочного тестирования\n— Базовое понимание backend-разработки"
+}

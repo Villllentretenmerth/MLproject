@@ -1,0 +1,32 @@
+{
+  "vacancy_id": "bb912f61-65e8-4d38-9b6d-0883757f91fd",
+  "title": "Junior Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "FinMatrix",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "CI/CD",
+    "Pytest",
+    "RabbitMQ",
+    "AWS",
+    "Redis",
+    "MongoDB",
+    "FastAPI"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Open Source вклад",
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Junior Backend Python Developer\nКомпания: FinMatrix\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: ecommerce\n\nВаши задачи:\n— Проектирование и разработка масштабируемых backend-сервисов\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— CI/CD\n— Pytest\n— RabbitMQ\n— AWS\n— Redis\n— MongoDB\n— FastAPI\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Open Source вклад\n— Понимание frontend-части"
+}

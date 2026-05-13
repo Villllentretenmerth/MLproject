@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "3f17372b-b983-4027-a7fc-72196ca783a1",
+  "title": "Middle Platform Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "NextLayer",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "PostgreSQL",
+    "Monitoring",
+    "Terraform",
+    "Kubernetes",
+    "CI/CD",
+    "AWS"
+  ],
+  "optional_skills": [
+    "Опыт работы с Kafka",
+    "Опыт FinOps"
+  ],
+  "tasks": [
+    "Работа с контейнерной платформой",
+    "Автоматизация инфраструктуры",
+    "Повышение надежности систем",
+    "Наблюдаемость и мониторинг"
+  ],
+  "raw_text": "Вакансия: Middle Platform Engineer\nКомпания: NextLayer\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Работа с контейнерной платформой\n— Автоматизация инфраструктуры\n— Повышение надежности систем\n— Наблюдаемость и мониторинг\n\nНаши ожидания:\n— PostgreSQL\n— Monitoring\n— Terraform\n— Kubernetes\n— CI/CD\n— AWS\n\nБудет плюсом:\n— Опыт работы с Kafka\n— Опыт FinOps"
+}

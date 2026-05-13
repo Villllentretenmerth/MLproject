@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "1dc3ed7a-1c46-45cc-8912-21dd1d21d9c5",
+  "title": "Middle Senior DevOps Engineer",
+  "track": "devops_platform",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "ProductWave",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Azure",
+    "CI/CD",
+    "PostgreSQL",
+    "Kafka"
+  ],
+  "optional_skills": [
+    "Опыт FinOps"
+  ],
+  "tasks": [
+    "Поддержка CI/CD пайплайнов",
+    "Автоматизация инфраструктуры",
+    "Работа с контейнерной платформой",
+    "Повышение надежности систем"
+  ],
+  "raw_text": "Вакансия: Middle Senior DevOps Engineer\nКомпания: ProductWave\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 4 лет\nДомен: edtech\n\nВаши задачи:\n— Поддержка CI/CD пайплайнов\n— Автоматизация инфраструктуры\n— Работа с контейнерной платформой\n— Повышение надежности систем\n\nНаши ожидания:\n— AWS\n— Docker\n— Kubernetes\n— Azure\n— CI/CD\n— PostgreSQL\n— Kafka\n\nБудет плюсом:\n— Опыт FinOps"
+}

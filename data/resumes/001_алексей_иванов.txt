@@ -1,0 +1,10 @@
+resume_id: a537d58d-aa39-4235-9e04-907ad5dfa2fa
+candidate: Алексей Иванов
+
+Python QA Engineer (Junior)
+Желаемая должность: Python QA Engineer
+Образование: ИТМО, Программная инженерия
+Опыт работы: 0 лет.
+Ключевые навыки: Pytest, Selenium, API testing, Python, Postman.
+Домен: ecommerce.
+О себе: Сильный технический кругозор. Люблю работать в команде. Ориентируюсь на бизнес-результат.

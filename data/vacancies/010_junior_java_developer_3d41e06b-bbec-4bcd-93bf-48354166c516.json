@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "3d41e06b-bbec-4bcd-93bf-48354166c516",
+  "title": "Junior Java Developer",
+  "track": "java_backend",
+  "seniority": "Junior",
+  "min_years_experience": 0,
+  "company": "CloudCore",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "JUnit",
+    "Redis",
+    "Kafka",
+    "Kubernetes"
+  ],
+  "optional_skills": [
+    "Знание DDD",
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Оптимизация существующего Java-кода",
+    "Разработка высоконагруженных микросервисов",
+    "Проектирование сервисной архитектуры",
+    "Покрытие кода тестами"
+  ],
+  "raw_text": "Вакансия: Junior Java Developer\nКомпания: CloudCore\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 0 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Оптимизация существующего Java-кода\n— Разработка высоконагруженных микросервисов\n— Проектирование сервисной архитектуры\n— Покрытие кода тестами\n\nНаши ожидания:\n— JUnit\n— Redis\n— Kafka\n— Kubernetes\n\nБудет плюсом:\n— Знание DDD\n— Опыт миграции monolith to microservices"
+}

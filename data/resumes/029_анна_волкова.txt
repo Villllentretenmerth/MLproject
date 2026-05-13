@@ -1,0 +1,10 @@
+resume_id: d3975ed1-e16f-4d9d-9620-5bb939112bde
+candidate: Анна Волкова
+
+Junior QA Engineer (Middle)
+Желаемая должность: Junior QA Engineer
+Образование: ИТМО, Программная инженерия
+Опыт работы: 2 лет.
+Ключевые навыки: SQL, Manual testing, Postman, Jira, Selenium, Python, Test Design, API testing.
+Домен: enterprise.
+О себе: Сильный технический кругозор. Люблю работать в команде. Внимателен к качеству решений.

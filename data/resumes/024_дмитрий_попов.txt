@@ -1,0 +1,10 @@
+resume_id: dcc21a4f-bb9c-4e5f-81bb-2e767aac126a
+candidate: Дмитрий Попов
+
+Python QA Engineer (Middle)
+Желаемая должность: Python QA Engineer
+Образование: ВШЭ, Бизнес-информатика
+Опыт работы: 4 лет.
+Ключевые навыки: Python, SQL, Jira, API testing, Test Design, Manual testing, Postman, Pytest.
+Домен: ml_platform.
+О себе: Ориентируюсь на бизнес-результат. Внимателен к качеству решений. Сильный технический кругозор.

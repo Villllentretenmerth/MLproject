@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "5c0c5270-0db7-4947-a8dc-97cd881ca861",
+  "title": "Middle Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "ScaleHub",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "Azure",
+    "CI/CD",
+    "FastAPI",
+    "Redis",
+    "ClickHouse"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Менторство middle-разработчиков",
+    "Code Review и внедрение инженерных практик",
+    "Разработка и поддержка API",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Middle Lead Python Developer\nКомпания: ScaleHub\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 3 лет\nДомен: edtech\n\nВаши задачи:\n— Менторство middle-разработчиков\n— Code Review и внедрение инженерных практик\n— Разработка и поддержка API\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— Azure\n— CI/CD\n— FastAPI\n— Redis\n— ClickHouse\n\nБудет плюсом:\n— Понимание frontend-части"
+}

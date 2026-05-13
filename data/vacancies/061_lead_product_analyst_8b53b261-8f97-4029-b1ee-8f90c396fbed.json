@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "8b53b261-8f97-4029-b1ee-8f90c396fbed",
+  "title": "Lead Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Lead",
+  "min_years_experience": 8,
+  "company": "QuantumApps",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "enterprise",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "A/B testing",
+    "Power BI",
+    "Statistics",
+    "Excel"
+  ],
+  "optional_skills": [
+    "Знание Python для анализа данных",
+    "Опыт работы в продуктовой аналитике",
+    "Опыт построения прогнозных моделей"
+  ],
+  "tasks": [
+    "Анализ продуктовых метрик",
+    "Подготовка аналитических отчетов",
+    "Сбор и очистка данных",
+    "Построение дашбордов"
+  ],
+  "raw_text": "Вакансия: Lead Product Analyst\nКомпания: QuantumApps\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: enterprise\n\nВаши задачи:\n— Анализ продуктовых метрик\n— Подготовка аналитических отчетов\n— Сбор и очистка данных\n— Построение дашбордов\n\nНаши ожидания:\n— SQL\n— Python\n— A/B testing\n— Power BI\n— Statistics\n— Excel\n\nБудет плюсом:\n— Знание Python для анализа данных\n— Опыт работы в продуктовой аналитике\n— Опыт построения прогнозных моделей"
+}

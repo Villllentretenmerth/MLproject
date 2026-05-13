@@ -1,0 +1,10 @@
+resume_id: ba26d631-6670-4963-91e9-144bde45c01e
+candidate: Ольга Федоров
+
+Python QA Engineer (Senior)
+Желаемая должность: Python QA Engineer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 5 лет.
+Ключевые навыки: Selenium, Manual testing, API testing, Python, Pytest, Postman, SQL.
+Домен: enterprise.
+О себе: Сильный технический кругозор. Быстро погружаюсь в новую предметную область. Внимателен к качеству решений.

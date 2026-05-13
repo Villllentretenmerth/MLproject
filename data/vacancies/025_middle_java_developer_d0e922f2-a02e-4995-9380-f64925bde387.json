@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "d0e922f2-a02e-4995-9380-f64925bde387",
+  "title": "Middle Java Developer",
+  "track": "java_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "CloudCore",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "Hibernate",
+    "Microservices",
+    "Docker",
+    "Kafka",
+    "Java",
+    "Redis",
+    "Kubernetes"
+  ],
+  "optional_skills": [
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Разработка высоконагруженных микросервисов",
+    "Проектирование сервисной архитектуры",
+    "Оптимизация существующего Java-кода",
+    "Покрытие кода тестами"
+  ],
+  "raw_text": "Вакансия: Middle Java Developer\nКомпания: CloudCore\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ml_platform\n\nВаши задачи:\n— Разработка высоконагруженных микросервисов\n— Проектирование сервисной архитектуры\n— Оптимизация существующего Java-кода\n— Покрытие кода тестами\n\nНаши ожидания:\n— Hibernate\n— Microservices\n— Docker\n— Kafka\n— Java\n— Redis\n— Kubernetes\n\nБудет плюсом:\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices"
+}

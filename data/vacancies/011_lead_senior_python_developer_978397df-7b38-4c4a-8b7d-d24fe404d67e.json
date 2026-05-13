@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "978397df-7b38-4c4a-8b7d-d24fe404d67e",
+  "title": "Lead Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Lead",
+  "min_years_experience": 12,
+  "company": "ScaleHub",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Azure",
+    "ClickHouse",
+    "Kubernetes",
+    "Docker",
+    "MongoDB",
+    "Pytest",
+    "AWS"
+  ],
+  "optional_skills": [
+    "Open Source вклад",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Разработка и поддержка API"
+  ],
+  "raw_text": "Вакансия: Lead Senior Python Developer\nКомпания: ScaleHub\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 12 лет\nДомен: ecommerce\n\nВаши задачи:\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Разработка и поддержка API\n\nНаши ожидания:\n— Azure\n— ClickHouse\n— Kubernetes\n— Docker\n— MongoDB\n— Pytest\n— AWS\n\nБудет плюсом:\n— Open Source вклад\n— Опыт работы с NoSQL"
+}

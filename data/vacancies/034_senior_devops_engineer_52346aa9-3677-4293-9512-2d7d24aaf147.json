@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "52346aa9-3677-4293-9512-2d7d24aaf147",
+  "title": "Senior DevOps Engineer",
+  "track": "devops_platform",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "ProductWave",
+  "work_format": "Гибрид",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "CI/CD",
+    "Azure",
+    "Kafka",
+    "Kubernetes",
+    "Linux"
+  ],
+  "optional_skills": [
+    "Опыт построения internal platform",
+    "Опыт FinOps"
+  ],
+  "tasks": [
+    "Наблюдаемость и мониторинг",
+    "Работа с контейнерной платформой",
+    "Автоматизация инфраструктуры",
+    "Поддержка CI/CD пайплайнов"
+  ],
+  "raw_text": "Вакансия: Senior DevOps Engineer\nКомпания: ProductWave\nФормат работы: Гибрид\nЗанятость: Контракт\nОпыт работы: от 8 лет\nДомен: edtech\n\nВаши задачи:\n— Наблюдаемость и мониторинг\n— Работа с контейнерной платформой\n— Автоматизация инфраструктуры\n— Поддержка CI/CD пайплайнов\n\nНаши ожидания:\n— CI/CD\n— Azure\n— Kafka\n— Kubernetes\n— Linux\n\nБудет плюсом:\n— Опыт построения internal platform\n— Опыт FinOps"
+}

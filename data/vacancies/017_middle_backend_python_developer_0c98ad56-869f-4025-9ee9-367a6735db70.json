@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "0c98ad56-869f-4025-9ee9-367a6735db70",
+  "title": "Middle Backend Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "FinMatrix",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "RabbitMQ",
+    "ClickHouse",
+    "asyncio",
+    "Pytest",
+    "AWS",
+    "MongoDB",
+    "Flask"
+  ],
+  "optional_skills": [
+    "Понимание frontend-части",
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик",
+    "Менторство middle-разработчиков",
+    "Оптимизация производительности и рефакторинг legacy-модулей"
+  ],
+  "raw_text": "Вакансия: Middle Backend Python Developer\nКомпания: FinMatrix\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: ecommerce\n\nВаши задачи:\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n— Менторство middle-разработчиков\n— Оптимизация производительности и рефакторинг legacy-модулей\n\nНаши ожидания:\n— RabbitMQ\n— ClickHouse\n— asyncio\n— Pytest\n— AWS\n— MongoDB\n— Flask\n\nБудет плюсом:\n— Понимание frontend-части\n— Опыт работы с ClickHouse"
+}

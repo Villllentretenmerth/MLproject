@@ -1,0 +1,10 @@
+resume_id: 60f00719-8a39-4d7e-923b-b195eec33c0f
+candidate: Иван Петров
+
+DevOps Engineer (Lead)
+Желаемая должность: DevOps Engineer
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 10 лет.
+Ключевые навыки: Terraform, PostgreSQL, Kafka, CI/CD, Kubernetes, AWS, Docker, Azure.
+Домен: fintech.
+О себе: Внимателен к качеству решений. Ответственно подхожу к срокам и качеству. Быстро погружаюсь в новую предметную область.

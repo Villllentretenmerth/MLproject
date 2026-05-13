@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "1214a94c-2b6f-4f79-8bf7-c5b2fe5885c8",
+  "title": "Senior Java Developer",
+  "track": "java_backend",
+  "seniority": "Senior",
+  "min_years_experience": 7,
+  "company": "QuantumApps",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "JUnit",
+    "Hibernate",
+    "Java",
+    "Spring Boot"
+  ],
+  "optional_skills": [
+    "Знание DDD",
+    "Опыт performance tuning JVM",
+    "Опыт миграции monolith to microservices"
+  ],
+  "tasks": [
+    "Интеграция через брокеры сообщений",
+    "Покрытие кода тестами",
+    "Оптимизация существующего Java-кода",
+    "Проектирование сервисной архитектуры"
+  ],
+  "raw_text": "Вакансия: Senior Java Developer\nКомпания: QuantumApps\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 7 лет\nДомен: fintech\n\nВаши задачи:\n— Интеграция через брокеры сообщений\n— Покрытие кода тестами\n— Оптимизация существующего Java-кода\n— Проектирование сервисной архитектуры\n\nНаши ожидания:\n— JUnit\n— Hibernate\n— Java\n— Spring Boot\n\nБудет плюсом:\n— Знание DDD\n— Опыт performance tuning JVM\n— Опыт миграции monolith to microservices"
+}

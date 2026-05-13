@@ -1,0 +1,29 @@
+{
+  "vacancy_id": "c7b08978-f65b-4ff9-96c9-dfe86f45a664",
+  "title": "Middle Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "NextLayer",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "ml_platform",
+  "required_skills": [
+    "asyncio",
+    "PostgreSQL",
+    "MongoDB",
+    "AWS",
+    "Kafka"
+  ],
+  "optional_skills": [
+    "Опыт работы с NoSQL",
+    "Open Source вклад"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Code Review и внедрение инженерных практик",
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Middle Python Developer\nКомпания: NextLayer\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: ml_platform\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Code Review и внедрение инженерных практик\n— Проектирование и разработка масштабируемых backend-сервисов\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— asyncio\n— PostgreSQL\n— MongoDB\n— AWS\n— Kafka\n\nБудет плюсом:\n— Опыт работы с NoSQL\n— Open Source вклад"
+}

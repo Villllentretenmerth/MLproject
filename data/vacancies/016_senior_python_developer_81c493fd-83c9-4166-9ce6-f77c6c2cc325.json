@@ -1,0 +1,27 @@
+{
+  "vacancy_id": "81c493fd-83c9-4166-9ce6-f77c6c2cc325",
+  "title": "Senior Python Developer",
+  "track": "python_backend",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "ProductWave",
+  "work_format": "Офис",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Kubernetes",
+    "asyncio",
+    "Docker",
+    "Redis"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse"
+  ],
+  "tasks": [
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков",
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик"
+  ],
+  "raw_text": "Вакансия: Senior Python Developer\nКомпания: ProductWave\nФормат работы: Офис\nЗанятость: Полная\nОпыт работы: от 5 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n\nНаши ожидания:\n— Kubernetes\n— asyncio\n— Docker\n— Redis\n\nБудет плюсом:\n— Опыт работы с ClickHouse"
+}

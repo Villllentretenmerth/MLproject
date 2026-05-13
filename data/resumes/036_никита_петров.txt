@@ -1,0 +1,10 @@
+resume_id: 26ea7208-6ca1-410a-912c-2707a2f9ed81
+candidate: Никита Петров
+
+Senior Python Developer (Middle)
+Желаемая должность: Senior Python Developer
+Образование: МГТУ им. Баумана, Информатика и системы управления
+Опыт работы: 4 лет.
+Ключевые навыки: RabbitMQ, Kafka, ClickHouse, FastAPI, CI/CD, asyncio, Flask.
+Домен: enterprise.
+О себе: Быстро погружаюсь в новую предметную область. Ответственно подхожу к срокам и качеству. Люблю работать в команде.

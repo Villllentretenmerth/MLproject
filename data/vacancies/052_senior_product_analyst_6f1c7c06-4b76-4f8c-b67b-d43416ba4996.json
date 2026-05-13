@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "6f1c7c06-4b76-4f8c-b67b-d43416ba4996",
+  "title": "Senior Product Analyst",
+  "track": "data_analytics",
+  "seniority": "Senior",
+  "min_years_experience": 5,
+  "company": "QuantumApps",
+  "work_format": "Удаленно",
+  "employment_type": "Контракт",
+  "domain": "edtech",
+  "required_skills": [
+    "Python",
+    "Statistics",
+    "Data Visualization",
+    "SQL",
+    "Tableau"
+  ],
+  "optional_skills": [
+    "Опыт работы в продуктовой аналитике"
+  ],
+  "tasks": [
+    "Анализ продуктовых метрик",
+    "Построение дашбордов",
+    "Подготовка аналитических отчетов",
+    "Сбор и очистка данных"
+  ],
+  "raw_text": "Вакансия: Senior Product Analyst\nКомпания: QuantumApps\nФормат работы: Удаленно\nЗанятость: Контракт\nОпыт работы: от 5 лет\nДомен: edtech\n\nВаши задачи:\n— Анализ продуктовых метрик\n— Построение дашбордов\n— Подготовка аналитических отчетов\n— Сбор и очистка данных\n\nНаши ожидания:\n— Python\n— Statistics\n— Data Visualization\n— SQL\n— Tableau\n\nБудет плюсом:\n— Опыт работы в продуктовой аналитике"
+}

@@ -1,0 +1,299 @@
+{
+  "global_skills": {
+    "soft": [
+      "коммуникация",
+      "командная работа",
+      "ответственность",
+      "самостоятельность",
+      "тайм-менеджмент",
+      "критическое мышление"
+    ],
+    "tools": [
+      "Git",
+      "Jira",
+      "Confluence",
+      "Notion",
+      "Miro",
+      "Slack"
+    ],
+    "langs": [
+      "English A2",
+      "English B1",
+      "English B2"
+    ]
+  },
+  "synonyms": {
+    "Python": [
+      "python",
+      "py"
+    ],
+    "FastAPI": [
+      "fastapi",
+      "Fast Api"
+    ],
+    "Django": [
+      "django"
+    ],
+    "REST": [
+      "rest",
+      "REST API",
+      "rest api"
+    ],
+    "SQL": [
+      "sql",
+      "SQL-запросы",
+      "T-SQL"
+    ],
+    "PostgreSQL": [
+      "Postgres",
+      "postgres",
+      "PSQL",
+      "pgsql"
+    ],
+    "MySQL": [
+      "mysql"
+    ],
+    "Redis": [
+      "redis"
+    ],
+    "Docker": [
+      "docker",
+      "контейнеризация",
+      "containers"
+    ],
+    "Kubernetes": [
+      "k8s",
+      "kubernetes"
+    ],
+    "Linux": [
+      "linux",
+      "ubuntu",
+      "debian"
+    ],
+    "CI/CD": [
+      "ci/cd",
+      "cicd",
+      "пайплайн",
+      "pipeline"
+    ],
+    "GitLab CI": [
+      "gitlab ci",
+      "GitlabCI"
+    ],
+    "RabbitMQ": [
+      "rabbitmq",
+      "очереди сообщений",
+      "message queue"
+    ],
+    "Kafka": [
+      "kafka"
+    ],
+    "Pandas": [
+      "pandas"
+    ],
+    "NumPy": [
+      "numpy"
+    ],
+    "Scikit-learn": [
+      "sklearn",
+      "scikit learn",
+      "scikit-learn"
+    ],
+    "Power BI": [
+      "powerbi",
+      "PowerBI"
+    ],
+    "Tableau": [
+      "tableau"
+    ],
+    "Excel": [
+      "ms excel",
+      "excel"
+    ],
+    "ETL": [
+      "etl",
+      "ELT",
+      "data pipeline"
+    ],
+    "Airflow": [
+      "airflow",
+      "Apache Airflow"
+    ],
+    "Testing": [
+      "тестирование",
+      "qa",
+      "quality assurance"
+    ],
+    "API testing": [
+      "postman",
+      "api testing",
+      "тестирование api"
+    ],
+    "PyTest": [
+      "pytest",
+      "py.test"
+    ],
+    "Selenium": [
+      "selenium",
+      "seleniun"
+    ],
+    "Playwright": [
+      "playwright"
+    ],
+    "Agile": [
+      "agile",
+      "scrum",
+      "kanban"
+    ],
+    "Figma": [
+      "figma"
+    ],
+    "User Research": [
+      "ux research",
+      "исследования пользователей",
+      "custdev",
+      "кастдев"
+    ],
+    "Wireframing": [
+      "вайрфреймы",
+      "wireframes"
+    ],
+    "Prototyping": [
+      "прототипирование",
+      "prototype",
+      "prototypes"
+    ],
+    "Design System": [
+      "дизайн-система",
+      "design system"
+    ],
+    "UI Design": [
+      "ui",
+      "ui design",
+      "интерфейсы"
+    ],
+    "UX Design": [
+      "ux",
+      "ux design",
+      "пользовательские сценарии"
+    ],
+    "Usability Testing": [
+      "usability",
+      "юзабилити тестирование",
+      "usability testing"
+    ],
+    "Accessibility": [
+      "a11y",
+      "accessibility",
+      "доступность"
+    ],
+    "Information Architecture": [
+      "ia",
+      "информационная архитектура"
+    ],
+    "Git": [
+      "git",
+      "Git"
+    ]
+  },
+  "roles": {
+    "Python Backend": {
+      "must_have": [
+        "Python",
+        "REST",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Linux"
+      ],
+      "nice_to_have": [
+        "FastAPI",
+        "Django",
+        "Redis",
+        "CI/CD",
+        "GitLab CI",
+        "RabbitMQ",
+        "Kafka",
+        "Kubernetes"
+      ]
+    },
+    "Data Analyst": {
+      "must_have": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Python",
+        "Pandas"
+      ],
+      "nice_to_have": [
+        "Tableau",
+        "ETL",
+        "Airflow",
+        "NumPy",
+        "Scikit-learn"
+      ]
+    },
+    "QA Engineer": {
+      "must_have": [
+        "Testing",
+        "API testing",
+        "SQL",
+        "Git"
+      ],
+      "nice_to_have": [
+        "PyTest",
+        "Selenium",
+        "Playwright",
+        "CI/CD",
+        "Linux"
+      ]
+    },
+    "DevOps": {
+      "must_have": [
+        "Linux",
+        "Docker",
+        "CI/CD",
+        "GitLab CI",
+        "Kubernetes"
+      ],
+      "nice_to_have": [
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana",
+        "Helm"
+      ]
+    },
+    "Project Manager": {
+      "must_have": [
+        "Agile",
+        "Jira",
+        "коммуникация",
+        "тайм-менеджмент"
+      ],
+      "nice_to_have": [
+        "Confluence",
+        "управление рисками",
+        "фасилитация",
+        "продуктовое мышление",
+        "stakeholder management"
+      ]
+    },
+    "UX/UI Designer": {
+      "must_have": [
+        "Figma",
+        "UX Design",
+        "UI Design",
+        "Wireframing",
+        "Prototyping"
+      ],
+      "nice_to_have": [
+        "User Research",
+        "Usability Testing",
+        "Design System",
+        "Accessibility",
+        "Information Architecture"
+      ]
+    }
+  }
+}

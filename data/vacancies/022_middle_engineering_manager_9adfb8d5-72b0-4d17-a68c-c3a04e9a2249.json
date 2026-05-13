@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "9adfb8d5-72b0-4d17-a68c-c3a04e9a2249",
+  "title": "Middle Engineering Manager",
+  "track": "management",
+  "seniority": "Middle",
+  "min_years_experience": 4,
+  "company": "CloudCore",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "b2b_saas",
+  "required_skills": [
+    "Team Leadership",
+    "Risk Management",
+    "Kanban",
+    "Agile"
+  ],
+  "optional_skills": [
+    "Управление распределенными командами",
+    "Технический бэкграунд"
+  ],
+  "tasks": [
+    "Коммуникация со стейкхолдерами",
+    "Планирование roadmap",
+    "Управление рисками и сроками",
+    "Координация нескольких команд"
+  ],
+  "raw_text": "Вакансия: Middle Engineering Manager\nКомпания: CloudCore\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 4 лет\nДомен: b2b_saas\n\nВаши задачи:\n— Коммуникация со стейкхолдерами\n— Планирование roadmap\n— Управление рисками и сроками\n— Координация нескольких команд\n\nНаши ожидания:\n— Team Leadership\n— Risk Management\n— Kanban\n— Agile\n\nБудет плюсом:\n— Управление распределенными командами\n— Технический бэкграунд"
+}

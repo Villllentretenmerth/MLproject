@@ -1,0 +1,31 @@
+{
+  "vacancy_id": "0c159709-25f2-48e8-9361-3725162ae315",
+  "title": "Middle Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "NextLayer",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "fintech",
+  "required_skills": [
+    "Django",
+    "CI/CD",
+    "Flask",
+    "Python",
+    "PostgreSQL",
+    "FastAPI",
+    "Kubernetes"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Опыт работы с NoSQL"
+  ],
+  "tasks": [
+    "Проектирование и разработка масштабируемых backend-сервисов",
+    "Разработка и поддержка API",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Менторство middle-разработчиков"
+  ],
+  "raw_text": "Вакансия: Middle Lead Python Developer\nКомпания: NextLayer\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: fintech\n\nВаши задачи:\n— Проектирование и разработка масштабируемых backend-сервисов\n— Разработка и поддержка API\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Менторство middle-разработчиков\n\nНаши ожидания:\n— Django\n— CI/CD\n— Flask\n— Python\n— PostgreSQL\n— FastAPI\n— Kubernetes\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Опыт работы с NoSQL"
+}

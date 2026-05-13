@@ -1,0 +1,10 @@
+resume_id: 759ac6bb-dfa0-47ee-a8b3-abed07d0e256
+candidate: Ольга Иванов
+
+IT Project Manager (Middle)
+Желаемая должность: IT Project Manager
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 3 лет.
+Ключевые навыки: Risk Management, Jira, Stakeholder Management, Kanban, Budgeting, Roadmap Planning, Team Leadership.
+Домен: ecommerce.
+О себе: Ориентируюсь на бизнес-результат. Быстро погружаюсь в новую предметную область. Сильный технический кругозор.

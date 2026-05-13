@@ -1,0 +1,10 @@
+resume_id: 8e19b4aa-15ca-48ad-9769-e1113f35985d
+candidate: Елена Морозова
+
+Engineering Manager (Junior)
+Желаемая должность: Engineering Manager
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 1 лет.
+Ключевые навыки: Agile, Budgeting, Risk Management, Roadmap Planning.
+Домен: b2b_saas.
+О себе: Сильный технический кругозор. Внимателен к качеству решений. Люблю работать в команде.

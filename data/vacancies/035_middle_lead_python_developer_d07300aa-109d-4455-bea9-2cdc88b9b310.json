@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "d07300aa-109d-4455-bea9-2cdc88b9b310",
+  "title": "Middle Lead Python Developer",
+  "track": "python_backend",
+  "seniority": "Middle",
+  "min_years_experience": 2,
+  "company": "TechNova",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "edtech",
+  "required_skills": [
+    "MongoDB",
+    "ClickHouse",
+    "asyncio",
+    "Kafka",
+    "Python",
+    "FastAPI"
+  ],
+  "optional_skills": [
+    "Опыт работы с ClickHouse",
+    "Понимание frontend-части"
+  ],
+  "tasks": [
+    "Разработка и поддержка API",
+    "Code Review и внедрение инженерных практик",
+    "Оптимизация производительности и рефакторинг legacy-модулей",
+    "Проектирование и разработка масштабируемых backend-сервисов"
+  ],
+  "raw_text": "Вакансия: Middle Lead Python Developer\nКомпания: TechNova\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 2 лет\nДомен: edtech\n\nВаши задачи:\n— Разработка и поддержка API\n— Code Review и внедрение инженерных практик\n— Оптимизация производительности и рефакторинг legacy-модулей\n— Проектирование и разработка масштабируемых backend-сервисов\n\nНаши ожидания:\n— MongoDB\n— ClickHouse\n— asyncio\n— Kafka\n— Python\n— FastAPI\n\nБудет плюсом:\n— Опыт работы с ClickHouse\n— Понимание frontend-части"
+}

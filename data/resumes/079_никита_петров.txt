@@ -1,0 +1,10 @@
+resume_id: 4a0acc78-d34d-4c67-b780-356db9af7fa5
+candidate: Никита Петров
+
+IT Project Manager (Middle)
+Желаемая должность: IT Project Manager
+Образование: СПбГУ, Прикладная математика
+Опыт работы: 3 лет.
+Ключевые навыки: Team Leadership, Risk Management, Agile, Scrum, Kanban.
+Домен: ecommerce.
+О себе: Сильный технический кругозор. Внимателен к качеству решений. Ориентируюсь на бизнес-результат.

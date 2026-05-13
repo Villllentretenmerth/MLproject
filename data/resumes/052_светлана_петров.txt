@@ -1,0 +1,10 @@
+resume_id: 37517276-230f-40da-91a3-c7fecf7c592c
+candidate: Светлана Петров
+
+Python Developer (Middle)
+Желаемая должность: Python Developer
+Образование: ВШЭ, Бизнес-информатика
+Опыт работы: 4 лет.
+Ключевые навыки: RabbitMQ, Pytest, ClickHouse, Azure, asyncio, Docker, Redis.
+Домен: enterprise.
+О себе: Быстро погружаюсь в новую предметную область. Люблю работать в команде. Сильный технический кругозор.

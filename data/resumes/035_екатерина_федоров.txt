@@ -1,0 +1,10 @@
+resume_id: 3f92121c-2e6e-4b44-9483-29345b8282df
+candidate: Екатерина Федоров
+
+Platform Engineer (Middle)
+Желаемая должность: Platform Engineer
+Образование: НГУ, Механико-математический факультет
+Опыт работы: 2 лет.
+Ключевые навыки: Kafka, PostgreSQL, Azure, Linux, Terraform, AWS, Monitoring.
+Домен: edtech.
+О себе: Люблю работать в команде. Ориентируюсь на бизнес-результат. Внимателен к качеству решений.

@@ -1,0 +1,30 @@
+{
+  "vacancy_id": "vac_301",
+  "title": "QA Engineer (Manual + API)",
+  "track": "qa",
+  "seniority": "Middle",
+  "min_years_experience": 3,
+  "company": "DemoCompany",
+  "work_format": "Удаленно",
+  "employment_type": "Полная",
+  "domain": "qa",
+  "required_skills": [
+    "Testing",
+    "API testing",
+    "SQL",
+    "Git"
+  ],
+  "optional_skills": [
+    "PyTest",
+    "Playwright",
+    "CI/CD",
+    "Linux"
+  ],
+  "tasks": [
+    "Разработка и поддержка решений по направлению вакансии",
+    "Работа с ключевыми инструментами: Testing, API testing, SQL, Git",
+    "Функциональное/регрессионное тестирование, API testing (Postman), SQL-проверки. Плюсом pytest/playwright и CI/CD.",
+    "Взаимодействие с командой направления QA"
+  ],
+  "raw_text": "Вакансия: QA Engineer (Manual + API)\nКомпания: DemoCompany\nФормат работы: Удаленно\nЗанятость: Полная\nОпыт работы: от 3 лет\nДомен: qa\n\nВаши задачи:\n— Разработка и поддержка решений по направлению вакансии\n— Работа с ключевыми инструментами: Testing, API testing, SQL, Git\n— Функциональное/регрессионное тестирование, API testing (Postman), SQL-проверки. Плюсом pytest/playwright и CI/CD.\n— Взаимодействие с командой направления QA\n\nНаши ожидания:\n— Testing\n— API testing\n— SQL\n— Git\n\nБудет плюсом:\n— PyTest\n— Playwright\n— CI/CD\n— Linux"
+}

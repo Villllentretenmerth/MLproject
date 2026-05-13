@@ -1,0 +1,28 @@
+{
+  "vacancy_id": "a0b347e4-1d3e-4114-89b4-430de6f8796a",
+  "title": "Senior Python QA Engineer",
+  "track": "qa",
+  "seniority": "Senior",
+  "min_years_experience": 8,
+  "company": "NextLayer",
+  "work_format": "Гибрид",
+  "employment_type": "Полная",
+  "domain": "ecommerce",
+  "required_skills": [
+    "Jira",
+    "Selenium",
+    "Test Design",
+    "Postman",
+    "Manual testing"
+  ],
+  "optional_skills": [
+    "Опыт CI интеграции тестов"
+  ],
+  "tasks": [
+    "Заведение дефектов и контроль фиксов",
+    "Автоматизация тестирования",
+    "Регресс и smoke testing",
+    "Проверка API и интеграций"
+  ],
+  "raw_text": "Вакансия: Senior Python QA Engineer\nКомпания: NextLayer\nФормат работы: Гибрид\nЗанятость: Полная\nОпыт работы: от 8 лет\nДомен: ecommerce\n\nВаши задачи:\n— Заведение дефектов и контроль фиксов\n— Автоматизация тестирования\n— Регресс и smoke testing\n— Проверка API и интеграций\n\nНаши ожидания:\n— Jira\n— Selenium\n— Test Design\n— Postman\n— Manual testing\n\nБудет плюсом:\n— Опыт CI интеграции тестов"
+}
